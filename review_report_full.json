@@ -1,0 +1,1334 @@
+{
+  "template_phrases": [],
+  "vague_words": [],
+  "title_case_errors": [],
+  "repetitive_sentences": [],
+  "no_steps": [
+    [
+      0,
+      "The Ultimate Foundation Guide for Every Skin Type"
+    ],
+    [
+      1,
+      "Mastering Eyeshadow: Techniques for Stunning Eye Looks"
+    ],
+    [
+      2,
+      "Finding Your Perfect Lipstick Shade for Every Occasion"
+    ],
+    [
+      3,
+      "Contouring and Highlighting: Sculpt Your Face Like a Pro"
+    ],
+    [
+      4,
+      "The Complete Mascara Guide for Luscious Lashes"
+    ],
+    [
+      5,
+      "Eyebrow Perfection: Shaping and Filling Techniques"
+    ],
+    [
+      6,
+      "Why Makeup Primer Is Essential for Flawless Application"
+    ],
+    [
+      7,
+      "Bb Cream Vs Cc Cream: Choosing the Right Tinted Moisturizer"
+    ],
+    [
+      8,
+      "Setting Sprays: Lock in Your Makeup for All-day Wear"
+    ],
+    [
+      9,
+      "The Art of Blush: Adding Natural Color to Your Complexion"
+    ],
+    [
+      10,
+      "Eyeliner Mastery: from Classic to Creative Styles"
+    ],
+    [
+      11,
+      "Essential Makeup Brushes Every Beauty Lover Needs"
+    ],
+    [
+      12,
+      "Concealer Secrets: Perfect Coverage for Every Concern"
+    ],
+    [
+      13,
+      "Makeup Tips for Glasses Wearers: Frame Your Face Beautifully"
+    ],
+    [
+      14,
+      "The No-makeup Makeup Look: Effortless Beauty Techniques"
+    ],
+    [
+      15,
+      "Smokey Eye Mastery: Classic and Modern Techniques"
+    ],
+    [
+      16,
+      "Makeup Techniques for Mature Skin: Ageless Beauty Tips"
+    ],
+    [
+      17,
+      "The Importance of Proper Makeup Removal and Skin Health"
+    ],
+    [
+      18,
+      "Makeup Expiration Dates: When to Toss Your Beauty Products"
+    ],
+    [
+      19,
+      "Makeup for Acne-prone Skin: Coverage Without Breakouts"
+    ],
+    [
+      20,
+      "Makeup for Deep Skin Tones: Finding Your Perfect Match"
+    ],
+    [
+      21,
+      "Makeup for Fair Skin: Enhancing Porcelain Complexions"
+    ],
+    [
+      22,
+      "Makeup for Oily Skin: Long-lasting Shine Control"
+    ],
+    [
+      23,
+      "Makeup for Dry Skin: Hydrating Techniques and Products"
+    ],
+    [
+      24,
+      "Makeup for Sensitive Skin: Gentle Beauty Solutions"
+    ],
+    [
+      25,
+      "Age-appropriate Makeup for Teenagers"
+    ],
+    [
+      26,
+      "Bridal Makeup: Looking Flawless on Your Special Day"
+    ],
+    [
+      27,
+      "Camera-ready Makeup: Techniques for Photography and Video"
+    ],
+    [
+      28,
+      "Professional Makeup: Polished Looks for the Workplace"
+    ],
+    [
+      29,
+      "Understanding Your Skin Type: the First Step to Healthy Skin"
+    ],
+    [
+      30,
+      "The Complete Morning Skincare Routine for Glowing Skin"
+    ],
+    [
+      31,
+      "Nighttime Skincare: Repair and Renew While You Sleep"
+    ],
+    [
+      32,
+      "Vitamin C Serum: the Brightening Essential Your Skin Needs"
+    ],
+    [
+      33,
+      "Retinol Explained: How to Add This Anti-aging Powerhouse"
+    ],
+    [
+      34,
+      "Hyaluronic Acid: the Hydration Hero Your Skin Craves"
+    ],
+    [
+      35,
+      "Sunscreen 101: Why Daily Spf Is Non-negotiable"
+    ],
+    [
+      36,
+      "Exfoliation Guide: Chemical Vs Physical Methods"
+    ],
+    [
+      37,
+      "Acne-prone Skin: Effective Ingredients and Routines"
+    ],
+    [
+      38,
+      "Dry Skin Solutions: Hydration Strategies That Work"
+    ],
+    [
+      39,
+      "Anti-aging Skincare: Ingredients That Actually Work"
+    ],
+    [
+      40,
+      "The Double Cleansing Method: Why It Transforms Your Skin"
+    ],
+    [
+      41,
+      "Dealing with Large Pores: Causes and Solutions"
+    ],
+    [
+      42,
+      "Dark Spot Solutions: How to Fade Hyperpigmentation"
+    ],
+    [
+      43,
+      "Sensitive Skin Care: Building a Gentle Routine"
+    ],
+    [
+      44,
+      "The Skin Barrier: Why It's the Foundation of Healthy Skin"
+    ],
+    [
+      45,
+      "Niacinamide Benefits: the Multi-tasking Vitamin B3"
+    ],
+    [
+      46,
+      "Sheet Masks: Are They Worth the Hype?"
+    ],
+    [
+      47,
+      "Eye Cream Essentials: Targeting the Delicate Eye Area"
+    ],
+    [
+      48,
+      "Acne Scars: Treatment Options for Different Types"
+    ],
+    [
+      49,
+      "Rosacea Management: Skincare Tips and Treatments"
+    ],
+    [
+      50,
+      "Oily Skin Management: Balance Without Over-drying"
+    ],
+    [
+      51,
+      "Combination Skin Care: Managing Two Different Needs"
+    ],
+    [
+      52,
+      "Mature Skin Care: Adjusting Your Routine After 50"
+    ],
+    [
+      53,
+      "Eczema and Psoriasis: Skincare for Chronic Conditions"
+    ],
+    [
+      54,
+      "The Importance of Patch Testing New Products"
+    ],
+    [
+      55,
+      "Seasonal Skincare: Adjusting Your Routine Year-round"
+    ],
+    [
+      56,
+      "Body Skincare: Why Your Body Needs Attention Too"
+    ],
+    [
+      57,
+      "Men's Skincare: Building a Simple Effective Routine"
+    ],
+    [
+      58,
+      "Understanding Your Hair Type: a Complete Guide"
+    ],
+    [
+      59,
+      "The Perfect Shampoo and Conditioner for Your Hair"
+    ],
+    [
+      60,
+      "Heat Styling Without Damage: Safe Techniques"
+    ],
+    [
+      61,
+      "Trimming Your Hair at Home: Professional Tips"
+    ],
+    [
+      62,
+      "Deep Conditioning Treatments: When and How to Use"
+    ],
+    [
+      63,
+      "Oily Hair Solutions: Balancing Sebum Production"
+    ],
+    [
+      64,
+      "Dry and Damaged Hair: Recovery Strategies"
+    ],
+    [
+      65,
+      "Colored Hair Care: Maintaining Vibrant Color"
+    ],
+    [
+      66,
+      "Curly Hair Routine: Embrace Your Natural Texture"
+    ],
+    [
+      67,
+      "Blow Drying Techniques for Smooth, Professional Results"
+    ],
+    [
+      68,
+      "Braiding Styles: from Basic to Creative"
+    ],
+    [
+      69,
+      "Split End Solutions: Prevention and Treatment"
+    ],
+    [
+      70,
+      "Hair Masks: Deep Treatment for Every Hair Type"
+    ],
+    [
+      71,
+      "Scalp Health: the Foundation of Healthy Hair"
+    ],
+    [
+      72,
+      "The Best Hair Products for Fine Hair"
+    ],
+    [
+      73,
+      "Thick Hair Management: Taming Unruly Volume"
+    ],
+    [
+      74,
+      "Nail Anatomy: Understanding Your Nails Better"
+    ],
+    [
+      75,
+      "Gel Manicure Guide: Long-lasting Polish"
+    ],
+    [
+      76,
+      "Acrylic Nails: What to Know Before You Get Them"
+    ],
+    [
+      77,
+      "Nail Care Essentials: Building a Home Routine"
+    ],
+    [
+      78,
+      "Dealing with Brittle Nails: Causes and Fixes"
+    ],
+    [
+      79,
+      "Cuticle Care: What's Safe and What to Avoid"
+    ],
+    [
+      80,
+      "Nail Polish Application: Professional Techniques"
+    ],
+    [
+      81,
+      "French Manicure: the Classic Elegant Look"
+    ],
+    [
+      82,
+      "Nail Art for Beginners: Simple Designs at Home"
+    ],
+    [
+      83,
+      "Toenail Care: Keeping Feet Healthy and Beautiful"
+    ],
+    [
+      84,
+      "Strengthening Weak Nails: Products That Work"
+    ],
+    [
+      85,
+      "Removing Gel and Acrylic Nails Safely"
+    ],
+    [
+      86,
+      "Natural Nail Health: Growing Strong Nails"
+    ],
+    [
+      87,
+      "Understanding Fragrance Families: a Complete Guide"
+    ],
+    [
+      88,
+      "How to Apply Perfume: Techniques That Last Longer"
+    ],
+    [
+      89,
+      "Top Notes Vs Heart Notes Vs Base Notes Explained"
+    ],
+    [
+      90,
+      "How to Find Your Signature Scent"
+    ],
+    [
+      91,
+      "Layering Fragrances: Creating a Unique Scent"
+    ],
+    [
+      92,
+      "The History of Perfume: from Ancient Times to Today"
+    ],
+    [
+      93,
+      "Citrus Fragrances: Bright and Uplifting Scents"
+    ],
+    [
+      94,
+      "Floral Fragrances: Romantic and Feminine Scents"
+    ],
+    [
+      95,
+      "Woody Fragrances: Earthy and Warm Scents"
+    ],
+    [
+      96,
+      "Oriental Fragrances: Exotic and Sensual Scents"
+    ],
+    [
+      97,
+      "Fresh and Aquatic Fragrances: Clean and Crisp Scents"
+    ],
+    [
+      98,
+      "Gourmand Fragrances: Edible and Sweet Scents"
+    ],
+    [
+      99,
+      "Unisex Fragrances: Breaking Traditional Boundaries"
+    ],
+    [
+      100,
+      "Vintage Perfumes: Classic Fragrances That Endure"
+    ],
+    [
+      101,
+      "Niche Vs Designer Fragrances: What's the Difference?"
+    ],
+    [
+      102,
+      "How to Store Perfume: Preserving Your Collection"
+    ],
+    [
+      103,
+      "Natural Vs Synthetic Fragrances: What's the Truth?"
+    ],
+    [
+      104,
+      "Fragrance Concentration: Understanding Edt, Edp, and More"
+    ],
+    [
+      105,
+      "Seasonal Scents: Matching Fragrance to Weather"
+    ],
+    [
+      106,
+      "Celebrity Fragrances: Worth the Hype?"
+    ],
+    [
+      107,
+      "How to Build a Fragrance Wardrobe"
+    ],
+    [
+      108,
+      "Reading Fragrance Reviews: What to Trust"
+    ],
+    [
+      109,
+      "Phytochemicals in Perfumery: Key Ingredients"
+    ],
+    [
+      110,
+      "Scent Memory: Why Smell Triggers Emotions"
+    ],
+    [
+      111,
+      "Budget Vs Luxury Fragrances: Is Price Worth It?"
+    ],
+    [
+      112,
+      "Making Fragrances Last on Skin All Day"
+    ],
+    [
+      113,
+      "Fragrance Gift Sets: What to Buy and Why"
+    ],
+    [
+      114,
+      "Decanting Perfume: Sharing and Sampling Safely"
+    ],
+    [
+      115,
+      "Botox Basics: What You Need to Know Before Treatment"
+    ],
+    [
+      116,
+      "Dermal Fillers: Plumping and Restoring Volume"
+    ],
+    [
+      117,
+      "Chemical Peels: Resurface and Renew Your Skin"
+    ],
+    [
+      118,
+      "Laser Hair Removal: Permanent Reduction Explained"
+    ],
+    [
+      119,
+      "Microblading: Achieving Perfect Eyebrows"
+    ],
+    [
+      120,
+      "Coolsculpting: Freezing Away Fat Non-surgically"
+    ],
+    [
+      121,
+      "Microneedling: Collagen Induction Therapy"
+    ],
+    [
+      122,
+      "Ipl Photofacial: Treating Sun Damage and Redness"
+    ],
+    [
+      123,
+      "Laser Skin Resurfacing: Dramatic Rejuvenation"
+    ],
+    [
+      124,
+      "Breast Augmentation: Options and Considerations"
+    ],
+    [
+      125,
+      "Rhinoplasty: Reshaping the Nose"
+    ],
+    [
+      126,
+      "Liposuction: Sculpting Away Stubborn Fat"
+    ],
+    [
+      127,
+      "Tummy Tuck: Restoring Abdominal Contours"
+    ],
+    [
+      128,
+      "Facelift Surgery: Turning Back Time"
+    ],
+    [
+      129,
+      "Blepharoplasty: Eyelid Surgery for Fresh Eyes"
+    ],
+    [
+      130,
+      "Thread Lifts: Non-surgical Face Lifting"
+    ],
+    [
+      131,
+      "Dermaplaning: Exfoliation and Peach Fuzz Removal"
+    ],
+    [
+      132,
+      "Hydrafacial: the Celebrity-favorite Treatment"
+    ],
+    [
+      133,
+      "Prp for Skin: Vampire Facial Explained"
+    ],
+    [
+      134,
+      "Scar Revision: Minimizing Surgical and Injury Scars"
+    ],
+    [
+      135,
+      "Labiaplasty: Understanding Female Genital Surgery"
+    ],
+    [
+      136,
+      "Chin Augmentation: Enhancing Facial Balance"
+    ],
+    [
+      137,
+      "Ear Surgery: Otoplasty for Ear Reshaping"
+    ],
+    [
+      138,
+      "Breast Lift: Restoring Youthful Breast Position"
+    ],
+    [
+      139,
+      "Brazilian Butt Lift: Enhancing Curves Naturally"
+    ],
+    [
+      140,
+      "Arm Lift: Smoothing Upper Arm Skin"
+    ],
+    [
+      141,
+      "Thigh Lift: Sculpting and Tightening Thighs"
+    ],
+    [
+      142,
+      "Waterproof Makeup: Products That Survive Any Condition"
+    ],
+    [
+      143,
+      "Anti-aging Serums: Which Ones Actually Work"
+    ],
+    [
+      144,
+      "Nail Stamping: Professional Designs in Minutes"
+    ],
+    [
+      145,
+      "Musk in Perfumery: from Animalic to Clean"
+    ],
+    [
+      146,
+      "Patchouli: the Iconic Scent of the 60s"
+    ],
+    [
+      147,
+      "Earlobe Repair: Fixing Stretched or Torn Ears"
+    ],
+    [
+      148,
+      "Skin Tightening: Non-surgical Options That Work"
+    ],
+    [
+      149,
+      "Jawline Contouring: Surgical and Non-surgical Options"
+    ]
+  ],
+  "no_failure_cases": [
+    [
+      0,
+      "The Ultimate Foundation Guide for Every Skin Type"
+    ],
+    [
+      1,
+      "Mastering Eyeshadow: Techniques for Stunning Eye Looks"
+    ],
+    [
+      2,
+      "Finding Your Perfect Lipstick Shade for Every Occasion"
+    ],
+    [
+      4,
+      "The Complete Mascara Guide for Luscious Lashes"
+    ],
+    [
+      6,
+      "Why Makeup Primer Is Essential for Flawless Application"
+    ],
+    [
+      8,
+      "Setting Sprays: Lock in Your Makeup for All-day Wear"
+    ],
+    [
+      9,
+      "The Art of Blush: Adding Natural Color to Your Complexion"
+    ],
+    [
+      10,
+      "Eyeliner Mastery: from Classic to Creative Styles"
+    ],
+    [
+      12,
+      "Concealer Secrets: Perfect Coverage for Every Concern"
+    ],
+    [
+      14,
+      "The No-makeup Makeup Look: Effortless Beauty Techniques"
+    ],
+    [
+      15,
+      "Smokey Eye Mastery: Classic and Modern Techniques"
+    ],
+    [
+      17,
+      "The Importance of Proper Makeup Removal and Skin Health"
+    ],
+    [
+      18,
+      "Makeup Expiration Dates: When to Toss Your Beauty Products"
+    ],
+    [
+      20,
+      "Makeup for Deep Skin Tones: Finding Your Perfect Match"
+    ],
+    [
+      22,
+      "Makeup for Oily Skin: Long-lasting Shine Control"
+    ],
+    [
+      26,
+      "Bridal Makeup: Looking Flawless on Your Special Day"
+    ],
+    [
+      27,
+      "Camera-ready Makeup: Techniques for Photography and Video"
+    ],
+    [
+      31,
+      "Nighttime Skincare: Repair and Renew While You Sleep"
+    ],
+    [
+      32,
+      "Vitamin C Serum: the Brightening Essential Your Skin Needs"
+    ],
+    [
+      34,
+      "Hyaluronic Acid: the Hydration Hero Your Skin Craves"
+    ],
+    [
+      35,
+      "Sunscreen 101: Why Daily Spf Is Non-negotiable"
+    ],
+    [
+      38,
+      "Dry Skin Solutions: Hydration Strategies That Work"
+    ],
+    [
+      39,
+      "Anti-aging Skincare: Ingredients That Actually Work"
+    ],
+    [
+      40,
+      "The Double Cleansing Method: Why It Transforms Your Skin"
+    ],
+    [
+      42,
+      "Dark Spot Solutions: How to Fade Hyperpigmentation"
+    ],
+    [
+      45,
+      "Niacinamide Benefits: the Multi-tasking Vitamin B3"
+    ],
+    [
+      48,
+      "Acne Scars: Treatment Options for Different Types"
+    ],
+    [
+      51,
+      "Combination Skin Care: Managing Two Different Needs"
+    ],
+    [
+      52,
+      "Mature Skin Care: Adjusting Your Routine After 50"
+    ],
+    [
+      56,
+      "Body Skincare: Why Your Body Needs Attention Too"
+    ],
+    [
+      87,
+      "Understanding Fragrance Families: a Complete Guide"
+    ],
+    [
+      89,
+      "Top Notes Vs Heart Notes Vs Base Notes Explained"
+    ],
+    [
+      91,
+      "Layering Fragrances: Creating a Unique Scent"
+    ],
+    [
+      92,
+      "The History of Perfume: from Ancient Times to Today"
+    ],
+    [
+      93,
+      "Citrus Fragrances: Bright and Uplifting Scents"
+    ],
+    [
+      94,
+      "Floral Fragrances: Romantic and Feminine Scents"
+    ],
+    [
+      95,
+      "Woody Fragrances: Earthy and Warm Scents"
+    ],
+    [
+      96,
+      "Oriental Fragrances: Exotic and Sensual Scents"
+    ],
+    [
+      97,
+      "Fresh and Aquatic Fragrances: Clean and Crisp Scents"
+    ],
+    [
+      98,
+      "Gourmand Fragrances: Edible and Sweet Scents"
+    ],
+    [
+      101,
+      "Niche Vs Designer Fragrances: What's the Difference?"
+    ],
+    [
+      104,
+      "Fragrance Concentration: Understanding Edt, Edp, and More"
+    ],
+    [
+      105,
+      "Seasonal Scents: Matching Fragrance to Weather"
+    ],
+    [
+      106,
+      "Celebrity Fragrances: Worth the Hype?"
+    ],
+    [
+      107,
+      "How to Build a Fragrance Wardrobe"
+    ],
+    [
+      108,
+      "Reading Fragrance Reviews: What to Trust"
+    ],
+    [
+      109,
+      "Phytochemicals in Perfumery: Key Ingredients"
+    ],
+    [
+      111,
+      "Budget Vs Luxury Fragrances: Is Price Worth It?"
+    ],
+    [
+      113,
+      "Fragrance Gift Sets: What to Buy and Why"
+    ],
+    [
+      115,
+      "Botox Basics: What You Need to Know Before Treatment"
+    ],
+    [
+      116,
+      "Dermal Fillers: Plumping and Restoring Volume"
+    ],
+    [
+      120,
+      "Coolsculpting: Freezing Away Fat Non-surgically"
+    ],
+    [
+      121,
+      "Microneedling: Collagen Induction Therapy"
+    ],
+    [
+      126,
+      "Liposuction: Sculpting Away Stubborn Fat"
+    ],
+    [
+      127,
+      "Tummy Tuck: Restoring Abdominal Contours"
+    ],
+    [
+      129,
+      "Blepharoplasty: Eyelid Surgery for Fresh Eyes"
+    ],
+    [
+      131,
+      "Dermaplaning: Exfoliation and Peach Fuzz Removal"
+    ],
+    [
+      132,
+      "Hydrafacial: the Celebrity-favorite Treatment"
+    ],
+    [
+      133,
+      "Prp for Skin: Vampire Facial Explained"
+    ],
+    [
+      134,
+      "Scar Revision: Minimizing Surgical and Injury Scars"
+    ],
+    [
+      136,
+      "Chin Augmentation: Enhancing Facial Balance"
+    ],
+    [
+      140,
+      "Arm Lift: Smoothing Upper Arm Skin"
+    ],
+    [
+      141,
+      "Thigh Lift: Sculpting and Tightening Thighs"
+    ],
+    [
+      143,
+      "Anti-aging Serums: Which Ones Actually Work"
+    ],
+    [
+      145,
+      "Musk in Perfumery: from Animalic to Clean"
+    ],
+    [
+      146,
+      "Patchouli: the Iconic Scent of the 60s"
+    ],
+    [
+      147,
+      "Earlobe Repair: Fixing Stretched or Torn Ears"
+    ],
+    [
+      148,
+      "Skin Tightening: Non-surgical Options That Work"
+    ],
+    [
+      149,
+      "Jawline Contouring: Surgical and Non-surgical Options"
+    ]
+  ],
+  "no_real_experience": [
+    [
+      2,
+      "Finding Your Perfect Lipstick Shade for Every Occasion"
+    ],
+    [
+      3,
+      "Contouring and Highlighting: Sculpt Your Face Like a Pro"
+    ],
+    [
+      4,
+      "The Complete Mascara Guide for Luscious Lashes"
+    ],
+    [
+      5,
+      "Eyebrow Perfection: Shaping and Filling Techniques"
+    ],
+    [
+      6,
+      "Why Makeup Primer Is Essential for Flawless Application"
+    ],
+    [
+      7,
+      "Bb Cream Vs Cc Cream: Choosing the Right Tinted Moisturizer"
+    ],
+    [
+      8,
+      "Setting Sprays: Lock in Your Makeup for All-day Wear"
+    ],
+    [
+      9,
+      "The Art of Blush: Adding Natural Color to Your Complexion"
+    ],
+    [
+      10,
+      "Eyeliner Mastery: from Classic to Creative Styles"
+    ],
+    [
+      11,
+      "Essential Makeup Brushes Every Beauty Lover Needs"
+    ],
+    [
+      12,
+      "Concealer Secrets: Perfect Coverage for Every Concern"
+    ],
+    [
+      13,
+      "Makeup Tips for Glasses Wearers: Frame Your Face Beautifully"
+    ],
+    [
+      14,
+      "The No-makeup Makeup Look: Effortless Beauty Techniques"
+    ],
+    [
+      15,
+      "Smokey Eye Mastery: Classic and Modern Techniques"
+    ],
+    [
+      17,
+      "The Importance of Proper Makeup Removal and Skin Health"
+    ],
+    [
+      18,
+      "Makeup Expiration Dates: When to Toss Your Beauty Products"
+    ],
+    [
+      20,
+      "Makeup for Deep Skin Tones: Finding Your Perfect Match"
+    ],
+    [
+      22,
+      "Makeup for Oily Skin: Long-lasting Shine Control"
+    ],
+    [
+      25,
+      "Age-appropriate Makeup for Teenagers"
+    ],
+    [
+      26,
+      "Bridal Makeup: Looking Flawless on Your Special Day"
+    ],
+    [
+      27,
+      "Camera-ready Makeup: Techniques for Photography and Video"
+    ],
+    [
+      28,
+      "Professional Makeup: Polished Looks for the Workplace"
+    ],
+    [
+      30,
+      "The Complete Morning Skincare Routine for Glowing Skin"
+    ],
+    [
+      31,
+      "Nighttime Skincare: Repair and Renew While You Sleep"
+    ],
+    [
+      32,
+      "Vitamin C Serum: the Brightening Essential Your Skin Needs"
+    ],
+    [
+      33,
+      "Retinol Explained: How to Add This Anti-aging Powerhouse"
+    ],
+    [
+      34,
+      "Hyaluronic Acid: the Hydration Hero Your Skin Craves"
+    ],
+    [
+      35,
+      "Sunscreen 101: Why Daily Spf Is Non-negotiable"
+    ],
+    [
+      36,
+      "Exfoliation Guide: Chemical Vs Physical Methods"
+    ],
+    [
+      38,
+      "Dry Skin Solutions: Hydration Strategies That Work"
+    ],
+    [
+      39,
+      "Anti-aging Skincare: Ingredients That Actually Work"
+    ],
+    [
+      42,
+      "Dark Spot Solutions: How to Fade Hyperpigmentation"
+    ],
+    [
+      43,
+      "Sensitive Skin Care: Building a Gentle Routine"
+    ],
+    [
+      44,
+      "The Skin Barrier: Why It's the Foundation of Healthy Skin"
+    ],
+    [
+      45,
+      "Niacinamide Benefits: the Multi-tasking Vitamin B3"
+    ],
+    [
+      46,
+      "Sheet Masks: Are They Worth the Hype?"
+    ],
+    [
+      47,
+      "Eye Cream Essentials: Targeting the Delicate Eye Area"
+    ],
+    [
+      48,
+      "Acne Scars: Treatment Options for Different Types"
+    ],
+    [
+      50,
+      "Oily Skin Management: Balance Without Over-drying"
+    ],
+    [
+      51,
+      "Combination Skin Care: Managing Two Different Needs"
+    ],
+    [
+      52,
+      "Mature Skin Care: Adjusting Your Routine After 50"
+    ],
+    [
+      53,
+      "Eczema and Psoriasis: Skincare for Chronic Conditions"
+    ],
+    [
+      54,
+      "The Importance of Patch Testing New Products"
+    ],
+    [
+      55,
+      "Seasonal Skincare: Adjusting Your Routine Year-round"
+    ],
+    [
+      58,
+      "Understanding Your Hair Type: a Complete Guide"
+    ],
+    [
+      59,
+      "The Perfect Shampoo and Conditioner for Your Hair"
+    ],
+    [
+      60,
+      "Heat Styling Without Damage: Safe Techniques"
+    ],
+    [
+      61,
+      "Trimming Your Hair at Home: Professional Tips"
+    ],
+    [
+      62,
+      "Deep Conditioning Treatments: When and How to Use"
+    ],
+    [
+      63,
+      "Oily Hair Solutions: Balancing Sebum Production"
+    ],
+    [
+      65,
+      "Colored Hair Care: Maintaining Vibrant Color"
+    ],
+    [
+      66,
+      "Curly Hair Routine: Embrace Your Natural Texture"
+    ],
+    [
+      67,
+      "Blow Drying Techniques for Smooth, Professional Results"
+    ],
+    [
+      68,
+      "Braiding Styles: from Basic to Creative"
+    ],
+    [
+      71,
+      "Scalp Health: the Foundation of Healthy Hair"
+    ],
+    [
+      72,
+      "The Best Hair Products for Fine Hair"
+    ],
+    [
+      74,
+      "Nail Anatomy: Understanding Your Nails Better"
+    ],
+    [
+      75,
+      "Gel Manicure Guide: Long-lasting Polish"
+    ],
+    [
+      77,
+      "Nail Care Essentials: Building a Home Routine"
+    ],
+    [
+      78,
+      "Dealing with Brittle Nails: Causes and Fixes"
+    ],
+    [
+      79,
+      "Cuticle Care: What's Safe and What to Avoid"
+    ],
+    [
+      80,
+      "Nail Polish Application: Professional Techniques"
+    ],
+    [
+      81,
+      "French Manicure: the Classic Elegant Look"
+    ],
+    [
+      82,
+      "Nail Art for Beginners: Simple Designs at Home"
+    ],
+    [
+      83,
+      "Toenail Care: Keeping Feet Healthy and Beautiful"
+    ],
+    [
+      84,
+      "Strengthening Weak Nails: Products That Work"
+    ],
+    [
+      86,
+      "Natural Nail Health: Growing Strong Nails"
+    ],
+    [
+      87,
+      "Understanding Fragrance Families: a Complete Guide"
+    ],
+    [
+      88,
+      "How to Apply Perfume: Techniques That Last Longer"
+    ],
+    [
+      89,
+      "Top Notes Vs Heart Notes Vs Base Notes Explained"
+    ],
+    [
+      91,
+      "Layering Fragrances: Creating a Unique Scent"
+    ],
+    [
+      92,
+      "The History of Perfume: from Ancient Times to Today"
+    ],
+    [
+      93,
+      "Citrus Fragrances: Bright and Uplifting Scents"
+    ],
+    [
+      95,
+      "Woody Fragrances: Earthy and Warm Scents"
+    ],
+    [
+      96,
+      "Oriental Fragrances: Exotic and Sensual Scents"
+    ],
+    [
+      97,
+      "Fresh and Aquatic Fragrances: Clean and Crisp Scents"
+    ],
+    [
+      98,
+      "Gourmand Fragrances: Edible and Sweet Scents"
+    ],
+    [
+      100,
+      "Vintage Perfumes: Classic Fragrances That Endure"
+    ],
+    [
+      102,
+      "How to Store Perfume: Preserving Your Collection"
+    ],
+    [
+      103,
+      "Natural Vs Synthetic Fragrances: What's the Truth?"
+    ],
+    [
+      104,
+      "Fragrance Concentration: Understanding Edt, Edp, and More"
+    ],
+    [
+      105,
+      "Seasonal Scents: Matching Fragrance to Weather"
+    ],
+    [
+      108,
+      "Reading Fragrance Reviews: What to Trust"
+    ],
+    [
+      109,
+      "Phytochemicals in Perfumery: Key Ingredients"
+    ],
+    [
+      110,
+      "Scent Memory: Why Smell Triggers Emotions"
+    ],
+    [
+      112,
+      "Making Fragrances Last on Skin All Day"
+    ],
+    [
+      114,
+      "Decanting Perfume: Sharing and Sampling Safely"
+    ],
+    [
+      115,
+      "Botox Basics: What You Need to Know Before Treatment"
+    ],
+    [
+      116,
+      "Dermal Fillers: Plumping and Restoring Volume"
+    ],
+    [
+      117,
+      "Chemical Peels: Resurface and Renew Your Skin"
+    ],
+    [
+      118,
+      "Laser Hair Removal: Permanent Reduction Explained"
+    ],
+    [
+      119,
+      "Microblading: Achieving Perfect Eyebrows"
+    ],
+    [
+      120,
+      "Coolsculpting: Freezing Away Fat Non-surgically"
+    ],
+    [
+      122,
+      "Ipl Photofacial: Treating Sun Damage and Redness"
+    ],
+    [
+      123,
+      "Laser Skin Resurfacing: Dramatic Rejuvenation"
+    ],
+    [
+      124,
+      "Breast Augmentation: Options and Considerations"
+    ],
+    [
+      126,
+      "Liposuction: Sculpting Away Stubborn Fat"
+    ],
+    [
+      127,
+      "Tummy Tuck: Restoring Abdominal Contours"
+    ],
+    [
+      129,
+      "Blepharoplasty: Eyelid Surgery for Fresh Eyes"
+    ],
+    [
+      130,
+      "Thread Lifts: Non-surgical Face Lifting"
+    ],
+    [
+      131,
+      "Dermaplaning: Exfoliation and Peach Fuzz Removal"
+    ],
+    [
+      132,
+      "Hydrafacial: the Celebrity-favorite Treatment"
+    ],
+    [
+      135,
+      "Labiaplasty: Understanding Female Genital Surgery"
+    ],
+    [
+      136,
+      "Chin Augmentation: Enhancing Facial Balance"
+    ],
+    [
+      138,
+      "Breast Lift: Restoring Youthful Breast Position"
+    ],
+    [
+      139,
+      "Brazilian Butt Lift: Enhancing Curves Naturally"
+    ],
+    [
+      142,
+      "Waterproof Makeup: Products That Survive Any Condition"
+    ],
+    [
+      143,
+      "Anti-aging Serums: Which Ones Actually Work"
+    ],
+    [
+      144,
+      "Nail Stamping: Professional Designs in Minutes"
+    ],
+    [
+      147,
+      "Earlobe Repair: Fixing Stretched or Torn Ears"
+    ],
+    [
+      149,
+      "Jawline Contouring: Surgical and Non-surgical Options"
+    ]
+  ],
+  "image_duplicates": [],
+  "off_topic": []
+}

@@ -1,0 +1,3210 @@
+[
+  {
+    "index": 0,
+    "title": "The Ultimate Foundation Guide for Every Skin Type",
+    "category": "Makeup",
+    "issues": [
+      {
+        "type": "template_phrase",
+        "phrase": "the best",
+        "position": 158
+      },
+      {
+        "type": "keyword_missing",
+        "missing_keywords": [
+          "ultimate",
+          "guide",
+          "every"
+        ],
+        "severity": "high"
+      }
+    ],
+    "issue_count": 2,
+    "fixed_title": "The Ultimate Foundation Guide for Every Skin Type"
+  },
+  {
+    "index": 1,
+    "title": "Mastering Eyeshadow: Techniques for Stunning Eye Looks",
+    "category": "Makeup",
+    "issues": [
+      {
+        "type": "keyword_missing",
+        "missing_keywords": [
+          "mastering",
+          "techniques",
+          "stunning",
+          "looks"
+        ],
+        "severity": "high"
+      },
+      {
+        "type": "low_coverage",
+        "coverage": "20%",
+        "description": "标题关键词覆盖率低于50%"
+      },
+      {
+        "type": "image_alt_too_long",
+        "description": "图片alt文字过长(54字符)"
+      },
+      {
+        "type": "image_alt_too_long",
+        "description": "图片alt文字过长(54字符)"
+      }
+    ],
+    "issue_count": 4,
+    "fixed_title": "Mastering Eyeshadow: Techniques for Stunning Eye Looks"
+  },
+  {
+    "index": 2,
+    "title": "Finding Your Perfect Lipstick Shade for Every Occasion",
+    "category": "Makeup",
+    "issues": [
+      {
+        "type": "keyword_missing",
+        "missing_keywords": [
+          "every",
+          "occasion"
+        ],
+        "severity": "high"
+      },
+      {
+        "type": "image_alt_too_long",
+        "description": "图片alt文字过长(54字符)"
+      },
+      {
+        "type": "image_alt_too_long",
+        "description": "图片alt文字过长(54字符)"
+      }
+    ],
+    "issue_count": 3,
+    "fixed_title": "Finding Your Perfect Lipstick Shade for Every Occasion"
+  },
+  {
+    "index": 3,
+    "title": "Contouring and Highlighting: Sculpt Your Face Like a Pro",
+    "category": "Makeup",
+    "issues": [
+      {
+        "type": "forbidden_word",
+        "word": "enhance",
+        "position": 28
+      },
+      {
+        "type": "keyword_missing",
+        "missing_keywords": [
+          "sculpt"
+        ],
+        "severity": "medium"
+      },
+      {
+        "type": "image_alt_too_long",
+        "description": "图片alt文字过长(56字符)"
+      },
+      {
+        "type": "image_alt_too_long",
+        "description": "图片alt文字过长(56字符)"
+      }
+    ],
+    "issue_count": 4,
+    "fixed_title": "Contouring and Highlighting: Sculpt Your Face Like a Pro"
+  },
+  {
+    "index": 4,
+    "title": "The Complete Mascara Guide for Luscious Lashes",
+    "category": "Makeup",
+    "issues": [
+      {
+        "type": "forbidden_word",
+        "word": "transformative",
+        "position": 26
+      },
+      {
+        "type": "keyword_missing",
+        "missing_keywords": [
+          "complete",
+          "guide",
+          "luscious"
+        ],
+        "severity": "high"
+      },
+      {
+        "type": "low_coverage",
+        "coverage": "40%",
+        "description": "标题关键词覆盖率低于50%"
+      }
+    ],
+    "issue_count": 3,
+    "fixed_title": "The Complete Mascara Guide for Luscious Lashes"
+  },
+  {
+    "index": 5,
+    "title": "Eyebrow Perfection: Shaping and Filling Techniques",
+    "category": "Makeup",
+    "issues": [
+      {
+        "type": "keyword_missing",
+        "missing_keywords": [
+          "perfection",
+          "shaping",
+          "techniques"
+        ],
+        "severity": "high"
+      },
+      {
+        "type": "low_coverage",
+        "coverage": "40%",
+        "description": "标题关键词覆盖率低于50%"
+      }
+    ],
+    "issue_count": 2,
+    "fixed_title": "Eyebrow Perfection: Shaping and Filling Techniques"
+  },
+  {
+    "index": 6,
+    "title": "Why Makeup Primer Is Essential for Flawless Application",
+    "category": "Makeup",
+    "issues": [
+      {
+        "type": "keyword_missing",
+        "missing_keywords": [
+          "essential",
+          "flawless",
+          "application"
+        ],
+        "severity": "high"
+      },
+      {
+        "type": "low_coverage",
+        "coverage": "40%",
+        "description": "标题关键词覆盖率低于50%"
+      },
+      {
+        "type": "image_alt_too_long",
+        "description": "图片alt文字过长(55字符)"
+      },
+      {
+        "type": "image_alt_too_long",
+        "description": "图片alt文字过长(55字符)"
+      }
+    ],
+    "issue_count": 4,
+    "fixed_title": "Why Makeup Primer Is Essential for Flawless Application"
+  },
+  {
+    "index": 7,
+    "title": "Bb Cream vs Cc Cream: Choosing the Right Tinted Moisturizer",
+    "category": "Makeup",
+    "issues": [
+      {
+        "type": "forbidden_word",
+        "word": "enhance",
+        "position": 723
+      },
+      {
+        "type": "keyword_missing",
+        "missing_keywords": [
+          "choosing",
+          "right"
+        ],
+        "severity": "high"
+      },
+      {
+        "type": "image_alt_too_long",
+        "description": "图片alt文字过长(59字符)"
+      },
+      {
+        "type": "image_alt_too_long",
+        "description": "图片alt文字过长(59字符)"
+      }
+    ],
+    "issue_count": 4,
+    "fixed_title": "Bb Cream vs Cc Cream: Choosing the Right Tinted Moisturizer"
+  },
+  {
+    "index": 8,
+    "title": "Setting Sprays: Lock in Your Makeup for All-day Wear",
+    "category": "Makeup",
+    "issues": [
+      {
+        "type": "keyword_missing",
+        "missing_keywords": [
+          "wear"
+        ],
+        "severity": "medium"
+      },
+      {
+        "type": "image_alt_too_long",
+        "description": "图片alt文字过长(52字符)"
+      },
+      {
+        "type": "image_alt_too_long",
+        "description": "图片alt文字过长(52字符)"
+      }
+    ],
+    "issue_count": 3,
+    "fixed_title": "Setting Sprays: Lock in Your Makeup for All-day Wear"
+  },
+  {
+    "index": 9,
+    "title": "The Art of Blush: Adding Natural Color to Your Complexion",
+    "category": "Makeup",
+    "issues": [
+      {
+        "type": "forbidden_word",
+        "word": "enhance",
+        "position": 727
+      },
+      {
+        "type": "keyword_missing",
+        "missing_keywords": [
+          "adding",
+          "color",
+          "complexion"
+        ],
+        "severity": "high"
+      },
+      {
+        "type": "low_coverage",
+        "coverage": "40%",
+        "description": "标题关键词覆盖率低于50%"
+      },
+      {
+        "type": "image_alt_too_long",
+        "description": "图片alt文字过长(57字符)"
+      },
+      {
+        "type": "image_alt_too_long",
+        "description": "图片alt文字过长(57字符)"
+      }
+    ],
+    "issue_count": 5,
+    "fixed_title": "The Art of Blush: Adding Natural Color to Your Complexion"
+  },
+  {
+    "index": 10,
+    "title": "Eyeliner Mastery: from Classic to Creative Styles",
+    "category": "Makeup",
+    "issues": [
+      {
+        "type": "keyword_missing",
+        "missing_keywords": [
+          "mastery",
+          "from",
+          "creative",
+          "styles"
+        ],
+        "severity": "high"
+      },
+      {
+        "type": "low_coverage",
+        "coverage": "33%",
+        "description": "标题关键词覆盖率低于50%"
+      }
+    ],
+    "issue_count": 2,
+    "fixed_title": "Eyeliner Mastery: from Classic to Creative Styles"
+  },
+  {
+    "index": 11,
+    "title": "Essential Makeup Brushes Every Beauty Lover Needs",
+    "category": "Makeup",
+    "issues": [
+      {
+        "type": "template_phrase",
+        "phrase": "the best",
+        "position": 13
+      },
+      {
+        "type": "forbidden_word",
+        "word": "enhance",
+        "position": 651
+      },
+      {
+        "type": "forbidden_word",
+        "word": "seamless",
+        "position": 195
+      },
+      {
+        "type": "keyword_missing",
+        "missing_keywords": [
+          "essential",
+          "every",
+          "lover",
+          "needs"
+        ],
+        "severity": "high"
+      },
+      {
+        "type": "low_coverage",
+        "coverage": "43%",
+        "description": "标题关键词覆盖率低于50%"
+      }
+    ],
+    "issue_count": 5,
+    "fixed_title": "Essential Makeup Brushes Every Beauty Lover Needs"
+  },
+  {
+    "index": 12,
+    "title": "Concealer Secrets: Perfect Coverage for Every Concern",
+    "category": "Makeup",
+    "issues": [
+      {
+        "type": "keyword_missing",
+        "missing_keywords": [
+          "secrets",
+          "perfect",
+          "every",
+          "concern"
+        ],
+        "severity": "high"
+      },
+      {
+        "type": "low_coverage",
+        "coverage": "33%",
+        "description": "标题关键词覆盖率低于50%"
+      },
+      {
+        "type": "image_alt_too_long",
+        "description": "图片alt文字过长(53字符)"
+      },
+      {
+        "type": "image_alt_too_long",
+        "description": "图片alt文字过长(53字符)"
+      }
+    ],
+    "issue_count": 4,
+    "fixed_title": "Concealer Secrets: Perfect Coverage for Every Concern"
+  },
+  {
+    "index": 13,
+    "title": "Makeup Tips for Glasses Wearers: Frame Your Face Beautifully",
+    "category": "Makeup",
+    "issues": [
+      {
+        "type": "forbidden_word",
+        "word": "enhance",
+        "position": 687
+      },
+      {
+        "type": "keyword_missing",
+        "missing_keywords": [
+          "wearers",
+          "face",
+          "beautifully"
+        ],
+        "severity": "high"
+      },
+      {
+        "type": "image_alt_too_long",
+        "description": "图片alt文字过长(60字符)"
+      },
+      {
+        "type": "image_alt_too_long",
+        "description": "图片alt文字过长(60字符)"
+      }
+    ],
+    "issue_count": 4,
+    "fixed_title": "Makeup Tips for Glasses Wearers: Frame Your Face Beautifully"
+  },
+  {
+    "index": 14,
+    "title": "The No-makeup Makeup Look: Effortless Beauty Techniques",
+    "category": "Makeup",
+    "issues": [
+      {
+        "type": "keyword_missing",
+        "missing_keywords": [
+          "effortless",
+          "beauty",
+          "techniques"
+        ],
+        "severity": "high"
+      },
+      {
+        "type": "image_alt_too_long",
+        "description": "图片alt文字过长(55字符)"
+      },
+      {
+        "type": "image_alt_too_long",
+        "description": "图片alt文字过长(55字符)"
+      }
+    ],
+    "issue_count": 3,
+    "fixed_title": "The No-makeup Makeup Look: Effortless Beauty Techniques"
+  },
+  {
+    "index": 15,
+    "title": "Smokey Eye Mastery: Classic and Modern Techniques",
+    "category": "Makeup",
+    "issues": [
+      {
+        "type": "template_phrase",
+        "phrase": "the ultimate",
+        "position": 18
+      },
+      {
+        "type": "forbidden_word",
+        "word": "enhance",
+        "position": 737
+      },
+      {
+        "type": "keyword_missing",
+        "missing_keywords": [
+          "mastery",
+          "techniques"
+        ],
+        "severity": "high"
+      }
+    ],
+    "issue_count": 3,
+    "fixed_title": "Smokey Eye Mastery: Classic and Modern Techniques"
+  },
+  {
+    "index": 16,
+    "title": "Makeup Techniques for Mature Skin: Ageless Beauty Tips",
+    "category": "Makeup",
+    "issues": [
+      {
+        "type": "keyword_missing",
+        "missing_keywords": [
+          "mature",
+          "ageless",
+          "tips"
+        ],
+        "severity": "high"
+      },
+      {
+        "type": "image_alt_too_long",
+        "description": "图片alt文字过长(54字符)"
+      },
+      {
+        "type": "image_alt_too_long",
+        "description": "图片alt文字过长(54字符)"
+      }
+    ],
+    "issue_count": 3,
+    "fixed_title": "Makeup Techniques for Mature Skin: Ageless Beauty Tips"
+  },
+  {
+    "index": 17,
+    "title": "The Importance of Proper Makeup Removal and Skin Health",
+    "category": "Makeup",
+    "issues": [
+      {
+        "type": "keyword_missing",
+        "missing_keywords": [
+          "importance",
+          "health"
+        ],
+        "severity": "high"
+      },
+      {
+        "type": "image_alt_too_long",
+        "description": "图片alt文字过长(55字符)"
+      },
+      {
+        "type": "image_alt_too_long",
+        "description": "图片alt文字过长(55字符)"
+      }
+    ],
+    "issue_count": 3,
+    "fixed_title": "The Importance of Proper Makeup Removal and Skin Health"
+  },
+  {
+    "index": 18,
+    "title": "Makeup Expiration Dates: When to Toss Your Beauty Products",
+    "category": "Makeup",
+    "issues": [
+      {
+        "type": "keyword_missing",
+        "missing_keywords": [
+          "expiration",
+          "dates",
+          "when",
+          "toss",
+          "beauty"
+        ],
+        "severity": "high"
+      },
+      {
+        "type": "low_coverage",
+        "coverage": "29%",
+        "description": "标题关键词覆盖率低于50%"
+      },
+      {
+        "type": "image_alt_too_long",
+        "description": "图片alt文字过长(58字符)"
+      },
+      {
+        "type": "image_alt_too_long",
+        "description": "图片alt文字过长(58字符)"
+      }
+    ],
+    "issue_count": 4,
+    "fixed_title": "Makeup Expiration Dates: When to Toss Your Beauty Products"
+  },
+  {
+    "index": 19,
+    "title": "Makeup for Acne-prone Skin: Coverage Without Breakouts",
+    "category": "Makeup",
+    "issues": [
+      {
+        "type": "keyword_missing",
+        "missing_keywords": [
+          "without"
+        ],
+        "severity": "medium"
+      },
+      {
+        "type": "image_alt_too_long",
+        "description": "图片alt文字过长(54字符)"
+      },
+      {
+        "type": "image_alt_too_long",
+        "description": "图片alt文字过长(54字符)"
+      }
+    ],
+    "issue_count": 3,
+    "fixed_title": "Makeup for Acne-prone Skin: Coverage Without Breakouts"
+  },
+  {
+    "index": 20,
+    "title": "Makeup for Deep Skin Tones: Finding Your Perfect Match",
+    "category": "Makeup",
+    "issues": [
+      {
+        "type": "template_phrase",
+        "phrase": "The perfect",
+        "position": 346
+      },
+      {
+        "type": "forbidden_word",
+        "word": "enhance",
+        "position": 710
+      },
+      {
+        "type": "image_alt_too_long",
+        "description": "图片alt文字过长(54字符)"
+      },
+      {
+        "type": "image_alt_too_long",
+        "description": "图片alt文字过长(54字符)"
+      }
+    ],
+    "issue_count": 4,
+    "fixed_title": "Makeup for Deep Skin Tones: Finding Your Perfect Match"
+  },
+  {
+    "index": 21,
+    "title": "Makeup for Fair Skin: Enhancing Porcelain Complexions",
+    "category": "Makeup",
+    "issues": [
+      {
+        "type": "keyword_missing",
+        "missing_keywords": [
+          "enhancing",
+          "porcelain",
+          "complexions"
+        ],
+        "severity": "high"
+      },
+      {
+        "type": "image_alt_too_long",
+        "description": "图片alt文字过长(53字符)"
+      },
+      {
+        "type": "image_alt_too_long",
+        "description": "图片alt文字过长(53字符)"
+      }
+    ],
+    "issue_count": 3,
+    "fixed_title": "Makeup for Fair Skin: Enhancing Porcelain Complexions"
+  },
+  {
+    "index": 22,
+    "title": "Makeup for Oily Skin: Long-lasting Shine Control",
+    "category": "Makeup",
+    "issues": [
+      {
+        "type": "keyword_missing",
+        "missing_keywords": [
+          "makeup",
+          "lasting",
+          "shine"
+        ],
+        "severity": "high"
+      }
+    ],
+    "issue_count": 1,
+    "fixed_title": "Makeup for Oily Skin: Long-lasting Shine Control"
+  },
+  {
+    "index": 23,
+    "title": "Makeup for Dry Skin: Hydrating Techniques and Products",
+    "category": "Makeup",
+    "issues": [
+      {
+        "type": "forbidden_word",
+        "word": "enhance",
+        "position": 631
+      },
+      {
+        "type": "keyword_missing",
+        "missing_keywords": [
+          "techniques"
+        ],
+        "severity": "medium"
+      },
+      {
+        "type": "image_alt_too_long",
+        "description": "图片alt文字过长(54字符)"
+      },
+      {
+        "type": "image_alt_too_long",
+        "description": "图片alt文字过长(54字符)"
+      }
+    ],
+    "issue_count": 4,
+    "fixed_title": "Makeup for Dry Skin: Hydrating Techniques and Products"
+  },
+  {
+    "index": 24,
+    "title": "Makeup for Sensitive Skin: Gentle Beauty Solutions",
+    "category": "Makeup",
+    "issues": [
+      {
+        "type": "keyword_missing",
+        "missing_keywords": [
+          "beauty",
+          "solutions"
+        ],
+        "severity": "high"
+      }
+    ],
+    "issue_count": 1,
+    "fixed_title": "Makeup for Sensitive Skin: Gentle Beauty Solutions"
+  },
+  {
+    "index": 25,
+    "title": "Age-appropriate Makeup for Teenagers",
+    "category": "Makeup",
+    "issues": [
+      {
+        "type": "forbidden_word",
+        "word": "enhance",
+        "position": 588
+      },
+      {
+        "type": "keyword_missing",
+        "missing_keywords": [
+          "teenagers"
+        ],
+        "severity": "high"
+      }
+    ],
+    "issue_count": 2,
+    "fixed_title": "Age-appropriate Makeup for Teenagers"
+  },
+  {
+    "index": 26,
+    "title": "Bridal Makeup: Looking Flawless on Your Special Day",
+    "category": "Makeup",
+    "issues": [
+      {
+        "type": "keyword_missing",
+        "missing_keywords": [
+          "bridal",
+          "looking",
+          "special"
+        ],
+        "severity": "high"
+      },
+      {
+        "type": "low_coverage",
+        "coverage": "40%",
+        "description": "标题关键词覆盖率低于50%"
+      },
+      {
+        "type": "image_alt_too_long",
+        "description": "图片alt文字过长(51字符)"
+      },
+      {
+        "type": "image_alt_too_long",
+        "description": "图片alt文字过长(51字符)"
+      }
+    ],
+    "issue_count": 4,
+    "fixed_title": "Bridal Makeup: Looking Flawless on Your Special Day"
+  },
+  {
+    "index": 27,
+    "title": "Camera-ready Makeup: Techniques for Photography and Video",
+    "category": "Makeup",
+    "issues": [
+      {
+        "type": "keyword_missing",
+        "missing_keywords": [
+          "ready",
+          "techniques"
+        ],
+        "severity": "high"
+      },
+      {
+        "type": "image_alt_too_long",
+        "description": "图片alt文字过长(57字符)"
+      },
+      {
+        "type": "image_alt_too_long",
+        "description": "图片alt文字过长(57字符)"
+      }
+    ],
+    "issue_count": 3,
+    "fixed_title": "Camera-ready Makeup: Techniques for Photography and Video"
+  },
+  {
+    "index": 28,
+    "title": "Professional Makeup: Polished Looks for the Workplace",
+    "category": "Makeup",
+    "issues": [
+      {
+        "type": "forbidden_word",
+        "word": "enhance",
+        "position": 24
+      },
+      {
+        "type": "keyword_missing",
+        "missing_keywords": [
+          "looks"
+        ],
+        "severity": "medium"
+      },
+      {
+        "type": "image_alt_too_long",
+        "description": "图片alt文字过长(53字符)"
+      },
+      {
+        "type": "image_alt_too_long",
+        "description": "图片alt文字过长(53字符)"
+      }
+    ],
+    "issue_count": 4,
+    "fixed_title": "Professional Makeup: Polished Looks for the Workplace"
+  },
+  {
+    "index": 29,
+    "title": "Understanding Your Skin Type: the First Step to Healthy Skin",
+    "category": "Skin Care",
+    "issues": [
+      {
+        "type": "keyword_missing",
+        "missing_keywords": [
+          "understanding",
+          "first",
+          "step",
+          "healthy"
+        ],
+        "severity": "high"
+      },
+      {
+        "type": "low_coverage",
+        "coverage": "43%",
+        "description": "标题关键词覆盖率低于50%"
+      },
+      {
+        "type": "image_alt_too_long",
+        "description": "图片alt文字过长(60字符)"
+      },
+      {
+        "type": "image_alt_too_long",
+        "description": "图片alt文字过长(60字符)"
+      }
+    ],
+    "issue_count": 4,
+    "fixed_title": "Understanding Your Skin Type: the First Step to Healthy Skin"
+  },
+  {
+    "index": 30,
+    "title": "The Complete Morning Skincare Routine for Glowing Skin",
+    "category": "Skin Care",
+    "issues": [
+      {
+        "type": "keyword_missing",
+        "missing_keywords": [
+          "complete",
+          "skincare",
+          "glowing"
+        ],
+        "severity": "high"
+      },
+      {
+        "type": "image_alt_too_long",
+        "description": "图片alt文字过长(54字符)"
+      },
+      {
+        "type": "image_alt_too_long",
+        "description": "图片alt文字过长(54字符)"
+      }
+    ],
+    "issue_count": 3,
+    "fixed_title": "The Complete Morning Skincare Routine for Glowing Skin"
+  },
+  {
+    "index": 31,
+    "title": "Nighttime Skincare: Repair and Renew While You Sleep",
+    "category": "Skin Care",
+    "issues": [
+      {
+        "type": "keyword_missing",
+        "missing_keywords": [
+          "skincare",
+          "renew",
+          "while",
+          "sleep"
+        ],
+        "severity": "high"
+      },
+      {
+        "type": "low_coverage",
+        "coverage": "33%",
+        "description": "标题关键词覆盖率低于50%"
+      },
+      {
+        "type": "image_alt_too_long",
+        "description": "图片alt文字过长(52字符)"
+      },
+      {
+        "type": "image_alt_too_long",
+        "description": "图片alt文字过长(52字符)"
+      }
+    ],
+    "issue_count": 4,
+    "fixed_title": "Nighttime Skincare: Repair and Renew While You Sleep"
+  },
+  {
+    "index": 32,
+    "title": "Vitamin C Serum: the Brightening Essential Your Skin Needs",
+    "category": "Skin Care",
+    "issues": [
+      {
+        "type": "keyword_missing",
+        "missing_keywords": [
+          "serum",
+          "brightening",
+          "essential",
+          "needs"
+        ],
+        "severity": "high"
+      },
+      {
+        "type": "low_coverage",
+        "coverage": "33%",
+        "description": "标题关键词覆盖率低于50%"
+      },
+      {
+        "type": "image_alt_too_long",
+        "description": "图片alt文字过长(58字符)"
+      },
+      {
+        "type": "image_alt_too_long",
+        "description": "图片alt文字过长(58字符)"
+      }
+    ],
+    "issue_count": 4,
+    "fixed_title": "Vitamin C Serum: the Brightening Essential Your Skin Needs"
+  },
+  {
+    "index": 33,
+    "title": "Retinol Explained: How to Add This Anti-aging Powerhouse",
+    "category": "Skin Care",
+    "issues": [
+      {
+        "type": "template_phrase",
+        "phrase": "significantly",
+        "position": 728
+      },
+      {
+        "type": "keyword_missing",
+        "missing_keywords": [
+          "explained",
+          "anti",
+          "aging",
+          "powerhouse"
+        ],
+        "severity": "high"
+      },
+      {
+        "type": "low_coverage",
+        "coverage": "20%",
+        "description": "标题关键词覆盖率低于50%"
+      },
+      {
+        "type": "image_alt_too_long",
+        "description": "图片alt文字过长(56字符)"
+      },
+      {
+        "type": "image_alt_too_long",
+        "description": "图片alt文字过长(56字符)"
+      }
+    ],
+    "issue_count": 5,
+    "fixed_title": "Retinol Explained: How to Add This Anti-aging Powerhouse"
+  },
+  {
+    "index": 34,
+    "title": "Hyaluronic Acid: the Hydration Hero Your Skin Craves",
+    "category": "Skin Care",
+    "issues": [
+      {
+        "type": "keyword_missing",
+        "missing_keywords": [
+          "hero",
+          "craves"
+        ],
+        "severity": "high"
+      },
+      {
+        "type": "image_alt_too_long",
+        "description": "图片alt文字过长(52字符)"
+      },
+      {
+        "type": "image_alt_too_long",
+        "description": "图片alt文字过长(52字符)"
+      }
+    ],
+    "issue_count": 3,
+    "fixed_title": "Hyaluronic Acid: the Hydration Hero Your Skin Craves"
+  },
+  {
+    "index": 35,
+    "title": "Sunscreen 101: Why Daily Spf Is Non-negotiable",
+    "category": "Skin Care",
+    "issues": [
+      {
+        "type": "title_case",
+        "issue": "词 \"101:\" 应该大写",
+        "word": "101:"
+      },
+      {
+        "type": "keyword_missing",
+        "missing_keywords": [
+          "daily",
+          "negotiable"
+        ],
+        "severity": "high"
+      },
+      {
+        "type": "low_coverage",
+        "coverage": "33%",
+        "description": "标题关键词覆盖率低于50%"
+      }
+    ],
+    "issue_count": 3,
+    "fixed_title": "Sunscreen 101: Why Daily Spf Is Non-negotiable"
+  },
+  {
+    "index": 36,
+    "title": "Exfoliation Guide: Chemical vs Physical Methods",
+    "category": "Skin Care",
+    "issues": [
+      {
+        "type": "keyword_missing",
+        "missing_keywords": [
+          "guide",
+          "methods"
+        ],
+        "severity": "high"
+      }
+    ],
+    "issue_count": 1,
+    "fixed_title": "Exfoliation Guide: Chemical vs Physical Methods"
+  },
+  {
+    "index": 37,
+    "title": "Acne-prone Skin: Effective Ingredients and Routines",
+    "category": "Skin Care",
+    "issues": [
+      {
+        "type": "keyword_missing",
+        "missing_keywords": [
+          "prone",
+          "skin",
+          "ingredients",
+          "routines"
+        ],
+        "severity": "high"
+      },
+      {
+        "type": "low_coverage",
+        "coverage": "33%",
+        "description": "标题关键词覆盖率低于50%"
+      },
+      {
+        "type": "image_alt_too_long",
+        "description": "图片alt文字过长(51字符)"
+      },
+      {
+        "type": "image_alt_too_long",
+        "description": "图片alt文字过长(51字符)"
+      }
+    ],
+    "issue_count": 4,
+    "fixed_title": "Acne-prone Skin: Effective Ingredients and Routines"
+  },
+  {
+    "index": 38,
+    "title": "Dry Skin Solutions: Hydration Strategies That Work",
+    "category": "Skin Care",
+    "issues": [
+      {
+        "type": "keyword_missing",
+        "missing_keywords": [
+          "solutions",
+          "strategies"
+        ],
+        "severity": "high"
+      }
+    ],
+    "issue_count": 1,
+    "fixed_title": "Dry Skin Solutions: Hydration Strategies That Work"
+  },
+  {
+    "index": 39,
+    "title": "Anti-aging Skincare: Ingredients That Actually Work",
+    "category": "Skin Care",
+    "issues": [
+      {
+        "type": "keyword_missing",
+        "missing_keywords": [
+          "skincare",
+          "actually"
+        ],
+        "severity": "high"
+      },
+      {
+        "type": "image_alt_too_long",
+        "description": "图片alt文字过长(51字符)"
+      },
+      {
+        "type": "image_alt_too_long",
+        "description": "图片alt文字过长(51字符)"
+      }
+    ],
+    "issue_count": 3,
+    "fixed_title": "Anti-aging Skincare: Ingredients That Actually Work"
+  },
+  {
+    "index": 40,
+    "title": "The Double Cleansing Method: Why It Transforms Your Skin",
+    "category": "Skin Care",
+    "issues": [
+      {
+        "type": "keyword_missing",
+        "missing_keywords": [
+          "transforms"
+        ],
+        "severity": "medium"
+      },
+      {
+        "type": "image_alt_too_long",
+        "description": "图片alt文字过长(56字符)"
+      },
+      {
+        "type": "image_alt_too_long",
+        "description": "图片alt文字过长(56字符)"
+      }
+    ],
+    "issue_count": 3,
+    "fixed_title": "The Double Cleansing Method: Why It Transforms Your Skin"
+  },
+  {
+    "index": 41,
+    "title": "Dealing with Large Pores: Causes and Solutions",
+    "category": "Skin Care",
+    "issues": [
+      {
+        "type": "keyword_missing",
+        "missing_keywords": [
+          "dealing",
+          "causes",
+          "solutions"
+        ],
+        "severity": "high"
+      },
+      {
+        "type": "low_coverage",
+        "coverage": "40%",
+        "description": "标题关键词覆盖率低于50%"
+      }
+    ],
+    "issue_count": 2,
+    "fixed_title": "Dealing with Large Pores: Causes and Solutions"
+  },
+  {
+    "index": 42,
+    "title": "Dark Spot Solutions: How to Fade Hyperpigmentation",
+    "category": "Skin Care",
+    "issues": [
+      {
+        "type": "keyword_missing",
+        "missing_keywords": [
+          "solutions"
+        ],
+        "severity": "medium"
+      }
+    ],
+    "issue_count": 1,
+    "fixed_title": "Dark Spot Solutions: How to Fade Hyperpigmentation"
+  },
+  {
+    "index": 43,
+    "title": "Sensitive Skin Care: Building a Gentle Routine",
+    "category": "Skin Care",
+    "issues": [
+      {
+        "type": "keyword_missing",
+        "missing_keywords": [
+          "care",
+          "building",
+          "gentle"
+        ],
+        "severity": "high"
+      }
+    ],
+    "issue_count": 1,
+    "fixed_title": "Sensitive Skin Care: Building a Gentle Routine"
+  },
+  {
+    "index": 44,
+    "title": "The Skin Barrier: Why It's the Foundation of Healthy Skin",
+    "category": "Skin Care",
+    "issues": [
+      {
+        "type": "keyword_missing",
+        "missing_keywords": [
+          "foundation"
+        ],
+        "severity": "medium"
+      },
+      {
+        "type": "image_alt_too_long",
+        "description": "图片alt文字过长(57字符)"
+      },
+      {
+        "type": "image_alt_too_long",
+        "description": "图片alt文字过长(57字符)"
+      }
+    ],
+    "issue_count": 3,
+    "fixed_title": "The Skin Barrier: Why It's the Foundation of Healthy Skin"
+  },
+  {
+    "index": 45,
+    "title": "Niacinamide Benefits: the Multi-tasking Vitamin B3",
+    "category": "Skin Care",
+    "issues": [
+      {
+        "type": "keyword_missing",
+        "missing_keywords": [
+          "tasking"
+        ],
+        "severity": "medium"
+      }
+    ],
+    "issue_count": 1,
+    "fixed_title": "Niacinamide Benefits: the Multi-tasking Vitamin B3"
+  },
+  {
+    "index": 46,
+    "title": "Sheet Masks: Are They Worth the Hype?",
+    "category": "Skin Care",
+    "issues": [
+      {
+        "type": "keyword_missing",
+        "missing_keywords": [
+          "worth",
+          "hype"
+        ],
+        "severity": "high"
+      }
+    ],
+    "issue_count": 1,
+    "fixed_title": "Sheet Masks: Are They Worth the Hype?"
+  },
+  {
+    "index": 47,
+    "title": "Eye Cream Essentials: Targeting the Delicate Eye Area",
+    "category": "Skin Care",
+    "issues": [
+      {
+        "type": "keyword_missing",
+        "missing_keywords": [
+          "essentials",
+          "targeting",
+          "delicate"
+        ],
+        "severity": "high"
+      },
+      {
+        "type": "low_coverage",
+        "coverage": "40%",
+        "description": "标题关键词覆盖率低于50%"
+      },
+      {
+        "type": "image_alt_too_long",
+        "description": "图片alt文字过长(53字符)"
+      },
+      {
+        "type": "image_alt_too_long",
+        "description": "图片alt文字过长(53字符)"
+      }
+    ],
+    "issue_count": 4,
+    "fixed_title": "Eye Cream Essentials: Targeting the Delicate Eye Area"
+  },
+  {
+    "index": 48,
+    "title": "Acne Scars: Treatment Options for Different Types",
+    "category": "Skin Care",
+    "issues": [
+      {
+        "type": "keyword_missing",
+        "missing_keywords": [
+          "options",
+          "different",
+          "types"
+        ],
+        "severity": "high"
+      }
+    ],
+    "issue_count": 1,
+    "fixed_title": "Acne Scars: Treatment Options for Different Types"
+  },
+  {
+    "index": 49,
+    "title": "Rosacea Management: Skincare Tips and Treatments",
+    "category": "Skin Care",
+    "issues": [
+      {
+        "type": "keyword_missing",
+        "missing_keywords": [
+          "management",
+          "tips",
+          "treatments"
+        ],
+        "severity": "high"
+      },
+      {
+        "type": "low_coverage",
+        "coverage": "40%",
+        "description": "标题关键词覆盖率低于50%"
+      }
+    ],
+    "issue_count": 2,
+    "fixed_title": "Rosacea Management: Skincare Tips and Treatments"
+  },
+  {
+    "index": 50,
+    "title": "Oily Skin Management: Balance Without Over-drying",
+    "category": "Skin Care",
+    "issues": [
+      {
+        "type": "keyword_missing",
+        "missing_keywords": [
+          "management",
+          "balance",
+          "without",
+          "drying"
+        ],
+        "severity": "high"
+      },
+      {
+        "type": "low_coverage",
+        "coverage": "43%",
+        "description": "标题关键词覆盖率低于50%"
+      }
+    ],
+    "issue_count": 2,
+    "fixed_title": "Oily Skin Management: Balance Without Over-drying"
+  },
+  {
+    "index": 51,
+    "title": "Combination Skin Care: Managing Two Different Needs",
+    "category": "Skin Care",
+    "issues": [
+      {
+        "type": "keyword_missing",
+        "missing_keywords": [
+          "care",
+          "managing",
+          "different"
+        ],
+        "severity": "high"
+      },
+      {
+        "type": "image_alt_too_long",
+        "description": "图片alt文字过长(51字符)"
+      },
+      {
+        "type": "image_alt_too_long",
+        "description": "图片alt文字过长(51字符)"
+      }
+    ],
+    "issue_count": 3,
+    "fixed_title": "Combination Skin Care: Managing Two Different Needs"
+  },
+  {
+    "index": 52,
+    "title": "Mature Skin Care: Adjusting Your Routine After 50",
+    "category": "Skin Care",
+    "issues": [
+      {
+        "type": "template_phrase",
+        "phrase": "significantly",
+        "position": 13
+      },
+      {
+        "type": "title_case",
+        "issue": "首尾词 \"50\" 应该大写",
+        "word": "50"
+      },
+      {
+        "type": "keyword_missing",
+        "missing_keywords": [
+          "mature",
+          "care",
+          "adjusting",
+          "routine"
+        ],
+        "severity": "high"
+      },
+      {
+        "type": "low_coverage",
+        "coverage": "33%",
+        "description": "标题关键词覆盖率低于50%"
+      }
+    ],
+    "issue_count": 4,
+    "fixed_title": "Mature Skin Care: Adjusting Your Routine After 50"
+  },
+  {
+    "index": 53,
+    "title": "Eczema and Psoriasis: Skincare for Chronic Conditions",
+    "category": "Skin Care",
+    "issues": [
+      {
+        "type": "keyword_missing",
+        "missing_keywords": [
+          "skincare"
+        ],
+        "severity": "medium"
+      },
+      {
+        "type": "image_alt_too_long",
+        "description": "图片alt文字过长(53字符)"
+      },
+      {
+        "type": "image_alt_too_long",
+        "description": "图片alt文字过长(53字符)"
+      }
+    ],
+    "issue_count": 3,
+    "fixed_title": "Eczema and Psoriasis: Skincare for Chronic Conditions"
+  },
+  {
+    "index": 54,
+    "title": "The Importance of Patch Testing New Products",
+    "category": "Skin Care",
+    "issues": [
+      {
+        "type": "keyword_missing",
+        "missing_keywords": [
+          "importance"
+        ],
+        "severity": "medium"
+      }
+    ],
+    "issue_count": 1,
+    "fixed_title": "The Importance of Patch Testing New Products"
+  },
+  {
+    "index": 55,
+    "title": "Seasonal Skincare: Adjusting Your Routine Year-round",
+    "category": "Skin Care",
+    "issues": [
+      {
+        "type": "keyword_missing",
+        "missing_keywords": [
+          "seasonal",
+          "skincare",
+          "year",
+          "round"
+        ],
+        "severity": "high"
+      },
+      {
+        "type": "low_coverage",
+        "coverage": "33%",
+        "description": "标题关键词覆盖率低于50%"
+      },
+      {
+        "type": "image_alt_too_long",
+        "description": "图片alt文字过长(52字符)"
+      },
+      {
+        "type": "image_alt_too_long",
+        "description": "图片alt文字过长(52字符)"
+      }
+    ],
+    "issue_count": 4,
+    "fixed_title": "Seasonal Skincare: Adjusting Your Routine Year-round"
+  },
+  {
+    "index": 56,
+    "title": "Body Skincare: Why Your Body Needs Attention Too",
+    "category": "Skin Care",
+    "issues": [
+      {
+        "type": "keyword_missing",
+        "missing_keywords": [
+          "skincare"
+        ],
+        "severity": "medium"
+      }
+    ],
+    "issue_count": 1,
+    "fixed_title": "Body Skincare: Why Your Body Needs Attention Too"
+  },
+  {
+    "index": 57,
+    "title": "Men's Skincare: Building a Simple Effective Routine",
+    "category": "Skin Care",
+    "issues": [
+      {
+        "type": "keyword_missing",
+        "missing_keywords": [
+          "skincare",
+          "building",
+          "simple",
+          "effective"
+        ],
+        "severity": "high"
+      },
+      {
+        "type": "low_coverage",
+        "coverage": "20%",
+        "description": "标题关键词覆盖率低于50%"
+      },
+      {
+        "type": "image_alt_too_long",
+        "description": "图片alt文字过长(51字符)"
+      },
+      {
+        "type": "image_alt_too_long",
+        "description": "图片alt文字过长(51字符)"
+      }
+    ],
+    "issue_count": 4,
+    "fixed_title": "Men's Skincare: Building a Simple Effective Routine"
+  },
+  {
+    "index": 58,
+    "title": "Understanding Your Hair Type: a Complete Guide",
+    "category": "Hair & Nails",
+    "issues": [
+      {
+        "type": "keyword_missing",
+        "missing_keywords": [
+          "understanding",
+          "complete",
+          "guide"
+        ],
+        "severity": "high"
+      },
+      {
+        "type": "low_coverage",
+        "coverage": "40%",
+        "description": "标题关键词覆盖率低于50%"
+      }
+    ],
+    "issue_count": 2,
+    "fixed_title": "Understanding Your Hair Type: a Complete Guide"
+  },
+  {
+    "index": 59,
+    "title": "The Perfect Shampoo and Conditioner for Your Hair",
+    "category": "Hair & Nails",
+    "issues": [
+      {
+        "type": "generic_phrase",
+        "phrase": "Some people prefer",
+        "position": 697
+      },
+      {
+        "type": "keyword_missing",
+        "missing_keywords": [
+          "perfect"
+        ],
+        "severity": "medium"
+      }
+    ],
+    "issue_count": 2,
+    "fixed_title": "The Perfect Shampoo and Conditioner for Your Hair"
+  },
+  {
+    "index": 60,
+    "title": "Heat Styling Without Damage: Safe Techniques",
+    "category": "Hair & Nails",
+    "issues": [
+      {
+        "type": "keyword_missing",
+        "missing_keywords": [
+          "safe",
+          "techniques"
+        ],
+        "severity": "high"
+      }
+    ],
+    "issue_count": 1,
+    "fixed_title": "Heat Styling Without Damage: Safe Techniques"
+  },
+  {
+    "index": 61,
+    "title": "Trimming Your Hair at Home: Professional Tips",
+    "category": "Hair & Nails",
+    "issues": [
+      {
+        "type": "keyword_missing",
+        "missing_keywords": [
+          "home",
+          "tips"
+        ],
+        "severity": "high"
+      }
+    ],
+    "issue_count": 1,
+    "fixed_title": "Trimming Your Hair at Home: Professional Tips"
+  },
+  {
+    "index": 62,
+    "title": "Deep Conditioning Treatments: When and How to Use",
+    "category": "Hair & Nails",
+    "issues": [],
+    "issue_count": 0,
+    "fixed_title": "Deep Conditioning Treatments: When and How to Use"
+  },
+  {
+    "index": 63,
+    "title": "Oily Hair Solutions: Balancing Sebum Production",
+    "category": "Hair & Nails",
+    "issues": [
+      {
+        "type": "keyword_missing",
+        "missing_keywords": [
+          "solutions",
+          "balancing",
+          "sebum"
+        ],
+        "severity": "high"
+      }
+    ],
+    "issue_count": 1,
+    "fixed_title": "Oily Hair Solutions: Balancing Sebum Production"
+  },
+  {
+    "index": 64,
+    "title": "Dry and Damaged Hair: Recovery Strategies",
+    "category": "Hair & Nails",
+    "issues": [
+      {
+        "type": "keyword_missing",
+        "missing_keywords": [
+          "recovery",
+          "strategies"
+        ],
+        "severity": "high"
+      }
+    ],
+    "issue_count": 1,
+    "fixed_title": "Dry and Damaged Hair: Recovery Strategies"
+  },
+  {
+    "index": 65,
+    "title": "Colored Hair Care: Maintaining Vibrant Color",
+    "category": "Hair & Nails",
+    "issues": [
+      {
+        "type": "keyword_missing",
+        "missing_keywords": [
+          "maintaining",
+          "vibrant"
+        ],
+        "severity": "high"
+      }
+    ],
+    "issue_count": 1,
+    "fixed_title": "Colored Hair Care: Maintaining Vibrant Color"
+  },
+  {
+    "index": 66,
+    "title": "Curly Hair Routine: Embrace Your Natural Texture",
+    "category": "Hair & Nails",
+    "issues": [
+      {
+        "type": "keyword_missing",
+        "missing_keywords": [
+          "embrace",
+          "natural",
+          "texture"
+        ],
+        "severity": "high"
+      }
+    ],
+    "issue_count": 1,
+    "fixed_title": "Curly Hair Routine: Embrace Your Natural Texture"
+  },
+  {
+    "index": 67,
+    "title": "Blow Drying Techniques for Smooth, Professional Results",
+    "category": "Hair & Nails",
+    "issues": [
+      {
+        "type": "keyword_missing",
+        "missing_keywords": [
+          "techniques",
+          "professional"
+        ],
+        "severity": "high"
+      },
+      {
+        "type": "image_alt_too_long",
+        "description": "图片alt文字过长(55字符)"
+      },
+      {
+        "type": "image_alt_too_long",
+        "description": "图片alt文字过长(55字符)"
+      }
+    ],
+    "issue_count": 3,
+    "fixed_title": "Blow Drying Techniques for Smooth, Professional Results"
+  },
+  {
+    "index": 68,
+    "title": "Braiding Styles: from Basic to Creative",
+    "category": "Hair & Nails",
+    "issues": [
+      {
+        "type": "forbidden_word",
+        "word": "intricate",
+        "position": 387
+      },
+      {
+        "type": "keyword_missing",
+        "missing_keywords": [
+          "braiding",
+          "creative"
+        ],
+        "severity": "high"
+      }
+    ],
+    "issue_count": 2,
+    "fixed_title": "Braiding Styles: from Basic to Creative"
+  },
+  {
+    "index": 69,
+    "title": "Split End Solutions: Prevention and Treatment",
+    "category": "Hair & Nails",
+    "issues": [
+      {
+        "type": "keyword_missing",
+        "missing_keywords": [
+          "solutions",
+          "prevention",
+          "treatment"
+        ],
+        "severity": "high"
+      },
+      {
+        "type": "low_coverage",
+        "coverage": "25%",
+        "description": "标题关键词覆盖率低于50%"
+      }
+    ],
+    "issue_count": 2,
+    "fixed_title": "Split End Solutions: Prevention and Treatment"
+  },
+  {
+    "index": 70,
+    "title": "Hair Masks: Deep Treatment for Every Hair Type",
+    "category": "Hair & Nails",
+    "issues": [
+      {
+        "type": "keyword_missing",
+        "missing_keywords": [
+          "deep",
+          "every",
+          "type"
+        ],
+        "severity": "high"
+      }
+    ],
+    "issue_count": 1,
+    "fixed_title": "Hair Masks: Deep Treatment for Every Hair Type"
+  },
+  {
+    "index": 71,
+    "title": "Scalp Health: the Foundation of Healthy Hair",
+    "category": "Hair & Nails",
+    "issues": [
+      {
+        "type": "keyword_missing",
+        "missing_keywords": [
+          "foundation"
+        ],
+        "severity": "medium"
+      }
+    ],
+    "issue_count": 1,
+    "fixed_title": "Scalp Health: the Foundation of Healthy Hair"
+  },
+  {
+    "index": 72,
+    "title": "The Best Hair Products for Fine Hair",
+    "category": "Hair & Nails",
+    "issues": [
+      {
+        "type": "keyword_missing",
+        "missing_keywords": [
+          "best"
+        ],
+        "severity": "medium"
+      }
+    ],
+    "issue_count": 1,
+    "fixed_title": "The Best Hair Products for Fine Hair"
+  },
+  {
+    "index": 73,
+    "title": "Thick Hair Management: Taming Unruly Volume",
+    "category": "Hair & Nails",
+    "issues": [
+      {
+        "type": "keyword_missing",
+        "missing_keywords": [
+          "management",
+          "taming",
+          "unruly"
+        ],
+        "severity": "high"
+      }
+    ],
+    "issue_count": 1,
+    "fixed_title": "Thick Hair Management: Taming Unruly Volume"
+  },
+  {
+    "index": 74,
+    "title": "Nail Anatomy: Understanding Your Nails Better",
+    "category": "Hair & Nails",
+    "issues": [
+      {
+        "type": "forbidden_word",
+        "word": "anatomy",
+        "position": 19
+      },
+      {
+        "type": "keyword_missing",
+        "missing_keywords": [
+          "better"
+        ],
+        "severity": "medium"
+      }
+    ],
+    "issue_count": 2,
+    "fixed_title": "Nail Anatomy: Understanding Your Nails Better"
+  },
+  {
+    "index": 75,
+    "title": "Gel Manicure Guide: Long-lasting Polish",
+    "category": "Hair & Nails",
+    "issues": [
+      {
+        "type": "keyword_missing",
+        "missing_keywords": [
+          "guide",
+          "long",
+          "lasting"
+        ],
+        "severity": "high"
+      },
+      {
+        "type": "low_coverage",
+        "coverage": "40%",
+        "description": "标题关键词覆盖率低于50%"
+      }
+    ],
+    "issue_count": 2,
+    "fixed_title": "Gel Manicure Guide: Long-lasting Polish"
+  },
+  {
+    "index": 76,
+    "title": "Acrylic Nails: What to Know Before You Get Them",
+    "category": "Hair & Nails",
+    "issues": [
+      {
+        "type": "template_phrase",
+        "phrase": "significantly",
+        "position": 218
+      },
+      {
+        "type": "keyword_missing",
+        "missing_keywords": [
+          "know",
+          "before"
+        ],
+        "severity": "high"
+      }
+    ],
+    "issue_count": 2,
+    "fixed_title": "Acrylic Nails: What to Know Before You Get Them"
+  },
+  {
+    "index": 77,
+    "title": "Nail Care Essentials: Building a Home Routine",
+    "category": "Hair & Nails",
+    "issues": [
+      {
+        "type": "keyword_missing",
+        "missing_keywords": [
+          "essentials",
+          "building"
+        ],
+        "severity": "high"
+      }
+    ],
+    "issue_count": 1,
+    "fixed_title": "Nail Care Essentials: Building a Home Routine"
+  },
+  {
+    "index": 78,
+    "title": "Dealing with Brittle Nails: Causes and Fixes",
+    "category": "Hair & Nails",
+    "issues": [
+      {
+        "type": "keyword_missing",
+        "missing_keywords": [
+          "dealing",
+          "fixes"
+        ],
+        "severity": "high"
+      }
+    ],
+    "issue_count": 1,
+    "fixed_title": "Dealing with Brittle Nails: Causes and Fixes"
+  },
+  {
+    "index": 79,
+    "title": "Cuticle Care: What's Safe and What to Avoid",
+    "category": "Hair & Nails",
+    "issues": [],
+    "issue_count": 0,
+    "fixed_title": "Cuticle Care: What's Safe and What to Avoid"
+  },
+  {
+    "index": 80,
+    "title": "Nail Polish Application: Professional Techniques",
+    "category": "Hair & Nails",
+    "issues": [
+      {
+        "type": "keyword_missing",
+        "missing_keywords": [
+          "techniques"
+        ],
+        "severity": "medium"
+      }
+    ],
+    "issue_count": 1,
+    "fixed_title": "Nail Polish Application: Professional Techniques"
+  },
+  {
+    "index": 81,
+    "title": "French Manicure: the Classic Elegant Look",
+    "category": "Hair & Nails",
+    "issues": [
+      {
+        "type": "keyword_missing",
+        "missing_keywords": [
+          "elegant"
+        ],
+        "severity": "medium"
+      }
+    ],
+    "issue_count": 1,
+    "fixed_title": "French Manicure: the Classic Elegant Look"
+  },
+  {
+    "index": 82,
+    "title": "Nail Art for Beginners: Simple Designs at Home",
+    "category": "Hair & Nails",
+    "issues": [
+      {
+        "type": "keyword_missing",
+        "missing_keywords": [
+          "beginners",
+          "home"
+        ],
+        "severity": "high"
+      }
+    ],
+    "issue_count": 1,
+    "fixed_title": "Nail Art for Beginners: Simple Designs at Home"
+  },
+  {
+    "index": 83,
+    "title": "Toenail Care: Keeping Feet Healthy and Beautiful",
+    "category": "Hair & Nails",
+    "issues": [
+      {
+        "type": "keyword_missing",
+        "missing_keywords": [
+          "keeping",
+          "healthy",
+          "beautiful"
+        ],
+        "severity": "high"
+      }
+    ],
+    "issue_count": 1,
+    "fixed_title": "Toenail Care: Keeping Feet Healthy and Beautiful"
+  },
+  {
+    "index": 84,
+    "title": "Strengthening Weak Nails: Products That Work",
+    "category": "Hair & Nails",
+    "issues": [
+      {
+        "type": "keyword_missing",
+        "missing_keywords": [
+          "strengthening"
+        ],
+        "severity": "medium"
+      }
+    ],
+    "issue_count": 1,
+    "fixed_title": "Strengthening Weak Nails: Products That Work"
+  },
+  {
+    "index": 85,
+    "title": "Removing Gel and Acrylic Nails Safely",
+    "category": "Hair & Nails",
+    "issues": [
+      {
+        "type": "keyword_missing",
+        "missing_keywords": [
+          "removing",
+          "safely"
+        ],
+        "severity": "high"
+      }
+    ],
+    "issue_count": 1,
+    "fixed_title": "Removing Gel and Acrylic Nails Safely"
+  },
+  {
+    "index": 86,
+    "title": "Natural Nail Health: Growing Strong Nails",
+    "category": "Hair & Nails",
+    "issues": [
+      {
+        "type": "keyword_missing",
+        "missing_keywords": [
+          "health"
+        ],
+        "severity": "medium"
+      }
+    ],
+    "issue_count": 1,
+    "fixed_title": "Natural Nail Health: Growing Strong Nails"
+  },
+  {
+    "index": 87,
+    "title": "Understanding Fragrance Families: a Complete Guide",
+    "category": "Fragrances",
+    "issues": [
+      {
+        "type": "keyword_missing",
+        "missing_keywords": [
+          "complete",
+          "guide"
+        ],
+        "severity": "high"
+      }
+    ],
+    "issue_count": 1,
+    "fixed_title": "Understanding Fragrance Families: a Complete Guide"
+  },
+  {
+    "index": 88,
+    "title": "How to Apply Perfume: Techniques That Last Longer",
+    "category": "Fragrances",
+    "issues": [
+      {
+        "type": "keyword_missing",
+        "missing_keywords": [
+          "perfume",
+          "techniques"
+        ],
+        "severity": "high"
+      }
+    ],
+    "issue_count": 1,
+    "fixed_title": "How to Apply Perfume: Techniques That Last Longer"
+  },
+  {
+    "index": 89,
+    "title": "Top Notes vs Heart Notes vs Base Notes Explained",
+    "category": "Fragrances",
+    "issues": [
+      {
+        "type": "keyword_missing",
+        "missing_keywords": [
+          "explained"
+        ],
+        "severity": "medium"
+      }
+    ],
+    "issue_count": 1,
+    "fixed_title": "Top Notes vs Heart Notes vs Base Notes Explained"
+  },
+  {
+    "index": 90,
+    "title": "How to Find Your Signature Scent",
+    "category": "Fragrances",
+    "issues": [],
+    "issue_count": 0,
+    "fixed_title": "How to Find Your Signature Scent"
+  },
+  {
+    "index": 91,
+    "title": "Layering Fragrances: Creating a Unique Scent",
+    "category": "Fragrances",
+    "issues": [
+      {
+        "type": "forbidden_word",
+        "word": "enhance",
+        "position": 458
+      },
+      {
+        "type": "keyword_missing",
+        "missing_keywords": [
+          "creating"
+        ],
+        "severity": "medium"
+      }
+    ],
+    "issue_count": 2,
+    "fixed_title": "Layering Fragrances: Creating a Unique Scent"
+  },
+  {
+    "index": 92,
+    "title": "The History of Perfume: from Ancient Times to Today",
+    "category": "Fragrances",
+    "issues": [
+      {
+        "type": "keyword_missing",
+        "missing_keywords": [
+          "times",
+          "today"
+        ],
+        "severity": "high"
+      },
+      {
+        "type": "image_alt_too_long",
+        "description": "图片alt文字过长(51字符)"
+      },
+      {
+        "type": "image_alt_too_long",
+        "description": "图片alt文字过长(51字符)"
+      }
+    ],
+    "issue_count": 3,
+    "fixed_title": "The History of Perfume: from Ancient Times to Today"
+  },
+  {
+    "index": 93,
+    "title": "Citrus Fragrances: Bright and Uplifting Scents",
+    "category": "Fragrances",
+    "issues": [
+      {
+        "type": "keyword_missing",
+        "missing_keywords": [
+          "uplifting"
+        ],
+        "severity": "medium"
+      }
+    ],
+    "issue_count": 1,
+    "fixed_title": "Citrus Fragrances: Bright and Uplifting Scents"
+  },
+  {
+    "index": 94,
+    "title": "Floral Fragrances: Romantic and Feminine Scents",
+    "category": "Fragrances",
+    "issues": [
+      {
+        "type": "keyword_missing",
+        "missing_keywords": [
+          "feminine",
+          "scents"
+        ],
+        "severity": "high"
+      }
+    ],
+    "issue_count": 1,
+    "fixed_title": "Floral Fragrances: Romantic and Feminine Scents"
+  },
+  {
+    "index": 95,
+    "title": "Woody Fragrances: Earthy and Warm Scents",
+    "category": "Fragrances",
+    "issues": [
+      {
+        "type": "keyword_missing",
+        "missing_keywords": [
+          "scents"
+        ],
+        "severity": "medium"
+      }
+    ],
+    "issue_count": 1,
+    "fixed_title": "Woody Fragrances: Earthy and Warm Scents"
+  },
+  {
+    "index": 96,
+    "title": "Oriental Fragrances: Exotic and Sensual Scents",
+    "category": "Fragrances",
+    "issues": [
+      {
+        "type": "keyword_missing",
+        "missing_keywords": [
+          "scents"
+        ],
+        "severity": "medium"
+      }
+    ],
+    "issue_count": 1,
+    "fixed_title": "Oriental Fragrances: Exotic and Sensual Scents"
+  },
+  {
+    "index": 97,
+    "title": "Fresh and Aquatic Fragrances: Clean and Crisp Scents",
+    "category": "Fragrances",
+    "issues": [
+      {
+        "type": "image_alt_too_long",
+        "description": "图片alt文字过长(52字符)"
+      },
+      {
+        "type": "image_alt_too_long",
+        "description": "图片alt文字过长(52字符)"
+      }
+    ],
+    "issue_count": 2,
+    "fixed_title": "Fresh and Aquatic Fragrances: Clean and Crisp Scents"
+  },
+  {
+    "index": 98,
+    "title": "Gourmand Fragrances: Edible and Sweet Scents",
+    "category": "Fragrances",
+    "issues": [],
+    "issue_count": 0,
+    "fixed_title": "Gourmand Fragrances: Edible and Sweet Scents"
+  },
+  {
+    "index": 99,
+    "title": "Unisex Fragrances: Breaking Traditional Boundaries",
+    "category": "Fragrances",
+    "issues": [
+      {
+        "type": "forbidden_word",
+        "word": "transcend",
+        "position": 18
+      },
+      {
+        "type": "keyword_missing",
+        "missing_keywords": [
+          "breaking",
+          "traditional"
+        ],
+        "severity": "high"
+      }
+    ],
+    "issue_count": 2,
+    "fixed_title": "Unisex Fragrances: Breaking Traditional Boundaries"
+  },
+  {
+    "index": 100,
+    "title": "Vintage Perfumes: Classic Fragrances That Endure",
+    "category": "Fragrances",
+    "issues": [
+      {
+        "type": "keyword_missing",
+        "missing_keywords": [
+          "classic",
+          "endure"
+        ],
+        "severity": "high"
+      }
+    ],
+    "issue_count": 1,
+    "fixed_title": "Vintage Perfumes: Classic Fragrances That Endure"
+  },
+  {
+    "index": 101,
+    "title": "Niche vs Designer Fragrances: What's the Difference?",
+    "category": "Fragrances",
+    "issues": [
+      {
+        "type": "forbidden_word",
+        "word": "navigate",
+        "position": 92
+      },
+      {
+        "type": "image_alt_too_long",
+        "description": "图片alt文字过长(52字符)"
+      },
+      {
+        "type": "image_alt_too_long",
+        "description": "图片alt文字过长(52字符)"
+      }
+    ],
+    "issue_count": 3,
+    "fixed_title": "Niche vs Designer Fragrances: What's the Difference?"
+  },
+  {
+    "index": 102,
+    "title": "How to Store Perfume: Preserving Your Collection",
+    "category": "Fragrances",
+    "issues": [
+      {
+        "type": "template_phrase",
+        "phrase": "significantly",
+        "position": 36
+      },
+      {
+        "type": "keyword_missing",
+        "missing_keywords": [
+          "preserving",
+          "collection"
+        ],
+        "severity": "high"
+      }
+    ],
+    "issue_count": 2,
+    "fixed_title": "How to Store Perfume: Preserving Your Collection"
+  },
+  {
+    "index": 103,
+    "title": "Natural vs Synthetic Fragrances: What's the Truth?",
+    "category": "Fragrances",
+    "issues": [
+      {
+        "type": "keyword_missing",
+        "missing_keywords": [
+          "truth"
+        ],
+        "severity": "medium"
+      }
+    ],
+    "issue_count": 1,
+    "fixed_title": "Natural vs Synthetic Fragrances: What's the Truth?"
+  },
+  {
+    "index": 104,
+    "title": "Fragrance Concentration: Understanding Edt, Edp, and More",
+    "category": "Fragrances",
+    "issues": [
+      {
+        "type": "image_alt_too_long",
+        "description": "图片alt文字过长(57字符)"
+      },
+      {
+        "type": "image_alt_too_long",
+        "description": "图片alt文字过长(57字符)"
+      }
+    ],
+    "issue_count": 2,
+    "fixed_title": "Fragrance Concentration: Understanding Edt, Edp, and More"
+  },
+  {
+    "index": 105,
+    "title": "Seasonal Scents: Matching Fragrance to Weather",
+    "category": "Fragrances",
+    "issues": [
+      {
+        "type": "keyword_missing",
+        "missing_keywords": [
+          "seasonal",
+          "matching"
+        ],
+        "severity": "high"
+      }
+    ],
+    "issue_count": 1,
+    "fixed_title": "Seasonal Scents: Matching Fragrance to Weather"
+  },
+  {
+    "index": 106,
+    "title": "Celebrity Fragrances: Worth the Hype?",
+    "category": "Fragrances",
+    "issues": [
+      {
+        "type": "template_phrase",
+        "phrase": "significantly",
+        "position": 227
+      },
+      {
+        "type": "keyword_missing",
+        "missing_keywords": [
+          "worth",
+          "hype"
+        ],
+        "severity": "high"
+      }
+    ],
+    "issue_count": 2,
+    "fixed_title": "Celebrity Fragrances: Worth the Hype?"
+  },
+  {
+    "index": 107,
+    "title": "How to Build a Fragrance Wardrobe",
+    "category": "Fragrances",
+    "issues": [],
+    "issue_count": 0,
+    "fixed_title": "How to Build a Fragrance Wardrobe"
+  },
+  {
+    "index": 108,
+    "title": "Reading Fragrance Reviews: What to Trust",
+    "category": "Fragrances",
+    "issues": [
+      {
+        "type": "keyword_missing",
+        "missing_keywords": [
+          "reading"
+        ],
+        "severity": "medium"
+      }
+    ],
+    "issue_count": 1,
+    "fixed_title": "Reading Fragrance Reviews: What to Trust"
+  },
+  {
+    "index": 109,
+    "title": "Phytochemicals in Perfumery: Key Ingredients",
+    "category": "Fragrances",
+    "issues": [
+      {
+        "type": "keyword_missing",
+        "missing_keywords": [
+          "phytochemicals"
+        ],
+        "severity": "high"
+      }
+    ],
+    "issue_count": 1,
+    "fixed_title": "Phytochemicals in Perfumery: Key Ingredients"
+  },
+  {
+    "index": 110,
+    "title": "Scent Memory: Why Smell Triggers Emotions",
+    "category": "Fragrances",
+    "issues": [
+      {
+        "type": "keyword_missing",
+        "missing_keywords": [
+          "emotions"
+        ],
+        "severity": "medium"
+      }
+    ],
+    "issue_count": 1,
+    "fixed_title": "Scent Memory: Why Smell Triggers Emotions"
+  },
+  {
+    "index": 111,
+    "title": "Budget vs Luxury Fragrances: Is Price Worth It?",
+    "category": "Fragrances",
+    "issues": [
+      {
+        "type": "keyword_missing",
+        "missing_keywords": [
+          "budget",
+          "worth"
+        ],
+        "severity": "high"
+      }
+    ],
+    "issue_count": 1,
+    "fixed_title": "Budget vs Luxury Fragrances: Is Price Worth It?"
+  },
+  {
+    "index": 112,
+    "title": "Making Fragrances Last on Skin All Day",
+    "category": "Fragrances",
+    "issues": [
+      {
+        "type": "keyword_missing",
+        "missing_keywords": [
+          "making"
+        ],
+        "severity": "medium"
+      }
+    ],
+    "issue_count": 1,
+    "fixed_title": "Making Fragrances Last on Skin All Day"
+  },
+  {
+    "index": 113,
+    "title": "Fragrance Gift Sets: What to Buy and Why",
+    "category": "Fragrances",
+    "issues": [],
+    "issue_count": 0,
+    "fixed_title": "Fragrance Gift Sets: What to Buy and Why"
+  },
+  {
+    "index": 114,
+    "title": "Decanting Perfume: Sharing and Sampling Safely",
+    "category": "Fragrances",
+    "issues": [
+      {
+        "type": "keyword_missing",
+        "missing_keywords": [
+          "perfume",
+          "safely"
+        ],
+        "severity": "high"
+      }
+    ],
+    "issue_count": 1,
+    "fixed_title": "Decanting Perfume: Sharing and Sampling Safely"
+  },
+  {
+    "index": 115,
+    "title": "Botox Basics: What You Need to Know Before Treatment",
+    "category": "Cosmetic Procedures",
+    "issues": [
+      {
+        "type": "keyword_missing",
+        "missing_keywords": [
+          "basics",
+          "know",
+          "before"
+        ],
+        "severity": "high"
+      },
+      {
+        "type": "image_alt_too_long",
+        "description": "图片alt文字过长(52字符)"
+      },
+      {
+        "type": "image_alt_too_long",
+        "description": "图片alt文字过长(52字符)"
+      }
+    ],
+    "issue_count": 3,
+    "fixed_title": "Botox Basics: What You Need to Know Before Treatment"
+  },
+  {
+    "index": 116,
+    "title": "Dermal Fillers: Plumping and Restoring Volume",
+    "category": "Cosmetic Procedures",
+    "issues": [
+      {
+        "type": "forbidden_word",
+        "word": "enhance",
+        "position": 226
+      },
+      {
+        "type": "keyword_missing",
+        "missing_keywords": [
+          "plumping",
+          "restoring"
+        ],
+        "severity": "high"
+      }
+    ],
+    "issue_count": 2,
+    "fixed_title": "Dermal Fillers: Plumping and Restoring Volume"
+  },
+  {
+    "index": 117,
+    "title": "Chemical Peels: Resurface and Renew Your Skin",
+    "category": "Cosmetic Procedures",
+    "issues": [
+      {
+        "type": "keyword_missing",
+        "missing_keywords": [
+          "resurface",
+          "renew"
+        ],
+        "severity": "high"
+      }
+    ],
+    "issue_count": 1,
+    "fixed_title": "Chemical Peels: Resurface and Renew Your Skin"
+  },
+  {
+    "index": 118,
+    "title": "Laser Hair Removal: Permanent Reduction Explained",
+    "category": "Cosmetic Procedures",
+    "issues": [
+      {
+        "type": "template_phrase",
+        "phrase": "significantly",
+        "position": 55
+      },
+      {
+        "type": "keyword_missing",
+        "missing_keywords": [
+          "permanent",
+          "explained"
+        ],
+        "severity": "high"
+      }
+    ],
+    "issue_count": 2,
+    "fixed_title": "Laser Hair Removal: Permanent Reduction Explained"
+  },
+  {
+    "index": 119,
+    "title": "Microblading: Achieving Perfect Eyebrows",
+    "category": "Cosmetic Procedures",
+    "issues": [
+      {
+        "type": "keyword_missing",
+        "missing_keywords": [
+          "achieving",
+          "eyebrows"
+        ],
+        "severity": "high"
+      }
+    ],
+    "issue_count": 1,
+    "fixed_title": "Microblading: Achieving Perfect Eyebrows"
+  },
+  {
+    "index": 120,
+    "title": "Coolsculpting: Freezing Away Fat Non-surgically",
+    "category": "Cosmetic Procedures",
+    "issues": [
+      {
+        "type": "keyword_missing",
+        "missing_keywords": [
+          "freezing",
+          "away",
+          "surgically"
+        ],
+        "severity": "high"
+      },
+      {
+        "type": "low_coverage",
+        "coverage": "25%",
+        "description": "标题关键词覆盖率低于50%"
+      }
+    ],
+    "issue_count": 2,
+    "fixed_title": "Coolsculpting: Freezing Away Fat Non-surgically"
+  },
+  {
+    "index": 121,
+    "title": "Microneedling: Collagen Induction Therapy",
+    "category": "Cosmetic Procedures",
+    "issues": [
+      {
+        "type": "template_phrase",
+        "phrase": "significantly",
+        "position": 214
+      },
+      {
+        "type": "keyword_missing",
+        "missing_keywords": [
+          "induction",
+          "therapy"
+        ],
+        "severity": "high"
+      }
+    ],
+    "issue_count": 2,
+    "fixed_title": "Microneedling: Collagen Induction Therapy"
+  },
+  {
+    "index": 122,
+    "title": "Ipl Photofacial: Treating Sun Damage and Redness",
+    "category": "Cosmetic Procedures",
+    "issues": [
+      {
+        "type": "keyword_missing",
+        "missing_keywords": [
+          "photofacial",
+          "treating",
+          "damage"
+        ],
+        "severity": "high"
+      },
+      {
+        "type": "low_coverage",
+        "coverage": "25%",
+        "description": "标题关键词覆盖率低于50%"
+      }
+    ],
+    "issue_count": 2,
+    "fixed_title": "Ipl Photofacial: Treating Sun Damage and Redness"
+  },
+  {
+    "index": 123,
+    "title": "Laser Skin Resurfacing: Dramatic Rejuvenation",
+    "category": "Cosmetic Procedures",
+    "issues": [
+      {
+        "type": "template_phrase",
+        "phrase": "significantly",
+        "position": 426
+      },
+      {
+        "type": "keyword_missing",
+        "missing_keywords": [
+          "rejuvenation"
+        ],
+        "severity": "medium"
+      }
+    ],
+    "issue_count": 2,
+    "fixed_title": "Laser Skin Resurfacing: Dramatic Rejuvenation"
+  },
+  {
+    "index": 124,
+    "title": "Breast Augmentation: Options and Considerations",
+    "category": "Cosmetic Procedures",
+    "issues": [
+      {
+        "type": "forbidden_word",
+        "word": "anatomy",
+        "position": 868
+      },
+      {
+        "type": "keyword_missing",
+        "missing_keywords": [
+          "considerations"
+        ],
+        "severity": "medium"
+      }
+    ],
+    "issue_count": 2,
+    "fixed_title": "Breast Augmentation: Options and Considerations"
+  },
+  {
+    "index": 125,
+    "title": "Rhinoplasty: Reshaping the Nose",
+    "category": "Cosmetic Procedures",
+    "issues": [
+      {
+        "type": "keyword_missing",
+        "missing_keywords": [
+          "reshaping"
+        ],
+        "severity": "high"
+      }
+    ],
+    "issue_count": 1,
+    "fixed_title": "Rhinoplasty: Reshaping the Nose"
+  },
+  {
+    "index": 126,
+    "title": "Liposuction: Sculpting Away Stubborn Fat",
+    "category": "Cosmetic Procedures",
+    "issues": [
+      {
+        "type": "keyword_missing",
+        "missing_keywords": [
+          "sculpting",
+          "away",
+          "stubborn"
+        ],
+        "severity": "high"
+      },
+      {
+        "type": "low_coverage",
+        "coverage": "25%",
+        "description": "标题关键词覆盖率低于50%"
+      }
+    ],
+    "issue_count": 2,
+    "fixed_title": "Liposuction: Sculpting Away Stubborn Fat"
+  },
+  {
+    "index": 127,
+    "title": "Tummy Tuck: Restoring Abdominal Contours",
+    "category": "Cosmetic Procedures",
+    "issues": [
+      {
+        "type": "keyword_missing",
+        "missing_keywords": [
+          "restoring",
+          "contours"
+        ],
+        "severity": "high"
+      }
+    ],
+    "issue_count": 1,
+    "fixed_title": "Tummy Tuck: Restoring Abdominal Contours"
+  },
+  {
+    "index": 128,
+    "title": "Facelift Surgery: Turning Back Time",
+    "category": "Cosmetic Procedures",
+    "issues": [
+      {
+        "type": "keyword_missing",
+        "missing_keywords": [
+          "turning",
+          "back",
+          "time"
+        ],
+        "severity": "high"
+      },
+      {
+        "type": "low_coverage",
+        "coverage": "40%",
+        "description": "标题关键词覆盖率低于50%"
+      }
+    ],
+    "issue_count": 2,
+    "fixed_title": "Facelift Surgery: Turning Back Time"
+  },
+  {
+    "index": 129,
+    "title": "Blepharoplasty: Eyelid Surgery for Fresh Eyes",
+    "category": "Cosmetic Procedures",
+    "issues": [],
+    "issue_count": 0,
+    "fixed_title": "Blepharoplasty: Eyelid Surgery for Fresh Eyes"
+  },
+  {
+    "index": 130,
+    "title": "Thread Lifts: Non-surgical Face Lifting",
+    "category": "Cosmetic Procedures",
+    "issues": [
+      {
+        "type": "keyword_missing",
+        "missing_keywords": [
+          "surgical",
+          "face",
+          "lifting"
+        ],
+        "severity": "high"
+      },
+      {
+        "type": "low_coverage",
+        "coverage": "40%",
+        "description": "标题关键词覆盖率低于50%"
+      }
+    ],
+    "issue_count": 2,
+    "fixed_title": "Thread Lifts: Non-surgical Face Lifting"
+  },
+  {
+    "index": 131,
+    "title": "Dermaplaning: Exfoliation and Peach Fuzz Removal",
+    "category": "Cosmetic Procedures",
+    "issues": [
+      {
+        "type": "keyword_missing",
+        "missing_keywords": [
+          "exfoliation",
+          "removal"
+        ],
+        "severity": "high"
+      }
+    ],
+    "issue_count": 1,
+    "fixed_title": "Dermaplaning: Exfoliation and Peach Fuzz Removal"
+  },
+  {
+    "index": 132,
+    "title": "Hydrafacial: the Celebrity-favorite Treatment",
+    "category": "Cosmetic Procedures",
+    "issues": [
+      {
+        "type": "keyword_missing",
+        "missing_keywords": [
+          "celebrity",
+          "favorite"
+        ],
+        "severity": "high"
+      }
+    ],
+    "issue_count": 1,
+    "fixed_title": "Hydrafacial: the Celebrity-favorite Treatment"
+  },
+  {
+    "index": 133,
+    "title": "Prp for Skin: Vampire Facial Explained",
+    "category": "Cosmetic Procedures",
+    "issues": [
+      {
+        "type": "keyword_missing",
+        "missing_keywords": [
+          "explained"
+        ],
+        "severity": "medium"
+      }
+    ],
+    "issue_count": 1,
+    "fixed_title": "Prp for Skin: Vampire Facial Explained"
+  },
+  {
+    "index": 134,
+    "title": "Scar Revision: Minimizing Surgical and Injury Scars",
+    "category": "Cosmetic Procedures",
+    "issues": [
+      {
+        "type": "template_phrase",
+        "phrase": "significantly",
+        "position": 425
+      },
+      {
+        "type": "keyword_missing",
+        "missing_keywords": [
+          "minimizing",
+          "injury"
+        ],
+        "severity": "high"
+      },
+      {
+        "type": "image_alt_too_long",
+        "description": "图片alt文字过长(51字符)"
+      },
+      {
+        "type": "image_alt_too_long",
+        "description": "图片alt文字过长(51字符)"
+      }
+    ],
+    "issue_count": 4,
+    "fixed_title": "Scar Revision: Minimizing Surgical and Injury Scars"
+  },
+  {
+    "index": 135,
+    "title": "Labiaplasty: Understanding Female Genital Surgery",
+    "category": "Cosmetic Procedures",
+    "issues": [
+      {
+        "type": "keyword_missing",
+        "missing_keywords": [
+          "understanding",
+          "female",
+          "genital"
+        ],
+        "severity": "high"
+      },
+      {
+        "type": "low_coverage",
+        "coverage": "40%",
+        "description": "标题关键词覆盖率低于50%"
+      }
+    ],
+    "issue_count": 2,
+    "fixed_title": "Labiaplasty: Understanding Female Genital Surgery"
+  },
+  {
+    "index": 136,
+    "title": "Chin Augmentation: Enhancing Facial Balance",
+    "category": "Cosmetic Procedures",
+    "issues": [
+      {
+        "type": "keyword_missing",
+        "missing_keywords": [
+          "enhancing"
+        ],
+        "severity": "medium"
+      }
+    ],
+    "issue_count": 1,
+    "fixed_title": "Chin Augmentation: Enhancing Facial Balance"
+  },
+  {
+    "index": 137,
+    "title": "Ear Surgery: Otoplasty for Ear Reshaping",
+    "category": "Cosmetic Procedures",
+    "issues": [
+      {
+        "type": "keyword_missing",
+        "missing_keywords": [
+          "reshaping"
+        ],
+        "severity": "high"
+      }
+    ],
+    "issue_count": 1,
+    "fixed_title": "Ear Surgery: Otoplasty for Ear Reshaping"
+  },
+  {
+    "index": 138,
+    "title": "Breast Lift: Restoring Youthful Breast Position",
+    "category": "Cosmetic Procedures",
+    "issues": [
+      {
+        "type": "template_phrase",
+        "phrase": "significantly",
+        "position": 668
+      },
+      {
+        "type": "keyword_missing",
+        "missing_keywords": [
+          "restoring"
+        ],
+        "severity": "medium"
+      }
+    ],
+    "issue_count": 2,
+    "fixed_title": "Breast Lift: Restoring Youthful Breast Position"
+  },
+  {
+    "index": 139,
+    "title": "Brazilian Butt Lift: Enhancing Curves Naturally",
+    "category": "Cosmetic Procedures",
+    "issues": [
+      {
+        "type": "forbidden_word",
+        "word": "enhance",
+        "position": 41
+      },
+      {
+        "type": "keyword_missing",
+        "missing_keywords": [
+          "enhancing",
+          "curves",
+          "naturally"
+        ],
+        "severity": "high"
+      }
+    ],
+    "issue_count": 2,
+    "fixed_title": "Brazilian Butt Lift: Enhancing Curves Naturally"
+  },
+  {
+    "index": 140,
+    "title": "Arm Lift: Smoothing Upper Arm Skin",
+    "category": "Cosmetic Procedures",
+    "issues": [
+      {
+        "type": "keyword_missing",
+        "missing_keywords": [
+          "smoothing"
+        ],
+        "severity": "medium"
+      }
+    ],
+    "issue_count": 1,
+    "fixed_title": "Arm Lift: Smoothing Upper Arm Skin"
+  },
+  {
+    "index": 141,
+    "title": "Thigh Lift: Sculpting and Tightening Thighs",
+    "category": "Cosmetic Procedures",
+    "issues": [
+      {
+        "type": "keyword_missing",
+        "missing_keywords": [
+          "sculpting",
+          "tightening"
+        ],
+        "severity": "high"
+      }
+    ],
+    "issue_count": 1,
+    "fixed_title": "Thigh Lift: Sculpting and Tightening Thighs"
+  },
+  {
+    "index": 142,
+    "title": "Waterproof Makeup: Products That Survive Any Condition",
+    "category": "Makeup",
+    "issues": [
+      {
+        "type": "keyword_missing",
+        "missing_keywords": [
+          "survive",
+          "condition"
+        ],
+        "severity": "high"
+      },
+      {
+        "type": "image_alt_too_long",
+        "description": "图片alt文字过长(54字符)"
+      },
+      {
+        "type": "image_alt_too_long",
+        "description": "图片alt文字过长(54字符)"
+      }
+    ],
+    "issue_count": 3,
+    "fixed_title": "Waterproof Makeup: Products That Survive Any Condition"
+  },
+  {
+    "index": 143,
+    "title": "Anti-aging Serums: Which Ones Actually Work",
+    "category": "Skin Care",
+    "issues": [
+      {
+        "type": "keyword_missing",
+        "missing_keywords": [
+          "which",
+          "ones",
+          "actually",
+          "work"
+        ],
+        "severity": "high"
+      },
+      {
+        "type": "low_coverage",
+        "coverage": "43%",
+        "description": "标题关键词覆盖率低于50%"
+      }
+    ],
+    "issue_count": 2,
+    "fixed_title": "Anti-aging Serums: Which Ones Actually Work"
+  },
+  {
+    "index": 144,
+    "title": "Nail Stamping: Professional Designs in Minutes",
+    "category": "Hair & Nails",
+    "issues": [
+      {
+        "type": "forbidden_word",
+        "word": "intricate",
+        "position": 24
+      },
+      {
+        "type": "keyword_missing",
+        "missing_keywords": [
+          "professional",
+          "minutes"
+        ],
+        "severity": "high"
+      }
+    ],
+    "issue_count": 2,
+    "fixed_title": "Nail Stamping: Professional Designs in Minutes"
+  },
+  {
+    "index": 145,
+    "title": "Musk in Perfumery: from Animalic to Clean",
+    "category": "Fragrances",
+    "issues": [
+      {
+        "type": "keyword_missing",
+        "missing_keywords": [
+          "animalic"
+        ],
+        "severity": "medium"
+      }
+    ],
+    "issue_count": 1,
+    "fixed_title": "Musk in Perfumery: from Animalic to Clean"
+  },
+  {
+    "index": 146,
+    "title": "Patchouli: the Iconic Scent of the 60s",
+    "category": "Fragrances",
+    "issues": [
+      {
+        "type": "template_phrase",
+        "phrase": "significantly",
+        "position": 229
+      },
+      {
+        "type": "title_case",
+        "issue": "首尾词 \"60s\" 应该大写",
+        "word": "60s"
+      },
+      {
+        "type": "keyword_missing",
+        "missing_keywords": [
+          "iconic",
+          "scent"
+        ],
+        "severity": "high"
+      },
+      {
+        "type": "low_coverage",
+        "coverage": "33%",
+        "description": "标题关键词覆盖率低于50%"
+      }
+    ],
+    "issue_count": 4,
+    "fixed_title": "Patchouli: the Iconic Scent of the 60s"
+  },
+  {
+    "index": 147,
+    "title": "Earlobe Repair: Fixing Stretched or Torn Ears",
+    "category": "Cosmetic Procedures",
+    "issues": [
+      {
+        "type": "keyword_missing",
+        "missing_keywords": [
+          "fixing",
+          "ears"
+        ],
+        "severity": "high"
+      }
+    ],
+    "issue_count": 1,
+    "fixed_title": "Earlobe Repair: Fixing Stretched or Torn Ears"
+  },
+  {
+    "index": 148,
+    "title": "Skin Tightening: Non-surgical Options That Work",
+    "category": "Cosmetic Procedures",
+    "issues": [
+      {
+        "type": "forbidden_word",
+        "word": "comprehensive",
+        "position": 440
+      },
+      {
+        "type": "keyword_missing",
+        "missing_keywords": [
+          "options"
+        ],
+        "severity": "medium"
+      }
+    ],
+    "issue_count": 2,
+    "fixed_title": "Skin Tightening: Non-surgical Options That Work"
+  },
+  {
+    "index": 149,
+    "title": "Jawline Contouring: Surgical and Non-surgical Options",
+    "category": "Cosmetic Procedures",
+    "issues": [
+      {
+        "type": "template_phrase",
+        "phrase": "The best",
+        "position": 737
+      },
+      {
+        "type": "forbidden_word",
+        "word": "anatomy",
+        "position": 771
+      },
+      {
+        "type": "image_alt_too_long",
+        "description": "图片alt文字过长(53字符)"
+      },
+      {
+        "type": "image_alt_too_long",
+        "description": "图片alt文字过长(53字符)"
+      }
+    ],
+    "issue_count": 4,
+    "fixed_title": "Jawline Contouring: Surgical and Non-surgical Options"
+  }
+]

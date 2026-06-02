@@ -1,0 +1,16 @@
+{
+  "total": 450,
+  "completed": 452,
+  "pending": 1,
+  "this_batch": {
+    "success": 244,
+    "failed": 1,
+    "failed_tasks": [
+      {
+        "filename": "night-detail2-20250525999774",
+        "category": "Skin Care",
+        "error": "Timeout"
+      }
+    ]
+  }
+}

@@ -1,0 +1,114 @@
+================================================================================
+文章复查报告
+================================================================================
+审查文章数：150篇
+发现问题数：303处
+
+【问题统计】
+keyword_missing: 138处
+image_alt_too_long: 88处
+low_coverage: 34处
+forbidden_word: 23处
+template_phrase: 16处
+title_case: 3处
+generic_phrase: 1处
+
+【问题详情 - 问题最多的文章】
+
+文章 9: The Art of Blush: Adding Natural Color to Your Complexion
+分类: Makeup
+问题数: 5
+  - 禁用词汇: enhance
+  - 标题关键词问题: 2处
+
+文章 11: Essential Makeup Brushes Every Beauty Lover Needs
+分类: Makeup
+问题数: 5
+  - 模板套话: 1处
+  - 禁用词汇: enhance, seamless
+  - 标题关键词问题: 2处
+
+文章 33: Retinol Explained: How to Add This Anti-aging Powerhouse
+分类: Skin Care
+问题数: 5
+  - 模板套话: 1处
+  - 标题关键词问题: 2处
+
+文章 1: Mastering Eyeshadow: Techniques for Stunning Eye Looks
+分类: Makeup
+问题数: 4
+  - 标题关键词问题: 2处
+
+文章 3: Contouring and Highlighting: Sculpt Your Face Like a Pro
+分类: Makeup
+问题数: 4
+  - 禁用词汇: enhance
+  - 标题关键词问题: 1处
+
+文章 6: Why Makeup Primer Is Essential for Flawless Application
+分类: Makeup
+问题数: 4
+  - 标题关键词问题: 2处
+
+文章 7: Bb Cream vs Cc Cream: Choosing the Right Tinted Moisturizer
+分类: Makeup
+问题数: 4
+  - 禁用词汇: enhance
+  - 标题关键词问题: 1处
+
+文章 12: Concealer Secrets: Perfect Coverage for Every Concern
+分类: Makeup
+问题数: 4
+  - 标题关键词问题: 2处
+
+文章 13: Makeup Tips for Glasses Wearers: Frame Your Face Beautifully
+分类: Makeup
+问题数: 4
+  - 禁用词汇: enhance
+  - 标题关键词问题: 1处
+
+文章 18: Makeup Expiration Dates: When to Toss Your Beauty Products
+分类: Makeup
+问题数: 4
+  - 标题关键词问题: 2处
+
+文章 20: Makeup for Deep Skin Tones: Finding Your Perfect Match
+分类: Makeup
+问题数: 4
+  - 模板套话: 1处
+  - 禁用词汇: enhance
+
+文章 23: Makeup for Dry Skin: Hydrating Techniques and Products
+分类: Makeup
+问题数: 4
+  - 禁用词汇: enhance
+  - 标题关键词问题: 1处
+
+文章 26: Bridal Makeup: Looking Flawless on Your Special Day
+分类: Makeup
+问题数: 4
+  - 标题关键词问题: 2处
+
+文章 28: Professional Makeup: Polished Looks for the Workplace
+分类: Makeup
+问题数: 4
+  - 禁用词汇: enhance
+  - 标题关键词问题: 1处
+
+文章 29: Understanding Your Skin Type: the First Step to Healthy Skin
+分类: Skin Care
+问题数: 4
+  - 标题关键词问题: 2处
+
+【修复建议】
+
+高优先级（立即修复）: 0篇
+
+中优先级（尽快修复）: 48篇
+  - 文章1: Mastering Eyeshadow: Techniques for Stunning Eye L... (4个问题)
+  - 文章2: Finding Your Perfect Lipstick Shade for Every Occa... (3个问题)
+  - 文章3: Contouring and Highlighting: Sculpt Your Face Like... (4个问题)
+  - 文章4: The Complete Mascara Guide for Luscious Lashes... (3个问题)
+  - 文章6: Why Makeup Primer Is Essential for Flawless Applic... (4个问题)
+
+低优先级（有空修复）: 102篇

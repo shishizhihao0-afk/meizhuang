@@ -1,0 +1,3452 @@
+[
+  {
+    "type": "cover",
+    "filename": "foundation-guide-20250113032719.jpeg",
+    "keywords": "foundation guide",
+    "category": "Makeup",
+    "title": "The Ultimate Foundation Guide for Every Skin Type"
+  },
+  {
+    "type": "inline",
+    "subtype": "detail1",
+    "filename": "foundation-detail1-20240720190639.jpeg",
+    "keywords": "foundation detail1",
+    "category": "Makeup",
+    "title": "The Ultimate Foundation Guide for Every Skin Type"
+  },
+  {
+    "type": "inline",
+    "subtype": "detail2",
+    "filename": "foundation-detail2-20250510020030.jpeg",
+    "keywords": "foundation detail2",
+    "category": "Makeup",
+    "title": "The Ultimate Foundation Guide for Every Skin Type"
+  },
+  {
+    "type": "cover",
+    "filename": "eyeshadow-techniques-20241130224023.jpeg",
+    "keywords": "eyeshadow techniques",
+    "category": "Makeup",
+    "title": "Mastering Eyeshadow: Techniques for Stunning Eye Looks"
+  },
+  {
+    "type": "inline",
+    "subtype": "detail1",
+    "filename": "eyeshadow-detail1-20241110061347.jpeg",
+    "keywords": "eyeshadow detail1",
+    "category": "Makeup",
+    "title": "Mastering Eyeshadow: Techniques for Stunning Eye Looks"
+  },
+  {
+    "type": "inline",
+    "subtype": "detail2",
+    "filename": "eyeshadow-detail2-20240908094557.jpeg",
+    "keywords": "eyeshadow detail2",
+    "category": "Makeup",
+    "title": "Mastering Eyeshadow: Techniques for Stunning Eye Looks"
+  },
+  {
+    "type": "cover",
+    "filename": "lipstick-shades-20250325041332.jpeg",
+    "keywords": "lipstick shades",
+    "category": "Makeup",
+    "title": "Finding Your Perfect Lipstick Shade for Every Occasion"
+  },
+  {
+    "type": "inline",
+    "subtype": "detail1",
+    "filename": "lipstick-detail1-20250129213404.jpeg",
+    "keywords": "lipstick detail1",
+    "category": "Makeup",
+    "title": "Finding Your Perfect Lipstick Shade for Every Occasion"
+  },
+  {
+    "type": "inline",
+    "subtype": "detail2",
+    "filename": "lipstick-detail2-20250125151908.jpeg",
+    "keywords": "lipstick detail2",
+    "category": "Makeup",
+    "title": "Finding Your Perfect Lipstick Shade for Every Occasion"
+  },
+  {
+    "type": "cover",
+    "filename": "contour-highlight-20250424100749.jpeg",
+    "keywords": "contour highlight",
+    "category": "Makeup",
+    "title": "Contouring and Highlighting: Sculpt Your Face Like a Pro"
+  },
+  {
+    "type": "inline",
+    "subtype": "detail1",
+    "filename": "contour-detail1-20240730112957.jpeg",
+    "keywords": "contour detail1",
+    "category": "Makeup",
+    "title": "Contouring and Highlighting: Sculpt Your Face Like a Pro"
+  },
+  {
+    "type": "inline",
+    "subtype": "detail2",
+    "filename": "contour-detail2-20241007102859.jpeg",
+    "keywords": "contour detail2",
+    "category": "Makeup",
+    "title": "Contouring and Highlighting: Sculpt Your Face Like a Pro"
+  },
+  {
+    "type": "cover",
+    "filename": "mascara-guide-20240720053651.jpeg",
+    "keywords": "mascara guide",
+    "category": "Makeup",
+    "title": "The Complete Mascara Guide for Luscious Lashes"
+  },
+  {
+    "type": "inline",
+    "subtype": "detail1",
+    "filename": "mascara-detail1-20241219124052.jpeg",
+    "keywords": "mascara detail1",
+    "category": "Makeup",
+    "title": "The Complete Mascara Guide for Luscious Lashes"
+  },
+  {
+    "type": "inline",
+    "subtype": "detail2",
+    "filename": "mascara-detail2-20240610044053.jpeg",
+    "keywords": "mascara detail2",
+    "category": "Makeup",
+    "title": "The Complete Mascara Guide for Luscious Lashes"
+  },
+  {
+    "type": "cover",
+    "filename": "eyebrow-guide-20250319025050.jpeg",
+    "keywords": "eyebrow guide",
+    "category": "Makeup",
+    "title": "Eyebrow Perfection: Shaping and Filling Techniques"
+  },
+  {
+    "type": "inline",
+    "subtype": "detail1",
+    "filename": "eyebrow-detail1-20250101111518.jpeg",
+    "keywords": "eyebrow detail1",
+    "category": "Makeup",
+    "title": "Eyebrow Perfection: Shaping and Filling Techniques"
+  },
+  {
+    "type": "inline",
+    "subtype": "detail2",
+    "filename": "eyebrow-detail2-20250423143158.jpeg",
+    "keywords": "eyebrow detail2",
+    "category": "Makeup",
+    "title": "Eyebrow Perfection: Shaping and Filling Techniques"
+  },
+  {
+    "type": "cover",
+    "filename": "primer-guide-20250106221426.jpeg",
+    "keywords": "primer guide",
+    "category": "Makeup",
+    "title": "Why Makeup Primer Is Essential for Flawless Application"
+  },
+  {
+    "type": "inline",
+    "subtype": "detail1",
+    "filename": "primer-detail1-20240818063116.jpeg",
+    "keywords": "primer detail1",
+    "category": "Makeup",
+    "title": "Why Makeup Primer Is Essential for Flawless Application"
+  },
+  {
+    "type": "inline",
+    "subtype": "detail2",
+    "filename": "primer-detail2-20250409233459.jpeg",
+    "keywords": "primer detail2",
+    "category": "Makeup",
+    "title": "Why Makeup Primer Is Essential for Flawless Application"
+  },
+  {
+    "type": "cover",
+    "filename": "bb-cc-cream-20240912221213.jpeg",
+    "keywords": "bb cc cream",
+    "category": "Makeup",
+    "title": "Bb Cream Vs Cc Cream: Choosing the Right Tinted Moisturizer"
+  },
+  {
+    "type": "inline",
+    "subtype": "detail1",
+    "filename": "bb-detail1-20250308213543.jpeg",
+    "keywords": "bb detail1",
+    "category": "Makeup",
+    "title": "Bb Cream Vs Cc Cream: Choosing the Right Tinted Moisturizer"
+  },
+  {
+    "type": "inline",
+    "subtype": "detail2",
+    "filename": "bb-detail2-20250203222636.jpeg",
+    "keywords": "bb detail2",
+    "category": "Makeup",
+    "title": "Bb Cream Vs Cc Cream: Choosing the Right Tinted Moisturizer"
+  },
+  {
+    "type": "cover",
+    "filename": "setting-spray-20250515130149.jpeg",
+    "keywords": "setting spray",
+    "category": "Makeup",
+    "title": "Setting Sprays: Lock in Your Makeup for All-day Wear"
+  },
+  {
+    "type": "inline",
+    "subtype": "detail1",
+    "filename": "setting-detail1-20250519043203.jpeg",
+    "keywords": "setting detail1",
+    "category": "Makeup",
+    "title": "Setting Sprays: Lock in Your Makeup for All-day Wear"
+  },
+  {
+    "type": "inline",
+    "subtype": "detail2",
+    "filename": "setting-detail2-20240929044109.jpeg",
+    "keywords": "setting detail2",
+    "category": "Makeup",
+    "title": "Setting Sprays: Lock in Your Makeup for All-day Wear"
+  },
+  {
+    "type": "cover",
+    "filename": "blush-guide-20250318221759.jpeg",
+    "keywords": "blush guide",
+    "category": "Makeup",
+    "title": "The Art of Blush: Adding Natural Color to Your Complexion"
+  },
+  {
+    "type": "inline",
+    "subtype": "detail1",
+    "filename": "blush-detail1-20250111164748.jpeg",
+    "keywords": "blush detail1",
+    "category": "Makeup",
+    "title": "The Art of Blush: Adding Natural Color to Your Complexion"
+  },
+  {
+    "type": "inline",
+    "subtype": "detail2",
+    "filename": "blush-detail2-20241013092822.jpeg",
+    "keywords": "blush detail2",
+    "category": "Makeup",
+    "title": "The Art of Blush: Adding Natural Color to Your Complexion"
+  },
+  {
+    "type": "cover",
+    "filename": "eyeliner-guide-20241029010943.jpeg",
+    "keywords": "eyeliner guide",
+    "category": "Makeup",
+    "title": "Eyeliner Mastery: from Classic to Creative Styles"
+  },
+  {
+    "type": "inline",
+    "subtype": "detail1",
+    "filename": "eyeliner-detail1-20240530223144.jpeg",
+    "keywords": "eyeliner detail1",
+    "category": "Makeup",
+    "title": "Eyeliner Mastery: from Classic to Creative Styles"
+  },
+  {
+    "type": "inline",
+    "subtype": "detail2",
+    "filename": "eyeliner-detail2-20240814132232.jpeg",
+    "keywords": "eyeliner detail2",
+    "category": "Makeup",
+    "title": "Eyeliner Mastery: from Classic to Creative Styles"
+  },
+  {
+    "type": "cover",
+    "filename": "makeup-brushes-20250323195858.jpeg",
+    "keywords": "makeup brushes",
+    "category": "Makeup",
+    "title": "Essential Makeup Brushes Every Beauty Lover Needs"
+  },
+  {
+    "type": "inline",
+    "subtype": "detail1",
+    "filename": "makeup-detail1-20250120024521.jpeg",
+    "keywords": "makeup detail1",
+    "category": "Makeup",
+    "title": "Essential Makeup Brushes Every Beauty Lover Needs"
+  },
+  {
+    "type": "inline",
+    "subtype": "detail2",
+    "filename": "makeup-detail2-20240906035435.jpeg",
+    "keywords": "makeup detail2",
+    "category": "Makeup",
+    "title": "Essential Makeup Brushes Every Beauty Lover Needs"
+  },
+  {
+    "type": "cover",
+    "filename": "concealer-guide-20250209085443.jpeg",
+    "keywords": "concealer guide",
+    "category": "Makeup",
+    "title": "Concealer Secrets: Perfect Coverage for Every Concern"
+  },
+  {
+    "type": "inline",
+    "subtype": "detail1",
+    "filename": "concealer-detail1-20240601022253.jpeg",
+    "keywords": "concealer detail1",
+    "category": "Makeup",
+    "title": "Concealer Secrets: Perfect Coverage for Every Concern"
+  },
+  {
+    "type": "inline",
+    "subtype": "detail2",
+    "filename": "concealer-detail2-20250218130739.jpeg",
+    "keywords": "concealer detail2",
+    "category": "Makeup",
+    "title": "Concealer Secrets: Perfect Coverage for Every Concern"
+  },
+  {
+    "type": "cover",
+    "filename": "makeup-glasses-20250413011729.jpeg",
+    "keywords": "makeup glasses",
+    "category": "Makeup",
+    "title": "Makeup Tips for Glasses Wearers: Frame Your Face Beautifully"
+  },
+  {
+    "type": "inline",
+    "subtype": "detail1",
+    "filename": "makeup-detail1-20240909084936.jpeg",
+    "keywords": "makeup detail1",
+    "category": "Makeup",
+    "title": "Makeup Tips for Glasses Wearers: Frame Your Face Beautifully"
+  },
+  {
+    "type": "inline",
+    "subtype": "detail2",
+    "filename": "makeup-detail2-20241004215818.jpeg",
+    "keywords": "makeup detail2",
+    "category": "Makeup",
+    "title": "Makeup Tips for Glasses Wearers: Frame Your Face Beautifully"
+  },
+  {
+    "type": "cover",
+    "filename": "no-makeup-look-20240910203848.jpeg",
+    "keywords": "no makeup look",
+    "category": "Makeup",
+    "title": "The No-makeup Makeup Look: Effortless Beauty Techniques"
+  },
+  {
+    "type": "inline",
+    "subtype": "detail1",
+    "filename": "no-detail1-20250318053545.jpeg",
+    "keywords": "no detail1",
+    "category": "Makeup",
+    "title": "The No-makeup Makeup Look: Effortless Beauty Techniques"
+  },
+  {
+    "type": "inline",
+    "subtype": "detail2",
+    "filename": "no-detail2-20240814011618.jpeg",
+    "keywords": "no detail2",
+    "category": "Makeup",
+    "title": "The No-makeup Makeup Look: Effortless Beauty Techniques"
+  },
+  {
+    "type": "cover",
+    "filename": "smokey-eye-20250414071839.jpeg",
+    "keywords": "smokey eye",
+    "category": "Makeup",
+    "title": "Smokey Eye Mastery: Classic and Modern Techniques"
+  },
+  {
+    "type": "inline",
+    "subtype": "detail1",
+    "filename": "smokey-detail1-20250204142529.jpeg",
+    "keywords": "smokey detail1",
+    "category": "Makeup",
+    "title": "Smokey Eye Mastery: Classic and Modern Techniques"
+  },
+  {
+    "type": "inline",
+    "subtype": "detail2",
+    "filename": "smokey-detail2-20240611203416.jpeg",
+    "keywords": "smokey detail2",
+    "category": "Makeup",
+    "title": "Smokey Eye Mastery: Classic and Modern Techniques"
+  },
+  {
+    "type": "cover",
+    "filename": "mature-skin-makeup-20250509111452.jpeg",
+    "keywords": "mature skin makeup",
+    "category": "Makeup",
+    "title": "Makeup Techniques for Mature Skin: Ageless Beauty Tips"
+  },
+  {
+    "type": "inline",
+    "subtype": "detail1",
+    "filename": "mature-detail1-20240809023927.jpeg",
+    "keywords": "mature detail1",
+    "category": "Makeup",
+    "title": "Makeup Techniques for Mature Skin: Ageless Beauty Tips"
+  },
+  {
+    "type": "inline",
+    "subtype": "detail2",
+    "filename": "mature-detail2-20240711163517.jpeg",
+    "keywords": "mature detail2",
+    "category": "Makeup",
+    "title": "Makeup Techniques for Mature Skin: Ageless Beauty Tips"
+  },
+  {
+    "type": "cover",
+    "filename": "makeup-removal-20240819013834.jpeg",
+    "keywords": "makeup removal",
+    "category": "Makeup",
+    "title": "The Importance of Proper Makeup Removal and Skin Health"
+  },
+  {
+    "type": "inline",
+    "subtype": "detail1",
+    "filename": "makeup-detail1-20240714041558.jpeg",
+    "keywords": "makeup detail1",
+    "category": "Makeup",
+    "title": "The Importance of Proper Makeup Removal and Skin Health"
+  },
+  {
+    "type": "inline",
+    "subtype": "detail2",
+    "filename": "makeup-detail2-20250123131239.jpeg",
+    "keywords": "makeup detail2",
+    "category": "Makeup",
+    "title": "The Importance of Proper Makeup Removal and Skin Health"
+  },
+  {
+    "type": "cover",
+    "filename": "makeup-expiration-20240921060027.jpeg",
+    "keywords": "makeup expiration",
+    "category": "Makeup",
+    "title": "Makeup Expiration Dates: When to Toss Your Beauty Products"
+  },
+  {
+    "type": "inline",
+    "subtype": "detail1",
+    "filename": "makeup-detail1-20250401003730.jpeg",
+    "keywords": "makeup detail1",
+    "category": "Makeup",
+    "title": "Makeup Expiration Dates: When to Toss Your Beauty Products"
+  },
+  {
+    "type": "inline",
+    "subtype": "detail2",
+    "filename": "makeup-detail2-220241227132631.jpeg",
+    "keywords": "makeup detail2",
+    "category": "Makeup",
+    "title": "Makeup Expiration Dates: When to Toss Your Beauty Products"
+  },
+  {
+    "type": "cover",
+    "filename": "acne-makeup-20241113212733.jpeg",
+    "keywords": "acne makeup",
+    "category": "Makeup",
+    "title": "Makeup for Acne-prone Skin: Coverage Without Breakouts"
+  },
+  {
+    "type": "inline",
+    "subtype": "detail1",
+    "filename": "acne-detail1-20240623085941.jpeg",
+    "keywords": "acne detail1",
+    "category": "Makeup",
+    "title": "Makeup for Acne-prone Skin: Coverage Without Breakouts"
+  },
+  {
+    "type": "inline",
+    "subtype": "detail2",
+    "filename": "acne-detail2-20250117020755.jpeg",
+    "keywords": "acne detail2",
+    "category": "Makeup",
+    "title": "Makeup for Acne-prone Skin: Coverage Without Breakouts"
+  },
+  {
+    "type": "cover",
+    "filename": "deep-skin-makeup-20240722141115.jpeg",
+    "keywords": "deep skin makeup",
+    "category": "Makeup",
+    "title": "Makeup for Deep Skin Tones: Finding Your Perfect Match"
+  },
+  {
+    "type": "inline",
+    "subtype": "detail1",
+    "filename": "deep-detail1-20240617140213.jpeg",
+    "keywords": "deep detail1",
+    "category": "Makeup",
+    "title": "Makeup for Deep Skin Tones: Finding Your Perfect Match"
+  },
+  {
+    "type": "inline",
+    "subtype": "detail2",
+    "filename": "deep-detail2-220240613142508.jpeg",
+    "keywords": "deep detail2",
+    "category": "Makeup",
+    "title": "Makeup for Deep Skin Tones: Finding Your Perfect Match"
+  },
+  {
+    "type": "cover",
+    "filename": "fair-skin-makeup-20240928030738.jpeg",
+    "keywords": "fair skin makeup",
+    "category": "Makeup",
+    "title": "Makeup for Fair Skin: Enhancing Porcelain Complexions"
+  },
+  {
+    "type": "inline",
+    "subtype": "detail1",
+    "filename": "fair-detail1-20241022124531.jpeg",
+    "keywords": "fair detail1",
+    "category": "Makeup",
+    "title": "Makeup for Fair Skin: Enhancing Porcelain Complexions"
+  },
+  {
+    "type": "inline",
+    "subtype": "detail2",
+    "filename": "fair-detail2-20240626002540.jpeg",
+    "keywords": "fair detail2",
+    "category": "Makeup",
+    "title": "Makeup for Fair Skin: Enhancing Porcelain Complexions"
+  },
+  {
+    "type": "cover",
+    "filename": "oily-skin-makeup-20240805051016.jpeg",
+    "keywords": "oily skin makeup",
+    "category": "Makeup",
+    "title": "Makeup for Oily Skin: Long-lasting Shine Control"
+  },
+  {
+    "type": "inline",
+    "subtype": "detail1",
+    "filename": "oily-detail1-20241202124859.jpeg",
+    "keywords": "oily detail1",
+    "category": "Makeup",
+    "title": "Makeup for Oily Skin: Long-lasting Shine Control"
+  },
+  {
+    "type": "inline",
+    "subtype": "detail2",
+    "filename": "oily-detail2-220241102061311.jpeg",
+    "keywords": "oily detail2",
+    "category": "Makeup",
+    "title": "Makeup for Oily Skin: Long-lasting Shine Control"
+  },
+  {
+    "type": "cover",
+    "filename": "dry-skin-makeup-20240914114336.jpeg",
+    "keywords": "dry skin makeup",
+    "category": "Makeup",
+    "title": "Makeup for Dry Skin: Hydrating Techniques and Products"
+  },
+  {
+    "type": "inline",
+    "subtype": "detail1",
+    "filename": "dry-detail1-20250407061327.jpeg",
+    "keywords": "dry detail1",
+    "category": "Makeup",
+    "title": "Makeup for Dry Skin: Hydrating Techniques and Products"
+  },
+  {
+    "type": "inline",
+    "subtype": "detail2",
+    "filename": "dry-detail2-20241212062340.jpeg",
+    "keywords": "dry detail2",
+    "category": "Makeup",
+    "title": "Makeup for Dry Skin: Hydrating Techniques and Products"
+  },
+  {
+    "type": "cover",
+    "filename": "sensitive-skin-makeup-20241023074014.jpeg",
+    "keywords": "sensitive skin makeup",
+    "category": "Makeup",
+    "title": "Makeup for Sensitive Skin: Gentle Beauty Solutions"
+  },
+  {
+    "type": "inline",
+    "subtype": "detail1",
+    "filename": "sensitive-detail1-20241130210425.jpeg",
+    "keywords": "sensitive detail1",
+    "category": "Makeup",
+    "title": "Makeup for Sensitive Skin: Gentle Beauty Solutions"
+  },
+  {
+    "type": "inline",
+    "subtype": "detail2",
+    "filename": "sensitive-detail2-20250423135949.jpeg",
+    "keywords": "sensitive detail2",
+    "category": "Makeup",
+    "title": "Makeup for Sensitive Skin: Gentle Beauty Solutions"
+  },
+  {
+    "type": "cover",
+    "filename": "teen-makeup-20250207180017.jpeg",
+    "keywords": "teen makeup",
+    "category": "Makeup",
+    "title": "Age-appropriate Makeup for Teenagers"
+  },
+  {
+    "type": "inline",
+    "subtype": "detail1",
+    "filename": "teen-detail1-20250312062750.jpeg",
+    "keywords": "teen detail1",
+    "category": "Makeup",
+    "title": "Age-appropriate Makeup for Teenagers"
+  },
+  {
+    "type": "inline",
+    "subtype": "detail2",
+    "filename": "teen-detail2-220240903164908.jpeg",
+    "keywords": "teen detail2",
+    "category": "Makeup",
+    "title": "Age-appropriate Makeup for Teenagers"
+  },
+  {
+    "type": "cover",
+    "filename": "bridal-makeup-20241129191939.jpeg",
+    "keywords": "bridal makeup",
+    "category": "Makeup",
+    "title": "Bridal Makeup: Looking Flawless on Your Special Day"
+  },
+  {
+    "type": "inline",
+    "subtype": "detail1",
+    "filename": "bridal-detail1-20250511140029.jpeg",
+    "keywords": "bridal detail1",
+    "category": "Makeup",
+    "title": "Bridal Makeup: Looking Flawless on Your Special Day"
+  },
+  {
+    "type": "inline",
+    "subtype": "detail2",
+    "filename": "bridal-detail2-20241207034311.jpeg",
+    "keywords": "bridal detail2",
+    "category": "Makeup",
+    "title": "Bridal Makeup: Looking Flawless on Your Special Day"
+  },
+  {
+    "type": "cover",
+    "filename": "camera-makeup-20241127192057.jpeg",
+    "keywords": "camera makeup",
+    "category": "Makeup",
+    "title": "Camera-ready Makeup: Techniques for Photography and Video"
+  },
+  {
+    "type": "inline",
+    "subtype": "detail1",
+    "filename": "camera-detail1-20250120045756.jpeg",
+    "keywords": "camera detail1",
+    "category": "Makeup",
+    "title": "Camera-ready Makeup: Techniques for Photography and Video"
+  },
+  {
+    "type": "inline",
+    "subtype": "detail2",
+    "filename": "camera-detail2-20240816043206.jpeg",
+    "keywords": "camera detail2",
+    "category": "Makeup",
+    "title": "Camera-ready Makeup: Techniques for Photography and Video"
+  },
+  {
+    "type": "cover",
+    "filename": "professional-makeup-20241126161048.jpeg",
+    "keywords": "professional makeup",
+    "category": "Makeup",
+    "title": "Professional Makeup: Polished Looks for the Workplace"
+  },
+  {
+    "type": "inline",
+    "subtype": "detail1",
+    "filename": "professional-detail1-20241021083605.jpeg",
+    "keywords": "professional detail1",
+    "category": "Makeup",
+    "title": "Professional Makeup: Polished Looks for the Workplace"
+  },
+  {
+    "type": "inline",
+    "subtype": "detail2",
+    "filename": "professional-detail2-20250117231345.jpeg",
+    "keywords": "professional detail2",
+    "category": "Makeup",
+    "title": "Professional Makeup: Polished Looks for the Workplace"
+  },
+  {
+    "type": "cover",
+    "filename": "skin-type-guide-20240731235905.jpeg",
+    "keywords": "skin type guide",
+    "category": "Skin Care",
+    "title": "Understanding Your Skin Type: the First Step to Healthy Skin"
+  },
+  {
+    "type": "inline",
+    "subtype": "detail1",
+    "filename": "skin-detail1-20240827024323.jpeg",
+    "keywords": "skin detail1",
+    "category": "Skin Care",
+    "title": "Understanding Your Skin Type: the First Step to Healthy Skin"
+  },
+  {
+    "type": "inline",
+    "subtype": "detail2",
+    "filename": "skin-detail2-20250313070021.jpeg",
+    "keywords": "skin detail2",
+    "category": "Skin Care",
+    "title": "Understanding Your Skin Type: the First Step to Healthy Skin"
+  },
+  {
+    "type": "cover",
+    "filename": "morning-routine-20240929131508.jpeg",
+    "keywords": "morning routine",
+    "category": "Skin Care",
+    "title": "The Complete Morning Skincare Routine for Glowing Skin"
+  },
+  {
+    "type": "inline",
+    "subtype": "detail1",
+    "filename": "morning-detail1-20241013220619.jpeg",
+    "keywords": "morning detail1",
+    "category": "Skin Care",
+    "title": "The Complete Morning Skincare Routine for Glowing Skin"
+  },
+  {
+    "type": "inline",
+    "subtype": "detail2",
+    "filename": "morning-detail2-20240902040635.jpeg",
+    "keywords": "morning detail2",
+    "category": "Skin Care",
+    "title": "The Complete Morning Skincare Routine for Glowing Skin"
+  },
+  {
+    "type": "cover",
+    "filename": "night-routine-20250502124020.jpeg",
+    "keywords": "night routine",
+    "category": "Skin Care",
+    "title": "Nighttime Skincare: Repair and Renew While You Sleep"
+  },
+  {
+    "type": "inline",
+    "subtype": "detail1",
+    "filename": "night-detail1-20250423210517.jpeg",
+    "keywords": "night detail1",
+    "category": "Skin Care",
+    "title": "Nighttime Skincare: Repair and Renew While You Sleep"
+  },
+  {
+    "type": "inline",
+    "subtype": "detail2",
+    "filename": "night-detail2-20250324103321.jpeg",
+    "keywords": "night detail2",
+    "category": "Skin Care",
+    "title": "Nighttime Skincare: Repair and Renew While You Sleep"
+  },
+  {
+    "type": "cover",
+    "filename": "vitamin-c-serum-20250214173826.jpeg",
+    "keywords": "vitamin c serum",
+    "category": "Skin Care",
+    "title": "Vitamin C Serum: the Brightening Essential Your Skin Needs"
+  },
+  {
+    "type": "inline",
+    "subtype": "detail1",
+    "filename": "vitamin-detail1-20241222051735.jpeg",
+    "keywords": "vitamin detail1",
+    "category": "Skin Care",
+    "title": "Vitamin C Serum: the Brightening Essential Your Skin Needs"
+  },
+  {
+    "type": "inline",
+    "subtype": "detail2",
+    "filename": "vitamin-detail2-220250210050601.jpeg",
+    "keywords": "vitamin detail2",
+    "category": "Skin Care",
+    "title": "Vitamin C Serum: the Brightening Essential Your Skin Needs"
+  },
+  {
+    "type": "cover",
+    "filename": "retinol-guide-20241214112044.jpeg",
+    "keywords": "retinol guide",
+    "category": "Skin Care",
+    "title": "Retinol Explained: How to Add This Anti-aging Powerhouse"
+  },
+  {
+    "type": "inline",
+    "subtype": "detail1",
+    "filename": "retinol-detail1-20240722092251.jpeg",
+    "keywords": "retinol detail1",
+    "category": "Skin Care",
+    "title": "Retinol Explained: How to Add This Anti-aging Powerhouse"
+  },
+  {
+    "type": "inline",
+    "subtype": "detail2",
+    "filename": "retinol-detail2-20241115233415.jpeg",
+    "keywords": "retinol detail2",
+    "category": "Skin Care",
+    "title": "Retinol Explained: How to Add This Anti-aging Powerhouse"
+  },
+  {
+    "type": "cover",
+    "filename": "hyaluronic-guide-20250426083135.jpeg",
+    "keywords": "hyaluronic guide",
+    "category": "Skin Care",
+    "title": "Hyaluronic Acid: the Hydration Hero Your Skin Craves"
+  },
+  {
+    "type": "inline",
+    "subtype": "detail1",
+    "filename": "hyaluronic-detail1-20250120233621.jpeg",
+    "keywords": "hyaluronic detail1",
+    "category": "Skin Care",
+    "title": "Hyaluronic Acid: the Hydration Hero Your Skin Craves"
+  },
+  {
+    "type": "inline",
+    "subtype": "detail2",
+    "filename": "hyaluronic-detail2-20240605220523.jpeg",
+    "keywords": "hyaluronic detail2",
+    "category": "Skin Care",
+    "title": "Hyaluronic Acid: the Hydration Hero Your Skin Craves"
+  },
+  {
+    "type": "cover",
+    "filename": "sunscreen-guide-20250430112425.jpeg",
+    "keywords": "sunscreen guide",
+    "category": "Skin Care",
+    "title": "Sunscreen 101: Why Daily Spf Is Non-negotiable"
+  },
+  {
+    "type": "inline",
+    "subtype": "detail1",
+    "filename": "sunscreen-detail1-20250503215123.jpeg",
+    "keywords": "sunscreen detail1",
+    "category": "Skin Care",
+    "title": "Sunscreen 101: Why Daily Spf Is Non-negotiable"
+  },
+  {
+    "type": "inline",
+    "subtype": "detail2",
+    "filename": "sunscreen-detail2-20250121204447.jpeg",
+    "keywords": "sunscreen detail2",
+    "category": "Skin Care",
+    "title": "Sunscreen 101: Why Daily Spf Is Non-negotiable"
+  },
+  {
+    "type": "cover",
+    "filename": "exfoliation-guide-20250306010104.jpeg",
+    "keywords": "exfoliation guide",
+    "category": "Skin Care",
+    "title": "Exfoliation Guide: Chemical Vs Physical Methods"
+  },
+  {
+    "type": "inline",
+    "subtype": "detail1",
+    "filename": "exfoliation-detail1-20240623113747.jpeg",
+    "keywords": "exfoliation detail1",
+    "category": "Skin Care",
+    "title": "Exfoliation Guide: Chemical Vs Physical Methods"
+  },
+  {
+    "type": "inline",
+    "subtype": "detail2",
+    "filename": "exfoliation-detail2-20240923130358.jpeg",
+    "keywords": "exfoliation detail2",
+    "category": "Skin Care",
+    "title": "Exfoliation Guide: Chemical Vs Physical Methods"
+  },
+  {
+    "type": "cover",
+    "filename": "acne-skincare-20240823111938.jpeg",
+    "keywords": "acne skincare",
+    "category": "Skin Care",
+    "title": "Acne-prone Skin: Effective Ingredients and Routines"
+  },
+  {
+    "type": "inline",
+    "subtype": "detail1",
+    "filename": "acne-detail1-20240907110600.jpeg",
+    "keywords": "acne detail1",
+    "category": "Skin Care",
+    "title": "Acne-prone Skin: Effective Ingredients and Routines"
+  },
+  {
+    "type": "inline",
+    "subtype": "detail2",
+    "filename": "acne-detail2-20240824220421.jpeg",
+    "keywords": "acne detail2",
+    "category": "Skin Care",
+    "title": "Acne-prone Skin: Effective Ingredients and Routines"
+  },
+  {
+    "type": "cover",
+    "filename": "dry-skin-solutions-20241116221040.jpeg",
+    "keywords": "dry skin solutions",
+    "category": "Skin Care",
+    "title": "Dry Skin Solutions: Hydration Strategies That Work"
+  },
+  {
+    "type": "inline",
+    "subtype": "detail1",
+    "filename": "dry-detail1-20240616155504.jpeg",
+    "keywords": "dry detail1",
+    "category": "Skin Care",
+    "title": "Dry Skin Solutions: Hydration Strategies That Work"
+  },
+  {
+    "type": "inline",
+    "subtype": "detail2",
+    "filename": "dry-detail2-20250516054817.jpeg",
+    "keywords": "dry detail2",
+    "category": "Skin Care",
+    "title": "Dry Skin Solutions: Hydration Strategies That Work"
+  },
+  {
+    "type": "cover",
+    "filename": "anti-aging-ingredients-20240721090622.jpeg",
+    "keywords": "anti aging ingredients",
+    "category": "Skin Care",
+    "title": "Anti-aging Skincare: Ingredients That Actually Work"
+  },
+  {
+    "type": "inline",
+    "subtype": "detail1",
+    "filename": "anti-detail1-20250131101705.jpeg",
+    "keywords": "anti detail1",
+    "category": "Skin Care",
+    "title": "Anti-aging Skincare: Ingredients That Actually Work"
+  },
+  {
+    "type": "inline",
+    "subtype": "detail2",
+    "filename": "anti-detail2-20250418100551.jpeg",
+    "keywords": "anti detail2",
+    "category": "Skin Care",
+    "title": "Anti-aging Skincare: Ingredients That Actually Work"
+  },
+  {
+    "type": "cover",
+    "filename": "double-cleansing-20250126083544.jpeg",
+    "keywords": "double cleansing",
+    "category": "Skin Care",
+    "title": "The Double Cleansing Method: Why It Transforms Your Skin"
+  },
+  {
+    "type": "inline",
+    "subtype": "detail1",
+    "filename": "double-detail1-20241023074554.jpeg",
+    "keywords": "double detail1",
+    "category": "Skin Care",
+    "title": "The Double Cleansing Method: Why It Transforms Your Skin"
+  },
+  {
+    "type": "inline",
+    "subtype": "detail2",
+    "filename": "double-detail2-20240724203854.jpeg",
+    "keywords": "double detail2",
+    "category": "Skin Care",
+    "title": "The Double Cleansing Method: Why It Transforms Your Skin"
+  },
+  {
+    "type": "cover",
+    "filename": "large-pores-20240703040039.jpeg",
+    "keywords": "large pores",
+    "category": "Skin Care",
+    "title": "Dealing with Large Pores: Causes and Solutions"
+  },
+  {
+    "type": "inline",
+    "subtype": "detail1",
+    "filename": "large-detail1-20250518135807.jpeg",
+    "keywords": "large detail1",
+    "category": "Skin Care",
+    "title": "Dealing with Large Pores: Causes and Solutions"
+  },
+  {
+    "type": "inline",
+    "subtype": "detail2",
+    "filename": "large-detail2-20240922213328.jpeg",
+    "keywords": "large detail2",
+    "category": "Skin Care",
+    "title": "Dealing with Large Pores: Causes and Solutions"
+  },
+  {
+    "type": "cover",
+    "filename": "dark-spot-fading-20250412053028.jpeg",
+    "keywords": "dark spot fading",
+    "category": "Skin Care",
+    "title": "Dark Spot Solutions: How to Fade Hyperpigmentation"
+  },
+  {
+    "type": "inline",
+    "subtype": "detail1",
+    "filename": "dark-detail1-20250515094224.jpeg",
+    "keywords": "dark detail1",
+    "category": "Skin Care",
+    "title": "Dark Spot Solutions: How to Fade Hyperpigmentation"
+  },
+  {
+    "type": "inline",
+    "subtype": "detail2",
+    "filename": "dark-detail2-220241011171337.jpeg",
+    "keywords": "dark detail2",
+    "category": "Skin Care",
+    "title": "Dark Spot Solutions: How to Fade Hyperpigmentation"
+  },
+  {
+    "type": "cover",
+    "filename": "sensitive-skin-care-20241004183509.jpeg",
+    "keywords": "sensitive skin care",
+    "category": "Skin Care",
+    "title": "Sensitive Skin Care: Building a Gentle Routine"
+  },
+  {
+    "type": "inline",
+    "subtype": "detail1",
+    "filename": "sensitive-detail1-20250215131111.jpeg",
+    "keywords": "sensitive detail1",
+    "category": "Skin Care",
+    "title": "Sensitive Skin Care: Building a Gentle Routine"
+  },
+  {
+    "type": "inline",
+    "subtype": "detail2",
+    "filename": "sensitive-detail2-20250214001335.jpeg",
+    "keywords": "sensitive detail2",
+    "category": "Skin Care",
+    "title": "Sensitive Skin Care: Building a Gentle Routine"
+  },
+  {
+    "type": "cover",
+    "filename": "skin-barrier-20250511210452.jpeg",
+    "keywords": "skin barrier",
+    "category": "Skin Care",
+    "title": "The Skin Barrier: Why It's the Foundation of Healthy Skin"
+  },
+  {
+    "type": "inline",
+    "subtype": "detail1",
+    "filename": "skin-detail1-20240823134236.jpeg",
+    "keywords": "skin detail1",
+    "category": "Skin Care",
+    "title": "The Skin Barrier: Why It's the Foundation of Healthy Skin"
+  },
+  {
+    "type": "inline",
+    "subtype": "detail2",
+    "filename": "skin-detail2-20240630053519.jpeg",
+    "keywords": "skin detail2",
+    "category": "Skin Care",
+    "title": "The Skin Barrier: Why It's the Foundation of Healthy Skin"
+  },
+  {
+    "type": "cover",
+    "filename": "niacinamide-benefits-20240723175651.jpeg",
+    "keywords": "niacinamide benefits",
+    "category": "Skin Care",
+    "title": "Niacinamide Benefits: the Multi-tasking Vitamin B3"
+  },
+  {
+    "type": "inline",
+    "subtype": "detail1",
+    "filename": "niacinamide-detail1-20250415084225.jpeg",
+    "keywords": "niacinamide detail1",
+    "category": "Skin Care",
+    "title": "Niacinamide Benefits: the Multi-tasking Vitamin B3"
+  },
+  {
+    "type": "inline",
+    "subtype": "detail2",
+    "filename": "niacinamide-detail2-20240925114851.jpeg",
+    "keywords": "niacinamide detail2",
+    "category": "Skin Care",
+    "title": "Niacinamide Benefits: the Multi-tasking Vitamin B3"
+  },
+  {
+    "type": "cover",
+    "filename": "sheet-mask-guide-20250213142617.jpeg",
+    "keywords": "sheet mask guide",
+    "category": "Skin Care",
+    "title": "Sheet Masks: Are They Worth the Hype?"
+  },
+  {
+    "type": "inline",
+    "subtype": "detail1",
+    "filename": "sheet-detail1-20250412011727.jpeg",
+    "keywords": "sheet detail1",
+    "category": "Skin Care",
+    "title": "Sheet Masks: Are They Worth the Hype?"
+  },
+  {
+    "type": "inline",
+    "subtype": "detail2",
+    "filename": "sheet-detail2-20240914121217.jpeg",
+    "keywords": "sheet detail2",
+    "category": "Skin Care",
+    "title": "Sheet Masks: Are They Worth the Hype?"
+  },
+  {
+    "type": "cover",
+    "filename": "eye-cream-20240620040900.jpeg",
+    "keywords": "eye cream",
+    "category": "Skin Care",
+    "title": "Eye Cream Essentials: Targeting the Delicate Eye Area"
+  },
+  {
+    "type": "inline",
+    "subtype": "detail1",
+    "filename": "eye-detail1-20250323102743.jpeg",
+    "keywords": "eye detail1",
+    "category": "Skin Care",
+    "title": "Eye Cream Essentials: Targeting the Delicate Eye Area"
+  },
+  {
+    "type": "inline",
+    "subtype": "detail2",
+    "filename": "eye-detail2-20240803231025.jpeg",
+    "keywords": "eye detail2",
+    "category": "Skin Care",
+    "title": "Eye Cream Essentials: Targeting the Delicate Eye Area"
+  },
+  {
+    "type": "cover",
+    "filename": "acne-scars-20250101100940.jpeg",
+    "keywords": "acne scars",
+    "category": "Skin Care",
+    "title": "Acne Scars: Treatment Options for Different Types"
+  },
+  {
+    "type": "inline",
+    "subtype": "detail1",
+    "filename": "acne-detail1-20250318101837.jpeg",
+    "keywords": "acne detail1",
+    "category": "Skin Care",
+    "title": "Acne Scars: Treatment Options for Different Types"
+  },
+  {
+    "type": "inline",
+    "subtype": "detail2",
+    "filename": "acne-detail2-20250513111939.jpeg",
+    "keywords": "acne detail2",
+    "category": "Skin Care",
+    "title": "Acne Scars: Treatment Options for Different Types"
+  },
+  {
+    "type": "cover",
+    "filename": "rosacea-care-20240920055003.jpeg",
+    "keywords": "rosacea care",
+    "category": "Skin Care",
+    "title": "Rosacea Management: Skincare Tips and Treatments"
+  },
+  {
+    "type": "inline",
+    "subtype": "detail1",
+    "filename": "rosacea-detail1-20240617085310.jpeg",
+    "keywords": "rosacea detail1",
+    "category": "Skin Care",
+    "title": "Rosacea Management: Skincare Tips and Treatments"
+  },
+  {
+    "type": "inline",
+    "subtype": "detail2",
+    "filename": "rosacea-detail2-20240706061821.jpeg",
+    "keywords": "rosacea detail2",
+    "category": "Skin Care",
+    "title": "Rosacea Management: Skincare Tips and Treatments"
+  },
+  {
+    "type": "cover",
+    "filename": "oily-skin-20250204080746.jpeg",
+    "keywords": "oily skin",
+    "category": "Skin Care",
+    "title": "Oily Skin Management: Balance Without Over-drying"
+  },
+  {
+    "type": "inline",
+    "subtype": "detail1",
+    "filename": "oily-detail1-20241029014900.jpeg",
+    "keywords": "oily detail1",
+    "category": "Skin Care",
+    "title": "Oily Skin Management: Balance Without Over-drying"
+  },
+  {
+    "type": "inline",
+    "subtype": "detail2",
+    "filename": "oily-detail2-20240614032145.jpeg",
+    "keywords": "oily detail2",
+    "category": "Skin Care",
+    "title": "Oily Skin Management: Balance Without Over-drying"
+  },
+  {
+    "type": "cover",
+    "filename": "combination-skin-20250106071210.jpeg",
+    "keywords": "combination skin",
+    "category": "Skin Care",
+    "title": "Combination Skin Care: Managing Two Different Needs"
+  },
+  {
+    "type": "inline",
+    "subtype": "detail1",
+    "filename": "combination-detail1-20241016221756.jpeg",
+    "keywords": "combination detail1",
+    "category": "Skin Care",
+    "title": "Combination Skin Care: Managing Two Different Needs"
+  },
+  {
+    "type": "inline",
+    "subtype": "detail2",
+    "filename": "combination-detail2-20250417031441.jpeg",
+    "keywords": "combination detail2",
+    "category": "Skin Care",
+    "title": "Combination Skin Care: Managing Two Different Needs"
+  },
+  {
+    "type": "cover",
+    "filename": "mature-skin-care-20240815011449.jpeg",
+    "keywords": "mature skin care",
+    "category": "Skin Care",
+    "title": "Mature Skin Care: Adjusting Your Routine After 50"
+  },
+  {
+    "type": "inline",
+    "subtype": "detail1",
+    "filename": "mature-detail1-20250129170357.jpeg",
+    "keywords": "mature detail1",
+    "category": "Skin Care",
+    "title": "Mature Skin Care: Adjusting Your Routine After 50"
+  },
+  {
+    "type": "inline",
+    "subtype": "detail2",
+    "filename": "mature-detail2-20250115101448.jpeg",
+    "keywords": "mature detail2",
+    "category": "Skin Care",
+    "title": "Mature Skin Care: Adjusting Your Routine After 50"
+  },
+  {
+    "type": "cover",
+    "filename": "chronic-skin-20240604223146.jpeg",
+    "keywords": "chronic skin",
+    "category": "Skin Care",
+    "title": "Eczema and Psoriasis: Skincare for Chronic Conditions"
+  },
+  {
+    "type": "inline",
+    "subtype": "detail1",
+    "filename": "chronic-detail1-20240712183745.jpeg",
+    "keywords": "chronic detail1",
+    "category": "Skin Care",
+    "title": "Eczema and Psoriasis: Skincare for Chronic Conditions"
+  },
+  {
+    "type": "inline",
+    "subtype": "detail2",
+    "filename": "chronic-detail2-20240606200758.jpeg",
+    "keywords": "chronic detail2",
+    "category": "Skin Care",
+    "title": "Eczema and Psoriasis: Skincare for Chronic Conditions"
+  },
+  {
+    "type": "cover",
+    "filename": "patch-testing-20241003235755.jpeg",
+    "keywords": "patch testing",
+    "category": "Skin Care",
+    "title": "The Importance of Patch Testing New Products"
+  },
+  {
+    "type": "inline",
+    "subtype": "detail1",
+    "filename": "patch-detail1-20241116062458.jpeg",
+    "keywords": "patch detail1",
+    "category": "Skin Care",
+    "title": "The Importance of Patch Testing New Products"
+  },
+  {
+    "type": "inline",
+    "subtype": "detail2",
+    "filename": "patch-detail2-20241031123021.jpeg",
+    "keywords": "patch detail2",
+    "category": "Skin Care",
+    "title": "The Importance of Patch Testing New Products"
+  },
+  {
+    "type": "cover",
+    "filename": "seasonal-skincare-20250518080705.jpeg",
+    "keywords": "seasonal skincare",
+    "category": "Skin Care",
+    "title": "Seasonal Skincare: Adjusting Your Routine Year-round"
+  },
+  {
+    "type": "inline",
+    "subtype": "detail1",
+    "filename": "seasonal-detail1-20241206195242.jpeg",
+    "keywords": "seasonal detail1",
+    "category": "Skin Care",
+    "title": "Seasonal Skincare: Adjusting Your Routine Year-round"
+  },
+  {
+    "type": "inline",
+    "subtype": "detail2",
+    "filename": "seasonal-detail2-220241021073335.jpeg",
+    "keywords": "seasonal detail2",
+    "category": "Skin Care",
+    "title": "Seasonal Skincare: Adjusting Your Routine Year-round"
+  },
+  {
+    "type": "cover",
+    "filename": "body-skincare-20240917131406.jpeg",
+    "keywords": "body skincare",
+    "category": "Skin Care",
+    "title": "Body Skincare: Why Your Body Needs Attention Too"
+  },
+  {
+    "type": "inline",
+    "subtype": "detail1",
+    "filename": "body-detail1-20241113165016.jpeg",
+    "keywords": "body detail1",
+    "category": "Skin Care",
+    "title": "Body Skincare: Why Your Body Needs Attention Too"
+  },
+  {
+    "type": "inline",
+    "subtype": "detail2",
+    "filename": "body-detail2-20250101081909.jpeg",
+    "keywords": "body detail2",
+    "category": "Skin Care",
+    "title": "Body Skincare: Why Your Body Needs Attention Too"
+  },
+  {
+    "type": "cover",
+    "filename": "mens-skincare-20250428184727.jpeg",
+    "keywords": "mens skincare",
+    "category": "Skin Care",
+    "title": "Men's Skincare: Building a Simple Effective Routine"
+  },
+  {
+    "type": "inline",
+    "subtype": "detail1",
+    "filename": "mens-detail1-20240908125124.jpeg",
+    "keywords": "mens detail1",
+    "category": "Skin Care",
+    "title": "Men's Skincare: Building a Simple Effective Routine"
+  },
+  {
+    "type": "inline",
+    "subtype": "detail2",
+    "filename": "mens-detail2-20240915145408.jpeg",
+    "keywords": "mens detail2",
+    "category": "Skin Care",
+    "title": "Men's Skincare: Building a Simple Effective Routine"
+  },
+  {
+    "type": "cover",
+    "filename": "hair-type-guide-20240809045002.jpeg",
+    "keywords": "hair type guide",
+    "category": "Hair & Nails",
+    "title": "Understanding Your Hair Type: a Complete Guide"
+  },
+  {
+    "type": "inline",
+    "subtype": "detail1",
+    "filename": "hair-detail1-20250303140419.jpeg",
+    "keywords": "hair detail1",
+    "category": "Hair & Nails",
+    "title": "Understanding Your Hair Type: a Complete Guide"
+  },
+  {
+    "type": "inline",
+    "subtype": "detail2",
+    "filename": "hair-detail2-20240828063513.jpeg",
+    "keywords": "hair detail2",
+    "category": "Hair & Nails",
+    "title": "Understanding Your Hair Type: a Complete Guide"
+  },
+  {
+    "type": "cover",
+    "filename": "shampoo-conditioner-20250515181505.jpeg",
+    "keywords": "shampoo conditioner",
+    "category": "Hair & Nails",
+    "title": "The Perfect Shampoo and Conditioner for Your Hair"
+  },
+  {
+    "type": "inline",
+    "subtype": "detail1",
+    "filename": "shampoo-detail1-20240612043639.jpeg",
+    "keywords": "shampoo detail1",
+    "category": "Hair & Nails",
+    "title": "The Perfect Shampoo and Conditioner for Your Hair"
+  },
+  {
+    "type": "inline",
+    "subtype": "detail2",
+    "filename": "shampoo-detail2-220241201233314.jpeg",
+    "keywords": "shampoo detail2",
+    "category": "Hair & Nails",
+    "title": "The Perfect Shampoo and Conditioner for Your Hair"
+  },
+  {
+    "type": "cover",
+    "filename": "heat-styling-20240621110635.jpeg",
+    "keywords": "heat styling",
+    "category": "Hair & Nails",
+    "title": "Heat Styling Without Damage: Safe Techniques"
+  },
+  {
+    "type": "inline",
+    "subtype": "detail1",
+    "filename": "heat-detail1-20241221180249.jpeg",
+    "keywords": "heat detail1",
+    "category": "Hair & Nails",
+    "title": "Heat Styling Without Damage: Safe Techniques"
+  },
+  {
+    "type": "inline",
+    "subtype": "detail2",
+    "filename": "heat-detail2-220250406224756.jpeg",
+    "keywords": "heat detail2",
+    "category": "Hair & Nails",
+    "title": "Heat Styling Without Damage: Safe Techniques"
+  },
+  {
+    "type": "cover",
+    "filename": "home-haircut-20240706222052.jpeg",
+    "keywords": "home haircut",
+    "category": "Hair & Nails",
+    "title": "Trimming Your Hair at Home: Professional Tips"
+  },
+  {
+    "type": "inline",
+    "subtype": "detail1",
+    "filename": "home-detail1-20250311033928.jpeg",
+    "keywords": "home detail1",
+    "category": "Hair & Nails",
+    "title": "Trimming Your Hair at Home: Professional Tips"
+  },
+  {
+    "type": "inline",
+    "subtype": "detail2",
+    "filename": "home-detail2-20250513080914.jpeg",
+    "keywords": "home detail2",
+    "category": "Hair & Nails",
+    "title": "Trimming Your Hair at Home: Professional Tips"
+  },
+  {
+    "type": "cover",
+    "filename": "deep-condition-20241103192148.jpeg",
+    "keywords": "deep condition",
+    "category": "Hair & Nails",
+    "title": "Deep Conditioning Treatments: When and How to Use"
+  },
+  {
+    "type": "inline",
+    "subtype": "detail1",
+    "filename": "deep-detail1-20250426050823.jpeg",
+    "keywords": "deep detail1",
+    "category": "Hair & Nails",
+    "title": "Deep Conditioning Treatments: When and How to Use"
+  },
+  {
+    "type": "inline",
+    "subtype": "detail2",
+    "filename": "deep-detail2-20241223022417.jpeg",
+    "keywords": "deep detail2",
+    "category": "Hair & Nails",
+    "title": "Deep Conditioning Treatments: When and How to Use"
+  },
+  {
+    "type": "cover",
+    "filename": "oily-hair-20240706180249.jpeg",
+    "keywords": "oily hair",
+    "category": "Hair & Nails",
+    "title": "Oily Hair Solutions: Balancing Sebum Production"
+  },
+  {
+    "type": "inline",
+    "subtype": "detail1",
+    "filename": "oily-detail1-20240814022535.jpeg",
+    "keywords": "oily detail1",
+    "category": "Hair & Nails",
+    "title": "Oily Hair Solutions: Balancing Sebum Production"
+  },
+  {
+    "type": "inline",
+    "subtype": "detail2",
+    "filename": "oily-detail2-20241013230612.jpeg",
+    "keywords": "oily detail2",
+    "category": "Hair & Nails",
+    "title": "Oily Hair Solutions: Balancing Sebum Production"
+  },
+  {
+    "type": "cover",
+    "filename": "damaged-hair-20241105155337.jpeg",
+    "keywords": "damaged hair",
+    "category": "Hair & Nails",
+    "title": "Dry and Damaged Hair: Recovery Strategies"
+  },
+  {
+    "type": "inline",
+    "subtype": "detail1",
+    "filename": "damaged-detail1-20250208104317.jpeg",
+    "keywords": "damaged detail1",
+    "category": "Hair & Nails",
+    "title": "Dry and Damaged Hair: Recovery Strategies"
+  },
+  {
+    "type": "inline",
+    "subtype": "detail2",
+    "filename": "damaged-detail2-20240928045912.jpeg",
+    "keywords": "damaged detail2",
+    "category": "Hair & Nails",
+    "title": "Dry and Damaged Hair: Recovery Strategies"
+  },
+  {
+    "type": "cover",
+    "filename": "colored-hair-20241014142105.jpeg",
+    "keywords": "colored hair",
+    "category": "Hair & Nails",
+    "title": "Colored Hair Care: Maintaining Vibrant Color"
+  },
+  {
+    "type": "inline",
+    "subtype": "detail1",
+    "filename": "colored-detail1-20240618024753.jpeg",
+    "keywords": "colored detail1",
+    "category": "Hair & Nails",
+    "title": "Colored Hair Care: Maintaining Vibrant Color"
+  },
+  {
+    "type": "inline",
+    "subtype": "detail2",
+    "filename": "colored-detail2-20250218091142.jpeg",
+    "keywords": "colored detail2",
+    "category": "Hair & Nails",
+    "title": "Colored Hair Care: Maintaining Vibrant Color"
+  },
+  {
+    "type": "cover",
+    "filename": "curly-hair-20240626030222.jpeg",
+    "keywords": "curly hair",
+    "category": "Hair & Nails",
+    "title": "Curly Hair Routine: Embrace Your Natural Texture"
+  },
+  {
+    "type": "inline",
+    "subtype": "detail1",
+    "filename": "curly-detail1-20240918015705.jpeg",
+    "keywords": "curly detail1",
+    "category": "Hair & Nails",
+    "title": "Curly Hair Routine: Embrace Your Natural Texture"
+  },
+  {
+    "type": "inline",
+    "subtype": "detail2",
+    "filename": "curly-detail2-20241128045817.jpeg",
+    "keywords": "curly detail2",
+    "category": "Hair & Nails",
+    "title": "Curly Hair Routine: Embrace Your Natural Texture"
+  },
+  {
+    "type": "cover",
+    "filename": "blowdry-techniques-20250116122310.jpeg",
+    "keywords": "blowdry techniques",
+    "category": "Hair & Nails",
+    "title": "Blow Drying Techniques for Smooth, Professional Results"
+  },
+  {
+    "type": "inline",
+    "subtype": "detail1",
+    "filename": "blowdry-detail1-20241109084701.jpeg",
+    "keywords": "blowdry detail1",
+    "category": "Hair & Nails",
+    "title": "Blow Drying Techniques for Smooth, Professional Results"
+  },
+  {
+    "type": "inline",
+    "subtype": "detail2",
+    "filename": "blowdry-detail2-20241208191255.jpeg",
+    "keywords": "blowdry detail2",
+    "category": "Hair & Nails",
+    "title": "Blow Drying Techniques for Smooth, Professional Results"
+  },
+  {
+    "type": "cover",
+    "filename": "braiding-styles-20240821134400.jpeg",
+    "keywords": "braiding styles",
+    "category": "Hair & Nails",
+    "title": "Braiding Styles: from Basic to Creative"
+  },
+  {
+    "type": "inline",
+    "subtype": "detail1",
+    "filename": "braiding-detail1-20250309060652.jpeg",
+    "keywords": "braiding detail1",
+    "category": "Hair & Nails",
+    "title": "Braiding Styles: from Basic to Creative"
+  },
+  {
+    "type": "inline",
+    "subtype": "detail2",
+    "filename": "braiding-detail2-20250510065529.jpeg",
+    "keywords": "braiding detail2",
+    "category": "Hair & Nails",
+    "title": "Braiding Styles: from Basic to Creative"
+  },
+  {
+    "type": "cover",
+    "filename": "split-ends-20241211073839.jpeg",
+    "keywords": "split ends",
+    "category": "Hair & Nails",
+    "title": "Split End Solutions: Prevention and Treatment"
+  },
+  {
+    "type": "inline",
+    "subtype": "detail1",
+    "filename": "split-detail1-20250428031258.jpeg",
+    "keywords": "split detail1",
+    "category": "Hair & Nails",
+    "title": "Split End Solutions: Prevention and Treatment"
+  },
+  {
+    "type": "inline",
+    "subtype": "detail2",
+    "filename": "split-detail2-20250506211252.jpeg",
+    "keywords": "split detail2",
+    "category": "Hair & Nails",
+    "title": "Split End Solutions: Prevention and Treatment"
+  },
+  {
+    "type": "cover",
+    "filename": "hair-mask-20250222094501.jpeg",
+    "keywords": "hair mask",
+    "category": "Hair & Nails",
+    "title": "Hair Masks: Deep Treatment for Every Hair Type"
+  },
+  {
+    "type": "inline",
+    "subtype": "detail1",
+    "filename": "hair-detail1-20240919110050.jpeg",
+    "keywords": "hair detail1",
+    "category": "Hair & Nails",
+    "title": "Hair Masks: Deep Treatment for Every Hair Type"
+  },
+  {
+    "type": "inline",
+    "subtype": "detail2",
+    "filename": "hair-detail2-20250105000057.jpeg",
+    "keywords": "hair detail2",
+    "category": "Hair & Nails",
+    "title": "Hair Masks: Deep Treatment for Every Hair Type"
+  },
+  {
+    "type": "cover",
+    "filename": "scalp-health-20241203034912.jpeg",
+    "keywords": "scalp health",
+    "category": "Hair & Nails",
+    "title": "Scalp Health: the Foundation of Healthy Hair"
+  },
+  {
+    "type": "inline",
+    "subtype": "detail1",
+    "filename": "scalp-detail1-20241002160951.jpeg",
+    "keywords": "scalp detail1",
+    "category": "Hair & Nails",
+    "title": "Scalp Health: the Foundation of Healthy Hair"
+  },
+  {
+    "type": "inline",
+    "subtype": "detail2",
+    "filename": "scalp-detail2-20250319073148.jpeg",
+    "keywords": "scalp detail2",
+    "category": "Hair & Nails",
+    "title": "Scalp Health: the Foundation of Healthy Hair"
+  },
+  {
+    "type": "cover",
+    "filename": "fine-hair-20241026234734.jpeg",
+    "keywords": "fine hair",
+    "category": "Hair & Nails",
+    "title": "The Best Hair Products for Fine Hair"
+  },
+  {
+    "type": "inline",
+    "subtype": "detail1",
+    "filename": "fine-detail1-20241023195912.jpeg",
+    "keywords": "fine detail1",
+    "category": "Hair & Nails",
+    "title": "The Best Hair Products for Fine Hair"
+  },
+  {
+    "type": "inline",
+    "subtype": "detail2",
+    "filename": "fine-detail2-20241212115626.jpeg",
+    "keywords": "fine detail2",
+    "category": "Hair & Nails",
+    "title": "The Best Hair Products for Fine Hair"
+  },
+  {
+    "type": "cover",
+    "filename": "thick-hair-20250308071445.jpeg",
+    "keywords": "thick hair",
+    "category": "Hair & Nails",
+    "title": "Thick Hair Management: Taming Unruly Volume"
+  },
+  {
+    "type": "inline",
+    "subtype": "detail1",
+    "filename": "thick-detail1-20250223175649.jpeg",
+    "keywords": "thick detail1",
+    "category": "Hair & Nails",
+    "title": "Thick Hair Management: Taming Unruly Volume"
+  },
+  {
+    "type": "inline",
+    "subtype": "detail2",
+    "filename": "thick-detail2-20250420215808.jpeg",
+    "keywords": "thick detail2",
+    "category": "Hair & Nails",
+    "title": "Thick Hair Management: Taming Unruly Volume"
+  },
+  {
+    "type": "cover",
+    "filename": "nail-anatomy-20250510045045.jpeg",
+    "keywords": "nail anatomy",
+    "category": "Hair & Nails",
+    "title": "Nail Anatomy: Understanding Your Nails Better"
+  },
+  {
+    "type": "inline",
+    "subtype": "detail1",
+    "filename": "nail-detail1-20240809114214.jpeg",
+    "keywords": "nail detail1",
+    "category": "Hair & Nails",
+    "title": "Nail Anatomy: Understanding Your Nails Better"
+  },
+  {
+    "type": "inline",
+    "subtype": "detail2",
+    "filename": "nail-detail2-20240705171316.jpeg",
+    "keywords": "nail detail2",
+    "category": "Hair & Nails",
+    "title": "Nail Anatomy: Understanding Your Nails Better"
+  },
+  {
+    "type": "cover",
+    "filename": "gel-manicure-20241116220544.jpeg",
+    "keywords": "gel manicure",
+    "category": "Hair & Nails",
+    "title": "Gel Manicure Guide: Long-lasting Polish"
+  },
+  {
+    "type": "inline",
+    "subtype": "detail1",
+    "filename": "gel-detail1-20250305102955.jpeg",
+    "keywords": "gel detail1",
+    "category": "Hair & Nails",
+    "title": "Gel Manicure Guide: Long-lasting Polish"
+  },
+  {
+    "type": "inline",
+    "subtype": "detail2",
+    "filename": "gel-detail2-20250511085836.jpeg",
+    "keywords": "gel detail2",
+    "category": "Hair & Nails",
+    "title": "Gel Manicure Guide: Long-lasting Polish"
+  },
+  {
+    "type": "cover",
+    "filename": "acrylic-nails-20241003171128.jpeg",
+    "keywords": "acrylic nails",
+    "category": "Hair & Nails",
+    "title": "Acrylic Nails: What to Know Before You Get Them"
+  },
+  {
+    "type": "inline",
+    "subtype": "detail1",
+    "filename": "acrylic-detail1-20250518091048.jpeg",
+    "keywords": "acrylic detail1",
+    "category": "Hair & Nails",
+    "title": "Acrylic Nails: What to Know Before You Get Them"
+  },
+  {
+    "type": "inline",
+    "subtype": "detail2",
+    "filename": "acrylic-detail2-20250311033305.jpeg",
+    "keywords": "acrylic detail2",
+    "category": "Hair & Nails",
+    "title": "Acrylic Nails: What to Know Before You Get Them"
+  },
+  {
+    "type": "cover",
+    "filename": "nail-care-20250218190817.jpeg",
+    "keywords": "nail care",
+    "category": "Hair & Nails",
+    "title": "Nail Care Essentials: Building a Home Routine"
+  },
+  {
+    "type": "inline",
+    "subtype": "detail1",
+    "filename": "nail-detail1-20240901060920.jpeg",
+    "keywords": "nail detail1",
+    "category": "Hair & Nails",
+    "title": "Nail Care Essentials: Building a Home Routine"
+  },
+  {
+    "type": "inline",
+    "subtype": "detail2",
+    "filename": "nail-detail2-20241227233539.jpeg",
+    "keywords": "nail detail2",
+    "category": "Hair & Nails",
+    "title": "Nail Care Essentials: Building a Home Routine"
+  },
+  {
+    "type": "cover",
+    "filename": "brittle-nails-20250322142029.jpeg",
+    "keywords": "brittle nails",
+    "category": "Hair & Nails",
+    "title": "Dealing with Brittle Nails: Causes and Fixes"
+  },
+  {
+    "type": "inline",
+    "subtype": "detail1",
+    "filename": "brittle-detail1-20241031041759.jpeg",
+    "keywords": "brittle detail1",
+    "category": "Hair & Nails",
+    "title": "Dealing with Brittle Nails: Causes and Fixes"
+  },
+  {
+    "type": "inline",
+    "subtype": "detail2",
+    "filename": "brittle-detail2-20240710160505.jpeg",
+    "keywords": "brittle detail2",
+    "category": "Hair & Nails",
+    "title": "Dealing with Brittle Nails: Causes and Fixes"
+  },
+  {
+    "type": "cover",
+    "filename": "cuticle-care-20250209115353.jpeg",
+    "keywords": "cuticle care",
+    "category": "Hair & Nails",
+    "title": "Cuticle Care: What's Safe and What to Avoid"
+  },
+  {
+    "type": "inline",
+    "subtype": "detail1",
+    "filename": "cuticle-detail1-20250411070313.jpeg",
+    "keywords": "cuticle detail1",
+    "category": "Hair & Nails",
+    "title": "Cuticle Care: What's Safe and What to Avoid"
+  },
+  {
+    "type": "inline",
+    "subtype": "detail2",
+    "filename": "cuticle-detail2-20240605184906.jpeg",
+    "keywords": "cuticle detail2",
+    "category": "Hair & Nails",
+    "title": "Cuticle Care: What's Safe and What to Avoid"
+  },
+  {
+    "type": "cover",
+    "filename": "nail-polish-20250201112428.jpeg",
+    "keywords": "nail polish",
+    "category": "Hair & Nails",
+    "title": "Nail Polish Application: Professional Techniques"
+  },
+  {
+    "type": "inline",
+    "subtype": "detail1",
+    "filename": "nail-detail1-20240706161749.jpeg",
+    "keywords": "nail detail1",
+    "category": "Hair & Nails",
+    "title": "Nail Polish Application: Professional Techniques"
+  },
+  {
+    "type": "inline",
+    "subtype": "detail2",
+    "filename": "nail-detail2-20241002101214.jpeg",
+    "keywords": "nail detail2",
+    "category": "Hair & Nails",
+    "title": "Nail Polish Application: Professional Techniques"
+  },
+  {
+    "type": "cover",
+    "filename": "french-manicure-20240605203710.jpeg",
+    "keywords": "french manicure",
+    "category": "Hair & Nails",
+    "title": "French Manicure: the Classic Elegant Look"
+  },
+  {
+    "type": "inline",
+    "subtype": "detail1",
+    "filename": "french-detail1-20240607225226.jpeg",
+    "keywords": "french detail1",
+    "category": "Hair & Nails",
+    "title": "French Manicure: the Classic Elegant Look"
+  },
+  {
+    "type": "inline",
+    "subtype": "detail2",
+    "filename": "french-detail2-20240627060251.jpeg",
+    "keywords": "french detail2",
+    "category": "Hair & Nails",
+    "title": "French Manicure: the Classic Elegant Look"
+  },
+  {
+    "type": "cover",
+    "filename": "nail-art-20240826041119.jpeg",
+    "keywords": "nail art",
+    "category": "Hair & Nails",
+    "title": "Nail Art for Beginners: Simple Designs at Home"
+  },
+  {
+    "type": "inline",
+    "subtype": "detail1",
+    "filename": "nail-detail1-20250123092336.jpeg",
+    "keywords": "nail detail1",
+    "category": "Hair & Nails",
+    "title": "Nail Art for Beginners: Simple Designs at Home"
+  },
+  {
+    "type": "inline",
+    "subtype": "detail2",
+    "filename": "nail-detail2-20240629065927.jpeg",
+    "keywords": "nail detail2",
+    "category": "Hair & Nails",
+    "title": "Nail Art for Beginners: Simple Designs at Home"
+  },
+  {
+    "type": "cover",
+    "filename": "toenail-care-20240923213533.jpeg",
+    "keywords": "toenail care",
+    "category": "Hair & Nails",
+    "title": "Toenail Care: Keeping Feet Healthy and Beautiful"
+  },
+  {
+    "type": "inline",
+    "subtype": "detail1",
+    "filename": "toenail-detail1-20241026061926.jpeg",
+    "keywords": "toenail detail1",
+    "category": "Hair & Nails",
+    "title": "Toenail Care: Keeping Feet Healthy and Beautiful"
+  },
+  {
+    "type": "inline",
+    "subtype": "detail2",
+    "filename": "toenail-detail2-20250404184346.jpeg",
+    "keywords": "toenail detail2",
+    "category": "Hair & Nails",
+    "title": "Toenail Care: Keeping Feet Healthy and Beautiful"
+  },
+  {
+    "type": "cover",
+    "filename": "nail-strengthening-20240727044242.jpeg",
+    "keywords": "nail strengthening",
+    "category": "Hair & Nails",
+    "title": "Strengthening Weak Nails: Products That Work"
+  },
+  {
+    "type": "inline",
+    "subtype": "detail1",
+    "filename": "nail-detail1-20240908031055.jpeg",
+    "keywords": "nail detail1",
+    "category": "Hair & Nails",
+    "title": "Strengthening Weak Nails: Products That Work"
+  },
+  {
+    "type": "inline",
+    "subtype": "detail2",
+    "filename": "nail-detail2-220250421040311.jpeg",
+    "keywords": "nail detail2",
+    "category": "Hair & Nails",
+    "title": "Strengthening Weak Nails: Products That Work"
+  },
+  {
+    "type": "cover",
+    "filename": "nail-removal-20241208033422.jpeg",
+    "keywords": "nail removal",
+    "category": "Hair & Nails",
+    "title": "Removing Gel and Acrylic Nails Safely"
+  },
+  {
+    "type": "inline",
+    "subtype": "detail1",
+    "filename": "nail-detail1-20240606184447.jpeg",
+    "keywords": "nail detail1",
+    "category": "Hair & Nails",
+    "title": "Removing Gel and Acrylic Nails Safely"
+  },
+  {
+    "type": "inline",
+    "subtype": "detail2",
+    "filename": "nail-detail2-20240828192504.jpeg",
+    "keywords": "nail detail2",
+    "category": "Hair & Nails",
+    "title": "Removing Gel and Acrylic Nails Safely"
+  },
+  {
+    "type": "cover",
+    "filename": "natural-nails-20241129220005.jpeg",
+    "keywords": "natural nails",
+    "category": "Hair & Nails",
+    "title": "Natural Nail Health: Growing Strong Nails"
+  },
+  {
+    "type": "inline",
+    "subtype": "detail1",
+    "filename": "natural-detail1-20250321210849.jpeg",
+    "keywords": "natural detail1",
+    "category": "Hair & Nails",
+    "title": "Natural Nail Health: Growing Strong Nails"
+  },
+  {
+    "type": "inline",
+    "subtype": "detail2",
+    "filename": "natural-detail2-20250313161228.jpeg",
+    "keywords": "natural detail2",
+    "category": "Hair & Nails",
+    "title": "Natural Nail Health: Growing Strong Nails"
+  },
+  {
+    "type": "cover",
+    "filename": "fragrance-families-20241027202015.jpeg",
+    "keywords": "fragrance families",
+    "category": "Fragrances",
+    "title": "Understanding Fragrance Families: a Complete Guide"
+  },
+  {
+    "type": "inline",
+    "subtype": "detail1",
+    "filename": "fragrance-detail1-20241216110129.jpeg",
+    "keywords": "fragrance detail1",
+    "category": "Fragrances",
+    "title": "Understanding Fragrance Families: a Complete Guide"
+  },
+  {
+    "type": "inline",
+    "subtype": "detail2",
+    "filename": "fragrance-detail2-20250209021932.jpeg",
+    "keywords": "fragrance detail2",
+    "category": "Fragrances",
+    "title": "Understanding Fragrance Families: a Complete Guide"
+  },
+  {
+    "type": "cover",
+    "filename": "perfume-application-20240717163242.jpeg",
+    "keywords": "perfume application",
+    "category": "Fragrances",
+    "title": "How to Apply Perfume: Techniques That Last Longer"
+  },
+  {
+    "type": "inline",
+    "subtype": "detail1",
+    "filename": "perfume-detail1-20250106124428.jpeg",
+    "keywords": "perfume detail1",
+    "category": "Fragrances",
+    "title": "How to Apply Perfume: Techniques That Last Longer"
+  },
+  {
+    "type": "inline",
+    "subtype": "detail2",
+    "filename": "perfume-detail2-220241206091510.jpeg",
+    "keywords": "perfume detail2",
+    "category": "Fragrances",
+    "title": "How to Apply Perfume: Techniques That Last Longer"
+  },
+  {
+    "type": "cover",
+    "filename": "fragrance-notes-20241011091028.jpeg",
+    "keywords": "fragrance notes",
+    "category": "Fragrances",
+    "title": "Top Notes Vs Heart Notes Vs Base Notes Explained"
+  },
+  {
+    "type": "inline",
+    "subtype": "detail1",
+    "filename": "fragrance-detail1-20240927020046.jpeg",
+    "keywords": "fragrance detail1",
+    "category": "Fragrances",
+    "title": "Top Notes Vs Heart Notes Vs Base Notes Explained"
+  },
+  {
+    "type": "inline",
+    "subtype": "detail2",
+    "filename": "fragrance-detail2-20250215120723.jpeg",
+    "keywords": "fragrance detail2",
+    "category": "Fragrances",
+    "title": "Top Notes Vs Heart Notes Vs Base Notes Explained"
+  },
+  {
+    "type": "cover",
+    "filename": "signature-scent-20241023035516.jpeg",
+    "keywords": "signature scent",
+    "category": "Fragrances",
+    "title": "How to Find Your Signature Scent"
+  },
+  {
+    "type": "inline",
+    "subtype": "detail1",
+    "filename": "signature-detail1-20241106100548.jpeg",
+    "keywords": "signature detail1",
+    "category": "Fragrances",
+    "title": "How to Find Your Signature Scent"
+  },
+  {
+    "type": "inline",
+    "subtype": "detail2",
+    "filename": "signature-detail2-20240828152727.jpeg",
+    "keywords": "signature detail2",
+    "category": "Fragrances",
+    "title": "How to Find Your Signature Scent"
+  },
+  {
+    "type": "cover",
+    "filename": "fragrance-layering-20240701232022.jpeg",
+    "keywords": "fragrance layering",
+    "category": "Fragrances",
+    "title": "Layering Fragrances: Creating a Unique Scent"
+  },
+  {
+    "type": "inline",
+    "subtype": "detail1",
+    "filename": "fragrance-detail1-20241107100453.jpeg",
+    "keywords": "fragrance detail1",
+    "category": "Fragrances",
+    "title": "Layering Fragrances: Creating a Unique Scent"
+  },
+  {
+    "type": "inline",
+    "subtype": "detail2",
+    "filename": "fragrance-detail2-20250329052105.jpeg",
+    "keywords": "fragrance detail2",
+    "category": "Fragrances",
+    "title": "Layering Fragrances: Creating a Unique Scent"
+  },
+  {
+    "type": "cover",
+    "filename": "perfume-history-20240820134230.jpeg",
+    "keywords": "perfume history",
+    "category": "Fragrances",
+    "title": "The History of Perfume: from Ancient Times to Today"
+  },
+  {
+    "type": "inline",
+    "subtype": "detail1",
+    "filename": "perfume-detail1-20250303043651.jpeg",
+    "keywords": "perfume detail1",
+    "category": "Fragrances",
+    "title": "The History of Perfume: from Ancient Times to Today"
+  },
+  {
+    "type": "inline",
+    "subtype": "detail2",
+    "filename": "perfume-detail2-20250516151702.jpeg",
+    "keywords": "perfume detail2",
+    "category": "Fragrances",
+    "title": "The History of Perfume: from Ancient Times to Today"
+  },
+  {
+    "type": "cover",
+    "filename": "citrus-fragrances-20250106202147.jpeg",
+    "keywords": "citrus fragrances",
+    "category": "Fragrances",
+    "title": "Citrus Fragrances: Bright and Uplifting Scents"
+  },
+  {
+    "type": "inline",
+    "subtype": "detail1",
+    "filename": "citrus-detail1-20240614181857.jpeg",
+    "keywords": "citrus detail1",
+    "category": "Fragrances",
+    "title": "Citrus Fragrances: Bright and Uplifting Scents"
+  },
+  {
+    "type": "inline",
+    "subtype": "detail2",
+    "filename": "citrus-detail2-20240802210131.jpeg",
+    "keywords": "citrus detail2",
+    "category": "Fragrances",
+    "title": "Citrus Fragrances: Bright and Uplifting Scents"
+  },
+  {
+    "type": "cover",
+    "filename": "floral-fragrances-20250124140551.jpeg",
+    "keywords": "floral fragrances",
+    "category": "Fragrances",
+    "title": "Floral Fragrances: Romantic and Feminine Scents"
+  },
+  {
+    "type": "inline",
+    "subtype": "detail1",
+    "filename": "floral-detail1-20250322071306.jpeg",
+    "keywords": "floral detail1",
+    "category": "Fragrances",
+    "title": "Floral Fragrances: Romantic and Feminine Scents"
+  },
+  {
+    "type": "inline",
+    "subtype": "detail2",
+    "filename": "floral-detail2-20241110110012.jpeg",
+    "keywords": "floral detail2",
+    "category": "Fragrances",
+    "title": "Floral Fragrances: Romantic and Feminine Scents"
+  },
+  {
+    "type": "cover",
+    "filename": "woody-fragrances-20240731052852.jpeg",
+    "keywords": "woody fragrances",
+    "category": "Fragrances",
+    "title": "Woody Fragrances: Earthy and Warm Scents"
+  },
+  {
+    "type": "inline",
+    "subtype": "detail1",
+    "filename": "woody-detail1-20240812175811.jpeg",
+    "keywords": "woody detail1",
+    "category": "Fragrances",
+    "title": "Woody Fragrances: Earthy and Warm Scents"
+  },
+  {
+    "type": "inline",
+    "subtype": "detail2",
+    "filename": "woody-detail2-220250429183008.jpeg",
+    "keywords": "woody detail2",
+    "category": "Fragrances",
+    "title": "Woody Fragrances: Earthy and Warm Scents"
+  },
+  {
+    "type": "cover",
+    "filename": "oriental-fragrances-20250127090222.jpeg",
+    "keywords": "oriental fragrances",
+    "category": "Fragrances",
+    "title": "Oriental Fragrances: Exotic and Sensual Scents"
+  },
+  {
+    "type": "inline",
+    "subtype": "detail1",
+    "filename": "oriental-detail1-20250322154246.jpeg",
+    "keywords": "oriental detail1",
+    "category": "Fragrances",
+    "title": "Oriental Fragrances: Exotic and Sensual Scents"
+  },
+  {
+    "type": "inline",
+    "subtype": "detail2",
+    "filename": "oriental-detail2-20241026033106.jpeg",
+    "keywords": "oriental detail2",
+    "category": "Fragrances",
+    "title": "Oriental Fragrances: Exotic and Sensual Scents"
+  },
+  {
+    "type": "cover",
+    "filename": "fresh-fragrances-20241114004204.jpeg",
+    "keywords": "fresh fragrances",
+    "category": "Fragrances",
+    "title": "Fresh and Aquatic Fragrances: Clean and Crisp Scents"
+  },
+  {
+    "type": "inline",
+    "subtype": "detail1",
+    "filename": "fresh-detail1-20250118182208.jpeg",
+    "keywords": "fresh detail1",
+    "category": "Fragrances",
+    "title": "Fresh and Aquatic Fragrances: Clean and Crisp Scents"
+  },
+  {
+    "type": "inline",
+    "subtype": "detail2",
+    "filename": "fresh-detail2-20241227112531.jpeg",
+    "keywords": "fresh detail2",
+    "category": "Fragrances",
+    "title": "Fresh and Aquatic Fragrances: Clean and Crisp Scents"
+  },
+  {
+    "type": "cover",
+    "filename": "gourmand-fragrances-20241001013001.jpeg",
+    "keywords": "gourmand fragrances",
+    "category": "Fragrances",
+    "title": "Gourmand Fragrances: Edible and Sweet Scents"
+  },
+  {
+    "type": "inline",
+    "subtype": "detail1",
+    "filename": "gourmand-detail1-20241111181656.jpeg",
+    "keywords": "gourmand detail1",
+    "category": "Fragrances",
+    "title": "Gourmand Fragrances: Edible and Sweet Scents"
+  },
+  {
+    "type": "inline",
+    "subtype": "detail2",
+    "filename": "gourmand-detail2-20250118112945.jpeg",
+    "keywords": "gourmand detail2",
+    "category": "Fragrances",
+    "title": "Gourmand Fragrances: Edible and Sweet Scents"
+  },
+  {
+    "type": "cover",
+    "filename": "unisex-fragrances-20240526022106.jpeg",
+    "keywords": "unisex fragrances",
+    "category": "Fragrances",
+    "title": "Unisex Fragrances: Breaking Traditional Boundaries"
+  },
+  {
+    "type": "inline",
+    "subtype": "detail1",
+    "filename": "unisex-detail1-20250414040704.jpeg",
+    "keywords": "unisex detail1",
+    "category": "Fragrances",
+    "title": "Unisex Fragrances: Breaking Traditional Boundaries"
+  },
+  {
+    "type": "inline",
+    "subtype": "detail2",
+    "filename": "unisex-detail2-20240806020835.jpeg",
+    "keywords": "unisex detail2",
+    "category": "Fragrances",
+    "title": "Unisex Fragrances: Breaking Traditional Boundaries"
+  },
+  {
+    "type": "cover",
+    "filename": "vintage-perfumes-20250105155225.jpeg",
+    "keywords": "vintage perfumes",
+    "category": "Fragrances",
+    "title": "Vintage Perfumes: Classic Fragrances That Endure"
+  },
+  {
+    "type": "inline",
+    "subtype": "detail1",
+    "filename": "vintage-detail1-20240702090445.jpeg",
+    "keywords": "vintage detail1",
+    "category": "Fragrances",
+    "title": "Vintage Perfumes: Classic Fragrances That Endure"
+  },
+  {
+    "type": "inline",
+    "subtype": "detail2",
+    "filename": "vintage-detail2-20240819003717.jpeg",
+    "keywords": "vintage detail2",
+    "category": "Fragrances",
+    "title": "Vintage Perfumes: Classic Fragrances That Endure"
+  },
+  {
+    "type": "cover",
+    "filename": "niche-vs-designer-20240525082707.jpeg",
+    "keywords": "niche vs designer",
+    "category": "Fragrances",
+    "title": "Niche Vs Designer Fragrances: What's the Difference?"
+  },
+  {
+    "type": "inline",
+    "subtype": "detail1",
+    "filename": "niche-detail1-20250427065624.jpeg",
+    "keywords": "niche detail1",
+    "category": "Fragrances",
+    "title": "Niche Vs Designer Fragrances: What's the Difference?"
+  },
+  {
+    "type": "inline",
+    "subtype": "detail2",
+    "filename": "niche-detail2-20240525101750.jpeg",
+    "keywords": "niche detail2",
+    "category": "Fragrances",
+    "title": "Niche Vs Designer Fragrances: What's the Difference?"
+  },
+  {
+    "type": "cover",
+    "filename": "perfume-storage-20240819111043.jpeg",
+    "keywords": "perfume storage",
+    "category": "Fragrances",
+    "title": "How to Store Perfume: Preserving Your Collection"
+  },
+  {
+    "type": "inline",
+    "subtype": "detail1",
+    "filename": "perfume-detail1-20240805213319.jpeg",
+    "keywords": "perfume detail1",
+    "category": "Fragrances",
+    "title": "How to Store Perfume: Preserving Your Collection"
+  },
+  {
+    "type": "inline",
+    "subtype": "detail2",
+    "filename": "perfume-detail2-20240811034843.jpeg",
+    "keywords": "perfume detail2",
+    "category": "Fragrances",
+    "title": "How to Store Perfume: Preserving Your Collection"
+  },
+  {
+    "type": "cover",
+    "filename": "natural-synthetic-20240703210639.jpeg",
+    "keywords": "natural synthetic",
+    "category": "Fragrances",
+    "title": "Natural Vs Synthetic Fragrances: What's the Truth?"
+  },
+  {
+    "type": "inline",
+    "subtype": "detail1",
+    "filename": "natural-detail1-20250502200905.jpeg",
+    "keywords": "natural detail1",
+    "category": "Fragrances",
+    "title": "Natural Vs Synthetic Fragrances: What's the Truth?"
+  },
+  {
+    "type": "inline",
+    "subtype": "detail2",
+    "filename": "natural-detail2-20250121010823.jpeg",
+    "keywords": "natural detail2",
+    "category": "Fragrances",
+    "title": "Natural Vs Synthetic Fragrances: What's the Truth?"
+  },
+  {
+    "type": "cover",
+    "filename": "fragrance-concentration-20250330092937.jpeg",
+    "keywords": "fragrance concentration",
+    "category": "Fragrances",
+    "title": "Fragrance Concentration: Understanding Edt, Edp, and More"
+  },
+  {
+    "type": "inline",
+    "subtype": "detail1",
+    "filename": "fragrance-detail1-20240909052600.jpeg",
+    "keywords": "fragrance detail1",
+    "category": "Fragrances",
+    "title": "Fragrance Concentration: Understanding Edt, Edp, and More"
+  },
+  {
+    "type": "inline",
+    "subtype": "detail2",
+    "filename": "fragrance-detail2-20250331110204.jpeg",
+    "keywords": "fragrance detail2",
+    "category": "Fragrances",
+    "title": "Fragrance Concentration: Understanding Edt, Edp, and More"
+  },
+  {
+    "type": "cover",
+    "filename": "seasonal-scents-20241012192927.jpeg",
+    "keywords": "seasonal scents",
+    "category": "Fragrances",
+    "title": "Seasonal Scents: Matching Fragrance to Weather"
+  },
+  {
+    "type": "inline",
+    "subtype": "detail1",
+    "filename": "seasonal-detail1-20240907052715.jpeg",
+    "keywords": "seasonal detail1",
+    "category": "Fragrances",
+    "title": "Seasonal Scents: Matching Fragrance to Weather"
+  },
+  {
+    "type": "inline",
+    "subtype": "detail2",
+    "filename": "seasonal-detail2-20240629161820.jpeg",
+    "keywords": "seasonal detail2",
+    "category": "Fragrances",
+    "title": "Seasonal Scents: Matching Fragrance to Weather"
+  },
+  {
+    "type": "cover",
+    "filename": "celebrity-fragrances-20250227230516.jpeg",
+    "keywords": "celebrity fragrances",
+    "category": "Fragrances",
+    "title": "Celebrity Fragrances: Worth the Hype?"
+  },
+  {
+    "type": "inline",
+    "subtype": "detail1",
+    "filename": "celebrity-detail1-20240729083700.jpeg",
+    "keywords": "celebrity detail1",
+    "category": "Fragrances",
+    "title": "Celebrity Fragrances: Worth the Hype?"
+  },
+  {
+    "type": "inline",
+    "subtype": "detail2",
+    "filename": "celebrity-detail2-20240823015935.jpeg",
+    "keywords": "celebrity detail2",
+    "category": "Fragrances",
+    "title": "Celebrity Fragrances: Worth the Hype?"
+  },
+  {
+    "type": "cover",
+    "filename": "fragrance-wardrobe-20240906043556.jpeg",
+    "keywords": "fragrance wardrobe",
+    "category": "Fragrances",
+    "title": "How to Build a Fragrance Wardrobe"
+  },
+  {
+    "type": "inline",
+    "subtype": "detail1",
+    "filename": "fragrance-detail1-20240727191314.jpeg",
+    "keywords": "fragrance detail1",
+    "category": "Fragrances",
+    "title": "How to Build a Fragrance Wardrobe"
+  },
+  {
+    "type": "inline",
+    "subtype": "detail2",
+    "filename": "fragrance-detail2-20250306171732.jpeg",
+    "keywords": "fragrance detail2",
+    "category": "Fragrances",
+    "title": "How to Build a Fragrance Wardrobe"
+  },
+  {
+    "type": "cover",
+    "filename": "fragrance-reviews-20241227200410.jpeg",
+    "keywords": "fragrance reviews",
+    "category": "Fragrances",
+    "title": "Reading Fragrance Reviews: What to Trust"
+  },
+  {
+    "type": "inline",
+    "subtype": "detail1",
+    "filename": "fragrance-detail1-20241130180553.jpeg",
+    "keywords": "fragrance detail1",
+    "category": "Fragrances",
+    "title": "Reading Fragrance Reviews: What to Trust"
+  },
+  {
+    "type": "inline",
+    "subtype": "detail2",
+    "filename": "fragrance-detail2-20250226170923.jpeg",
+    "keywords": "fragrance detail2",
+    "category": "Fragrances",
+    "title": "Reading Fragrance Reviews: What to Trust"
+  },
+  {
+    "type": "cover",
+    "filename": "fragrance-ingredients-20250308021201.jpeg",
+    "keywords": "fragrance ingredients",
+    "category": "Fragrances",
+    "title": "Phytochemicals in Perfumery: Key Ingredients"
+  },
+  {
+    "type": "inline",
+    "subtype": "detail1",
+    "filename": "fragrance-detail1-20250403085453.jpeg",
+    "keywords": "fragrance detail1",
+    "category": "Fragrances",
+    "title": "Phytochemicals in Perfumery: Key Ingredients"
+  },
+  {
+    "type": "inline",
+    "subtype": "detail2",
+    "filename": "fragrance-detail2-20241224221757.jpeg",
+    "keywords": "fragrance detail2",
+    "category": "Fragrances",
+    "title": "Phytochemicals in Perfumery: Key Ingredients"
+  },
+  {
+    "type": "cover",
+    "filename": "scent-memory-20250517102444.jpeg",
+    "keywords": "scent memory",
+    "category": "Fragrances",
+    "title": "Scent Memory: Why Smell Triggers Emotions"
+  },
+  {
+    "type": "inline",
+    "subtype": "detail1",
+    "filename": "scent-detail1-20250308041325.jpeg",
+    "keywords": "scent detail1",
+    "category": "Fragrances",
+    "title": "Scent Memory: Why Smell Triggers Emotions"
+  },
+  {
+    "type": "inline",
+    "subtype": "detail2",
+    "filename": "scent-detail2-220250201185333.jpeg",
+    "keywords": "scent detail2",
+    "category": "Fragrances",
+    "title": "Scent Memory: Why Smell Triggers Emotions"
+  },
+  {
+    "type": "cover",
+    "filename": "budget-luxury-20250409014208.jpeg",
+    "keywords": "budget luxury",
+    "category": "Fragrances",
+    "title": "Budget Vs Luxury Fragrances: Is Price Worth It?"
+  },
+  {
+    "type": "inline",
+    "subtype": "detail1",
+    "filename": "budget-detail1-20241128201425.jpeg",
+    "keywords": "budget detail1",
+    "category": "Fragrances",
+    "title": "Budget Vs Luxury Fragrances: Is Price Worth It?"
+  },
+  {
+    "type": "inline",
+    "subtype": "detail2",
+    "filename": "budget-detail2-20241218223551.jpeg",
+    "keywords": "budget detail2",
+    "category": "Fragrances",
+    "title": "Budget Vs Luxury Fragrances: Is Price Worth It?"
+  },
+  {
+    "type": "cover",
+    "filename": "fragrance-lasting-20241230234700.jpeg",
+    "keywords": "fragrance lasting",
+    "category": "Fragrances",
+    "title": "Making Fragrances Last on Skin All Day"
+  },
+  {
+    "type": "inline",
+    "subtype": "detail1",
+    "filename": "fragrance-detail1-20240818224743.jpeg",
+    "keywords": "fragrance detail1",
+    "category": "Fragrances",
+    "title": "Making Fragrances Last on Skin All Day"
+  },
+  {
+    "type": "inline",
+    "subtype": "detail2",
+    "filename": "fragrance-detail2-20250326010035.jpeg",
+    "keywords": "fragrance detail2",
+    "category": "Fragrances",
+    "title": "Making Fragrances Last on Skin All Day"
+  },
+  {
+    "type": "cover",
+    "filename": "fragrance-gifts-20250127194336.jpeg",
+    "keywords": "fragrance gifts",
+    "category": "Fragrances",
+    "title": "Fragrance Gift Sets: What to Buy and Why"
+  },
+  {
+    "type": "inline",
+    "subtype": "detail1",
+    "filename": "fragrance-detail1-20240526141205.jpeg",
+    "keywords": "fragrance detail1",
+    "category": "Fragrances",
+    "title": "Fragrance Gift Sets: What to Buy and Why"
+  },
+  {
+    "type": "inline",
+    "subtype": "detail2",
+    "filename": "fragrance-detail2-20240817124336.jpeg",
+    "keywords": "fragrance detail2",
+    "category": "Fragrances",
+    "title": "Fragrance Gift Sets: What to Buy and Why"
+  },
+  {
+    "type": "cover",
+    "filename": "perfume-decanting-20250106134838.jpeg",
+    "keywords": "perfume decanting",
+    "category": "Fragrances",
+    "title": "Decanting Perfume: Sharing and Sampling Safely"
+  },
+  {
+    "type": "inline",
+    "subtype": "detail1",
+    "filename": "perfume-detail1-20240920160739.jpeg",
+    "keywords": "perfume detail1",
+    "category": "Fragrances",
+    "title": "Decanting Perfume: Sharing and Sampling Safely"
+  },
+  {
+    "type": "inline",
+    "subtype": "detail2",
+    "filename": "perfume-detail2-20241011224146.jpeg",
+    "keywords": "perfume detail2",
+    "category": "Fragrances",
+    "title": "Decanting Perfume: Sharing and Sampling Safely"
+  },
+  {
+    "type": "cover",
+    "filename": "botox-basics-20250517204234.jpeg",
+    "keywords": "botox basics",
+    "category": "Cosmetic Procedures",
+    "title": "Botox Basics: What You Need to Know Before Treatment"
+  },
+  {
+    "type": "inline",
+    "subtype": "detail1",
+    "filename": "botox-detail1-20250103053150.jpeg",
+    "keywords": "botox detail1",
+    "category": "Cosmetic Procedures",
+    "title": "Botox Basics: What You Need to Know Before Treatment"
+  },
+  {
+    "type": "inline",
+    "subtype": "detail2",
+    "filename": "botox-detail2-20241220120005.jpeg",
+    "keywords": "botox detail2",
+    "category": "Cosmetic Procedures",
+    "title": "Botox Basics: What You Need to Know Before Treatment"
+  },
+  {
+    "type": "cover",
+    "filename": "dermal-fillers-20250204093923.jpeg",
+    "keywords": "dermal fillers",
+    "category": "Cosmetic Procedures",
+    "title": "Dermal Fillers: Plumping and Restoring Volume"
+  },
+  {
+    "type": "inline",
+    "subtype": "detail1",
+    "filename": "dermal-detail1-20241219220147.jpeg",
+    "keywords": "dermal detail1",
+    "category": "Cosmetic Procedures",
+    "title": "Dermal Fillers: Plumping and Restoring Volume"
+  },
+  {
+    "type": "inline",
+    "subtype": "detail2",
+    "filename": "dermal-detail2-20250321214102.jpeg",
+    "keywords": "dermal detail2",
+    "category": "Cosmetic Procedures",
+    "title": "Dermal Fillers: Plumping and Restoring Volume"
+  },
+  {
+    "type": "cover",
+    "filename": "chemical-peels-20250317174552.jpeg",
+    "keywords": "chemical peels",
+    "category": "Cosmetic Procedures",
+    "title": "Chemical Peels: Resurface and Renew Your Skin"
+  },
+  {
+    "type": "inline",
+    "subtype": "detail1",
+    "filename": "chemical-detail1-20240914102046.jpeg",
+    "keywords": "chemical detail1",
+    "category": "Cosmetic Procedures",
+    "title": "Chemical Peels: Resurface and Renew Your Skin"
+  },
+  {
+    "type": "inline",
+    "subtype": "detail2",
+    "filename": "chemical-detail2-20241027133830.jpeg",
+    "keywords": "chemical detail2",
+    "category": "Cosmetic Procedures",
+    "title": "Chemical Peels: Resurface and Renew Your Skin"
+  },
+  {
+    "type": "cover",
+    "filename": "laser-hair-removal-20250303233953.jpeg",
+    "keywords": "laser hair removal",
+    "category": "Cosmetic Procedures",
+    "title": "Laser Hair Removal: Permanent Reduction Explained"
+  },
+  {
+    "type": "inline",
+    "subtype": "detail1",
+    "filename": "laser-detail1-20241216091628.jpeg",
+    "keywords": "laser detail1",
+    "category": "Cosmetic Procedures",
+    "title": "Laser Hair Removal: Permanent Reduction Explained"
+  },
+  {
+    "type": "inline",
+    "subtype": "detail2",
+    "filename": "laser-detail2-20240608172612.jpeg",
+    "keywords": "laser detail2",
+    "category": "Cosmetic Procedures",
+    "title": "Laser Hair Removal: Permanent Reduction Explained"
+  },
+  {
+    "type": "cover",
+    "filename": "microblading-20250107161431.jpeg",
+    "keywords": "microblading",
+    "category": "Cosmetic Procedures",
+    "title": "Microblading: Achieving Perfect Eyebrows"
+  },
+  {
+    "type": "inline",
+    "subtype": "detail1",
+    "filename": "microblading-detail1-20240730214134.jpeg",
+    "keywords": "microblading detail1",
+    "category": "Cosmetic Procedures",
+    "title": "Microblading: Achieving Perfect Eyebrows"
+  },
+  {
+    "type": "inline",
+    "subtype": "detail2",
+    "filename": "microblading-detail2-20250506173733.jpeg",
+    "keywords": "microblading detail2",
+    "category": "Cosmetic Procedures",
+    "title": "Microblading: Achieving Perfect Eyebrows"
+  },
+  {
+    "type": "cover",
+    "filename": "coolsculpting-20250323031424.jpeg",
+    "keywords": "coolsculpting",
+    "category": "Cosmetic Procedures",
+    "title": "Coolsculpting: Freezing Away Fat Non-surgically"
+  },
+  {
+    "type": "inline",
+    "subtype": "detail1",
+    "filename": "coolsculpting-detail1-20241126093159.jpeg",
+    "keywords": "coolsculpting detail1",
+    "category": "Cosmetic Procedures",
+    "title": "Coolsculpting: Freezing Away Fat Non-surgically"
+  },
+  {
+    "type": "inline",
+    "subtype": "detail2",
+    "filename": "coolsculpting-detail2-20240828062826.jpeg",
+    "keywords": "coolsculpting detail2",
+    "category": "Cosmetic Procedures",
+    "title": "Coolsculpting: Freezing Away Fat Non-surgically"
+  },
+  {
+    "type": "cover",
+    "filename": "microneedling-20241104123137.jpeg",
+    "keywords": "microneedling",
+    "category": "Cosmetic Procedures",
+    "title": "Microneedling: Collagen Induction Therapy"
+  },
+  {
+    "type": "inline",
+    "subtype": "detail1",
+    "filename": "microneedling-detail1-20241023185845.jpeg",
+    "keywords": "microneedling detail1",
+    "category": "Cosmetic Procedures",
+    "title": "Microneedling: Collagen Induction Therapy"
+  },
+  {
+    "type": "inline",
+    "subtype": "detail2",
+    "filename": "microneedling-detail2-20240822010416.jpeg",
+    "keywords": "microneedling detail2",
+    "category": "Cosmetic Procedures",
+    "title": "Microneedling: Collagen Induction Therapy"
+  },
+  {
+    "type": "cover",
+    "filename": "ipl-photofacial-20241001125228.jpeg",
+    "keywords": "ipl photofacial",
+    "category": "Cosmetic Procedures",
+    "title": "Ipl Photofacial: Treating Sun Damage and Redness"
+  },
+  {
+    "type": "inline",
+    "subtype": "detail1",
+    "filename": "ipl-detail1-20240826180342.jpeg",
+    "keywords": "ipl detail1",
+    "category": "Cosmetic Procedures",
+    "title": "Ipl Photofacial: Treating Sun Damage and Redness"
+  },
+  {
+    "type": "inline",
+    "subtype": "detail2",
+    "filename": "ipl-detail2-20240619103504.jpeg",
+    "keywords": "ipl detail2",
+    "category": "Cosmetic Procedures",
+    "title": "Ipl Photofacial: Treating Sun Damage and Redness"
+  },
+  {
+    "type": "cover",
+    "filename": "laser-resurfacing-20240731162425.jpeg",
+    "keywords": "laser resurfacing",
+    "category": "Cosmetic Procedures",
+    "title": "Laser Skin Resurfacing: Dramatic Rejuvenation"
+  },
+  {
+    "type": "inline",
+    "subtype": "detail1",
+    "filename": "laser-detail1-20250213085356.jpeg",
+    "keywords": "laser detail1",
+    "category": "Cosmetic Procedures",
+    "title": "Laser Skin Resurfacing: Dramatic Rejuvenation"
+  },
+  {
+    "type": "inline",
+    "subtype": "detail2",
+    "filename": "laser-detail2-20250103181853.jpeg",
+    "keywords": "laser detail2",
+    "category": "Cosmetic Procedures",
+    "title": "Laser Skin Resurfacing: Dramatic Rejuvenation"
+  },
+  {
+    "type": "cover",
+    "filename": "breast-augmentation-20250423080251.jpeg",
+    "keywords": "breast augmentation",
+    "category": "Cosmetic Procedures",
+    "title": "Breast Augmentation: Options and Considerations"
+  },
+  {
+    "type": "inline",
+    "subtype": "detail1",
+    "filename": "breast-detail1-20240802203103.jpeg",
+    "keywords": "breast detail1",
+    "category": "Cosmetic Procedures",
+    "title": "Breast Augmentation: Options and Considerations"
+  },
+  {
+    "type": "inline",
+    "subtype": "detail2",
+    "filename": "breast-detail2-20240629044033.jpeg",
+    "keywords": "breast detail2",
+    "category": "Cosmetic Procedures",
+    "title": "Breast Augmentation: Options and Considerations"
+  },
+  {
+    "type": "cover",
+    "filename": "rhinoplasty-20250505225819.jpeg",
+    "keywords": "rhinoplasty",
+    "category": "Cosmetic Procedures",
+    "title": "Rhinoplasty: Reshaping the Nose"
+  },
+  {
+    "type": "inline",
+    "subtype": "detail1",
+    "filename": "rhinoplasty-detail1-20250410131812.jpeg",
+    "keywords": "rhinoplasty detail1",
+    "category": "Cosmetic Procedures",
+    "title": "Rhinoplasty: Reshaping the Nose"
+  },
+  {
+    "type": "inline",
+    "subtype": "detail2",
+    "filename": "rhinoplasty-detail2-20250127181316.jpeg",
+    "keywords": "rhinoplasty detail2",
+    "category": "Cosmetic Procedures",
+    "title": "Rhinoplasty: Reshaping the Nose"
+  },
+  {
+    "type": "cover",
+    "filename": "liposuction-20250314044103.jpeg",
+    "keywords": "liposuction",
+    "category": "Cosmetic Procedures",
+    "title": "Liposuction: Sculpting Away Stubborn Fat"
+  },
+  {
+    "type": "inline",
+    "subtype": "detail1",
+    "filename": "liposuction-detail1-20240822092018.jpeg",
+    "keywords": "liposuction detail1",
+    "category": "Cosmetic Procedures",
+    "title": "Liposuction: Sculpting Away Stubborn Fat"
+  },
+  {
+    "type": "inline",
+    "subtype": "detail2",
+    "filename": "liposuction-detail2-20250306130545.jpeg",
+    "keywords": "liposuction detail2",
+    "category": "Cosmetic Procedures",
+    "title": "Liposuction: Sculpting Away Stubborn Fat"
+  },
+  {
+    "type": "cover",
+    "filename": "tummy-tuck-20250420143608.jpeg",
+    "keywords": "tummy tuck",
+    "category": "Cosmetic Procedures",
+    "title": "Tummy Tuck: Restoring Abdominal Contours"
+  },
+  {
+    "type": "inline",
+    "subtype": "detail1",
+    "filename": "tummy-detail1-20240622094325.jpeg",
+    "keywords": "tummy detail1",
+    "category": "Cosmetic Procedures",
+    "title": "Tummy Tuck: Restoring Abdominal Contours"
+  },
+  {
+    "type": "inline",
+    "subtype": "detail2",
+    "filename": "tummy-detail2-20240624120603.jpeg",
+    "keywords": "tummy detail2",
+    "category": "Cosmetic Procedures",
+    "title": "Tummy Tuck: Restoring Abdominal Contours"
+  },
+  {
+    "type": "cover",
+    "filename": "facelift-20250113023347.jpeg",
+    "keywords": "facelift",
+    "category": "Cosmetic Procedures",
+    "title": "Facelift Surgery: Turning Back Time"
+  },
+  {
+    "type": "inline",
+    "subtype": "detail1",
+    "filename": "facelift-detail1-20241029164257.jpeg",
+    "keywords": "facelift detail1",
+    "category": "Cosmetic Procedures",
+    "title": "Facelift Surgery: Turning Back Time"
+  },
+  {
+    "type": "inline",
+    "subtype": "detail2",
+    "filename": "facelift-detail2-20241015132913.jpeg",
+    "keywords": "facelift detail2",
+    "category": "Cosmetic Procedures",
+    "title": "Facelift Surgery: Turning Back Time"
+  },
+  {
+    "type": "cover",
+    "filename": "blepharoplasty-20240923113938.jpeg",
+    "keywords": "blepharoplasty",
+    "category": "Cosmetic Procedures",
+    "title": "Blepharoplasty: Eyelid Surgery for Fresh Eyes"
+  },
+  {
+    "type": "inline",
+    "subtype": "detail1",
+    "filename": "blepharoplasty-detail1-20250201201911.jpeg",
+    "keywords": "blepharoplasty detail1",
+    "category": "Cosmetic Procedures",
+    "title": "Blepharoplasty: Eyelid Surgery for Fresh Eyes"
+  },
+  {
+    "type": "inline",
+    "subtype": "detail2",
+    "filename": "blepharoplasty-detail2-20241026222827.jpeg",
+    "keywords": "blepharoplasty detail2",
+    "category": "Cosmetic Procedures",
+    "title": "Blepharoplasty: Eyelid Surgery for Fresh Eyes"
+  },
+  {
+    "type": "cover",
+    "filename": "thread-lifts-20241106164946.jpeg",
+    "keywords": "thread lifts",
+    "category": "Cosmetic Procedures",
+    "title": "Thread Lifts: Non-surgical Face Lifting"
+  },
+  {
+    "type": "inline",
+    "subtype": "detail1",
+    "filename": "thread-detail1-20241112161328.jpeg",
+    "keywords": "thread detail1",
+    "category": "Cosmetic Procedures",
+    "title": "Thread Lifts: Non-surgical Face Lifting"
+  },
+  {
+    "type": "inline",
+    "subtype": "detail2",
+    "filename": "thread-detail2-20240718124759.jpeg",
+    "keywords": "thread detail2",
+    "category": "Cosmetic Procedures",
+    "title": "Thread Lifts: Non-surgical Face Lifting"
+  },
+  {
+    "type": "cover",
+    "filename": "dermaplaning-20240801051923.jpeg",
+    "keywords": "dermaplaning",
+    "category": "Cosmetic Procedures",
+    "title": "Dermaplaning: Exfoliation and Peach Fuzz Removal"
+  },
+  {
+    "type": "inline",
+    "subtype": "detail1",
+    "filename": "dermaplaning-detail1-20250322205618.jpeg",
+    "keywords": "dermaplaning detail1",
+    "category": "Cosmetic Procedures",
+    "title": "Dermaplaning: Exfoliation and Peach Fuzz Removal"
+  },
+  {
+    "type": "inline",
+    "subtype": "detail2",
+    "filename": "dermaplaning-detail2-20241212053833.jpeg",
+    "keywords": "dermaplaning detail2",
+    "category": "Cosmetic Procedures",
+    "title": "Dermaplaning: Exfoliation and Peach Fuzz Removal"
+  },
+  {
+    "type": "cover",
+    "filename": "hydrafacial-20241230113806.jpeg",
+    "keywords": "hydrafacial",
+    "category": "Cosmetic Procedures",
+    "title": "Hydrafacial: the Celebrity-favorite Treatment"
+  },
+  {
+    "type": "inline",
+    "subtype": "detail1",
+    "filename": "hydrafacial-detail1-20250216211851.jpeg",
+    "keywords": "hydrafacial detail1",
+    "category": "Cosmetic Procedures",
+    "title": "Hydrafacial: the Celebrity-favorite Treatment"
+  },
+  {
+    "type": "inline",
+    "subtype": "detail2",
+    "filename": "hydrafacial-detail2-20240709040910.jpeg",
+    "keywords": "hydrafacial detail2",
+    "category": "Cosmetic Procedures",
+    "title": "Hydrafacial: the Celebrity-favorite Treatment"
+  },
+  {
+    "type": "cover",
+    "filename": "prp-facial-20250525014707.jpeg",
+    "keywords": "prp facial",
+    "category": "Cosmetic Procedures",
+    "title": "Prp for Skin: Vampire Facial Explained"
+  },
+  {
+    "type": "inline",
+    "subtype": "detail1",
+    "filename": "prp-detail1-20241019213018.jpeg",
+    "keywords": "prp detail1",
+    "category": "Cosmetic Procedures",
+    "title": "Prp for Skin: Vampire Facial Explained"
+  },
+  {
+    "type": "inline",
+    "subtype": "detail2",
+    "filename": "prp-detail2-20250329082359.jpeg",
+    "keywords": "prp detail2",
+    "category": "Cosmetic Procedures",
+    "title": "Prp for Skin: Vampire Facial Explained"
+  },
+  {
+    "type": "cover",
+    "filename": "scar-revision-20241101102459.jpeg",
+    "keywords": "scar revision",
+    "category": "Cosmetic Procedures",
+    "title": "Scar Revision: Minimizing Surgical and Injury Scars"
+  },
+  {
+    "type": "inline",
+    "subtype": "detail1",
+    "filename": "scar-detail1-20250305170057.jpeg",
+    "keywords": "scar detail1",
+    "category": "Cosmetic Procedures",
+    "title": "Scar Revision: Minimizing Surgical and Injury Scars"
+  },
+  {
+    "type": "inline",
+    "subtype": "detail2",
+    "filename": "scar-detail2-20241124015253.jpeg",
+    "keywords": "scar detail2",
+    "category": "Cosmetic Procedures",
+    "title": "Scar Revision: Minimizing Surgical and Injury Scars"
+  },
+  {
+    "type": "cover",
+    "filename": "labiaplasty-20240730084322.jpeg",
+    "keywords": "labiaplasty",
+    "category": "Cosmetic Procedures",
+    "title": "Labiaplasty: Understanding Female Genital Surgery"
+  },
+  {
+    "type": "inline",
+    "subtype": "detail1",
+    "filename": "labiaplasty-detail1-20250313150845.jpeg",
+    "keywords": "labiaplasty detail1",
+    "category": "Cosmetic Procedures",
+    "title": "Labiaplasty: Understanding Female Genital Surgery"
+  },
+  {
+    "type": "inline",
+    "subtype": "detail2",
+    "filename": "labiaplasty-detail2-20241112102227.jpeg",
+    "keywords": "labiaplasty detail2",
+    "category": "Cosmetic Procedures",
+    "title": "Labiaplasty: Understanding Female Genital Surgery"
+  },
+  {
+    "type": "cover",
+    "filename": "chin-augmentation-20241228122031.jpeg",
+    "keywords": "chin augmentation",
+    "category": "Cosmetic Procedures",
+    "title": "Chin Augmentation: Enhancing Facial Balance"
+  },
+  {
+    "type": "inline",
+    "subtype": "detail1",
+    "filename": "chin-detail1-20250108075359.jpeg",
+    "keywords": "chin detail1",
+    "category": "Cosmetic Procedures",
+    "title": "Chin Augmentation: Enhancing Facial Balance"
+  },
+  {
+    "type": "inline",
+    "subtype": "detail2",
+    "filename": "chin-detail2-20241026050937.jpeg",
+    "keywords": "chin detail2",
+    "category": "Cosmetic Procedures",
+    "title": "Chin Augmentation: Enhancing Facial Balance"
+  },
+  {
+    "type": "cover",
+    "filename": "otoplasty-20240813013328.jpeg",
+    "keywords": "otoplasty",
+    "category": "Cosmetic Procedures",
+    "title": "Ear Surgery: Otoplasty for Ear Reshaping"
+  },
+  {
+    "type": "inline",
+    "subtype": "detail1",
+    "filename": "otoplasty-detail1-20250216142719.jpeg",
+    "keywords": "otoplasty detail1",
+    "category": "Cosmetic Procedures",
+    "title": "Ear Surgery: Otoplasty for Ear Reshaping"
+  },
+  {
+    "type": "inline",
+    "subtype": "detail2",
+    "filename": "otoplasty-detail2-20250413092138.jpeg",
+    "keywords": "otoplasty detail2",
+    "category": "Cosmetic Procedures",
+    "title": "Ear Surgery: Otoplasty for Ear Reshaping"
+  },
+  {
+    "type": "cover",
+    "filename": "breast-lift-20250310142512.jpeg",
+    "keywords": "breast lift",
+    "category": "Cosmetic Procedures",
+    "title": "Breast Lift: Restoring Youthful Breast Position"
+  },
+  {
+    "type": "inline",
+    "subtype": "detail1",
+    "filename": "breast-detail1-20240702221845.jpeg",
+    "keywords": "breast detail1",
+    "category": "Cosmetic Procedures",
+    "title": "Breast Lift: Restoring Youthful Breast Position"
+  },
+  {
+    "type": "inline",
+    "subtype": "detail2",
+    "filename": "breast-detail2-220240614234919.jpeg",
+    "keywords": "breast detail2",
+    "category": "Cosmetic Procedures",
+    "title": "Breast Lift: Restoring Youthful Breast Position"
+  },
+  {
+    "type": "cover",
+    "filename": "bbl-20250522212722.jpeg",
+    "keywords": "bbl",
+    "category": "Cosmetic Procedures",
+    "title": "Brazilian Butt Lift: Enhancing Curves Naturally"
+  },
+  {
+    "type": "inline",
+    "subtype": "detail1",
+    "filename": "bbl-detail1-20240925185018.jpeg",
+    "keywords": "bbl detail1",
+    "category": "Cosmetic Procedures",
+    "title": "Brazilian Butt Lift: Enhancing Curves Naturally"
+  },
+  {
+    "type": "inline",
+    "subtype": "detail2",
+    "filename": "bbl-detail2-20240613090322.jpeg",
+    "keywords": "bbl detail2",
+    "category": "Cosmetic Procedures",
+    "title": "Brazilian Butt Lift: Enhancing Curves Naturally"
+  },
+  {
+    "type": "cover",
+    "filename": "arm-lift-20250322153854.jpeg",
+    "keywords": "arm lift",
+    "category": "Cosmetic Procedures",
+    "title": "Arm Lift: Smoothing Upper Arm Skin"
+  },
+  {
+    "type": "inline",
+    "subtype": "detail1",
+    "filename": "arm-detail1-20240922224911.jpeg",
+    "keywords": "arm detail1",
+    "category": "Cosmetic Procedures",
+    "title": "Arm Lift: Smoothing Upper Arm Skin"
+  },
+  {
+    "type": "inline",
+    "subtype": "detail2",
+    "filename": "arm-detail2-20250517175423.jpeg",
+    "keywords": "arm detail2",
+    "category": "Cosmetic Procedures",
+    "title": "Arm Lift: Smoothing Upper Arm Skin"
+  },
+  {
+    "type": "cover",
+    "filename": "thigh-lift-20241027073243.jpeg",
+    "keywords": "thigh lift",
+    "category": "Cosmetic Procedures",
+    "title": "Thigh Lift: Sculpting and Tightening Thighs"
+  },
+  {
+    "type": "inline",
+    "subtype": "detail1",
+    "filename": "thigh-detail1-20240706041156.jpeg",
+    "keywords": "thigh detail1",
+    "category": "Cosmetic Procedures",
+    "title": "Thigh Lift: Sculpting and Tightening Thighs"
+  },
+  {
+    "type": "inline",
+    "subtype": "detail2",
+    "filename": "thigh-detail2-20241019110105.jpeg",
+    "keywords": "thigh detail2",
+    "category": "Cosmetic Procedures",
+    "title": "Thigh Lift: Sculpting and Tightening Thighs"
+  },
+  {
+    "type": "cover",
+    "filename": "waterproof-makeup-20250210094020.jpeg",
+    "keywords": "waterproof makeup",
+    "category": "Makeup",
+    "title": "Waterproof Makeup: Products That Survive Any Condition"
+  },
+  {
+    "type": "inline",
+    "subtype": "detail1",
+    "filename": "waterproof-detail1-20250303145826.jpeg",
+    "keywords": "waterproof detail1",
+    "category": "Makeup",
+    "title": "Waterproof Makeup: Products That Survive Any Condition"
+  },
+  {
+    "type": "inline",
+    "subtype": "detail2",
+    "filename": "waterproof-detail2-20240907225225.jpeg",
+    "keywords": "waterproof detail2",
+    "category": "Makeup",
+    "title": "Waterproof Makeup: Products That Survive Any Condition"
+  },
+  {
+    "type": "cover",
+    "filename": "anti-aging-serums-20241210033409.jpeg",
+    "keywords": "anti aging serums",
+    "category": "Skin Care",
+    "title": "Anti-aging Serums: Which Ones Actually Work"
+  },
+  {
+    "type": "inline",
+    "subtype": "detail1",
+    "filename": "anti-detail1-20240710124352.jpeg",
+    "keywords": "anti detail1",
+    "category": "Skin Care",
+    "title": "Anti-aging Serums: Which Ones Actually Work"
+  },
+  {
+    "type": "inline",
+    "subtype": "detail2",
+    "filename": "anti-detail2-20241220231249.jpeg",
+    "keywords": "anti detail2",
+    "category": "Skin Care",
+    "title": "Anti-aging Serums: Which Ones Actually Work"
+  },
+  {
+    "type": "cover",
+    "filename": "nail-stamping-20250313163426.jpeg",
+    "keywords": "nail stamping",
+    "category": "Hair & Nails",
+    "title": "Nail Stamping: Professional Designs in Minutes"
+  },
+  {
+    "type": "inline",
+    "subtype": "detail1",
+    "filename": "nail-detail1-20240711205519.jpeg",
+    "keywords": "nail detail1",
+    "category": "Hair & Nails",
+    "title": "Nail Stamping: Professional Designs in Minutes"
+  },
+  {
+    "type": "inline",
+    "subtype": "detail2",
+    "filename": "nail-detail2-220241008043435.jpeg",
+    "keywords": "nail detail2",
+    "category": "Hair & Nails",
+    "title": "Nail Stamping: Professional Designs in Minutes"
+  },
+  {
+    "type": "cover",
+    "filename": "musk-fragrance-20241009151839.jpeg",
+    "keywords": "musk fragrance",
+    "category": "Fragrances",
+    "title": "Musk in Perfumery: from Animalic to Clean"
+  },
+  {
+    "type": "inline",
+    "subtype": "detail1",
+    "filename": "musk-detail1-20241211212517.jpeg",
+    "keywords": "musk detail1",
+    "category": "Fragrances",
+    "title": "Musk in Perfumery: from Animalic to Clean"
+  },
+  {
+    "type": "inline",
+    "subtype": "detail2",
+    "filename": "musk-detail2-20250301181819.jpeg",
+    "keywords": "musk detail2",
+    "category": "Fragrances",
+    "title": "Musk in Perfumery: from Animalic to Clean"
+  },
+  {
+    "type": "cover",
+    "filename": "patchouli-20250401181951.jpeg",
+    "keywords": "patchouli",
+    "category": "Fragrances",
+    "title": "Patchouli: the Iconic Scent of the 60s"
+  },
+  {
+    "type": "inline",
+    "subtype": "detail1",
+    "filename": "patchouli-detail1-20240926131707.jpeg",
+    "keywords": "patchouli detail1",
+    "category": "Fragrances",
+    "title": "Patchouli: the Iconic Scent of the 60s"
+  },
+  {
+    "type": "inline",
+    "subtype": "detail2",
+    "filename": "patchouli-detail2-20250213133011.jpeg",
+    "keywords": "patchouli detail2",
+    "category": "Fragrances",
+    "title": "Patchouli: the Iconic Scent of the 60s"
+  },
+  {
+    "type": "cover",
+    "filename": "earlobe-repair-20240902003637.jpeg",
+    "keywords": "earlobe repair",
+    "category": "Cosmetic Procedures",
+    "title": "Earlobe Repair: Fixing Stretched or Torn Ears"
+  },
+  {
+    "type": "inline",
+    "subtype": "detail1",
+    "filename": "earlobe-detail1-20250126140422.jpeg",
+    "keywords": "earlobe detail1",
+    "category": "Cosmetic Procedures",
+    "title": "Earlobe Repair: Fixing Stretched or Torn Ears"
+  },
+  {
+    "type": "inline",
+    "subtype": "detail2",
+    "filename": "earlobe-detail2-20241221185719.jpeg",
+    "keywords": "earlobe detail2",
+    "category": "Cosmetic Procedures",
+    "title": "Earlobe Repair: Fixing Stretched or Torn Ears"
+  },
+  {
+    "type": "cover",
+    "filename": "skin-tightening-20250326222648.jpeg",
+    "keywords": "skin tightening",
+    "category": "Cosmetic Procedures",
+    "title": "Skin Tightening: Non-surgical Options That Work"
+  },
+  {
+    "type": "inline",
+    "subtype": "detail1",
+    "filename": "skin-detail1-20250316051814.jpeg",
+    "keywords": "skin detail1",
+    "category": "Cosmetic Procedures",
+    "title": "Skin Tightening: Non-surgical Options That Work"
+  },
+  {
+    "type": "inline",
+    "subtype": "detail2",
+    "filename": "skin-detail2-20241013210734.jpeg",
+    "keywords": "skin detail2",
+    "category": "Cosmetic Procedures",
+    "title": "Skin Tightening: Non-surgical Options That Work"
+  },
+  {
+    "type": "cover",
+    "filename": "jawline-20240709081922.jpeg",
+    "keywords": "jawline",
+    "category": "Cosmetic Procedures",
+    "title": "Jawline Contouring: Surgical and Non-surgical Options"
+  },
+  {
+    "type": "inline",
+    "subtype": "detail1",
+    "filename": "jawline-detail1-20250331063646.jpeg",
+    "keywords": "jawline detail1",
+    "category": "Cosmetic Procedures",
+    "title": "Jawline Contouring: Surgical and Non-surgical Options"
+  },
+  {
+    "type": "inline",
+    "subtype": "detail2",
+    "filename": "jawline-detail2-20250315005117.jpeg",
+    "keywords": "jawline detail2",
+    "category": "Cosmetic Procedures",
+    "title": "Jawline Contouring: Surgical and Non-surgical Options"
+  }
+]
