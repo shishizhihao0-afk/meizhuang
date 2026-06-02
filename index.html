@@ -167,12 +167,13 @@ async function loadData() {
 
 function getFilterCategory(article) {
   const cat = (article.classify_backup || '').toLowerCase();
-  if (cat.includes('makeup') || cat.includes('cosmetic')) return 'Makeup';
+  // 先检查Cosmetic Procedures，避免与Makeup混淆
+  if (cat.includes('procedure') || cat.includes('surgical') || cat.includes('botox') || cat.includes('filler') || cat.includes('lift') || cat.includes('augment') || cat.includes('implant') || cat.includes('liposuction') || cat.includes('tummy tuck') || cat.includes('rhinoplasty') || cat.includes('blepharoplasty')) return 'Procedures';
+  if (cat.includes('makeup')) return 'Makeup';
   if (cat.includes('skin') || cat.includes('acne') || cat.includes('moistur')) return 'Skincare';
   if (cat.includes('hair')) return 'Hair';
   if (cat.includes('nail') || cat.includes('manicure') || cat.includes('pedicure')) return 'Nails';
   if (cat.includes('fragrance') || cat.includes('perfume') || cat.includes('scent')) return 'Fragrance';
-  if (cat.includes('surg') || cat.includes('lift') || cat.includes('inject') || cat.includes('treatment') || cat.includes('peel') || cat.includes('augment')) return 'Procedures';
   return 'Other';
 }
 
