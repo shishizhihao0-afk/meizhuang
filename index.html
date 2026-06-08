@@ -238,7 +238,8 @@ function openArticle(idx) {
   
   // Fix content image URLs too
   let content = a.content || '';
-  content = content.replace(/src="\/imagesArticleUploads\//g, 'src="' + IMG_BASE + '/imagesArticleUploads/');
+  const imgBase = typeof IMG_BASE !== 'undefined' ? IMG_BASE : 'https://cdn.jsdelivr.net/gh/shishizhihao0-afk/meizhuang@main';
+  content = content.replace(/src="\/imagesArticleUploads\//g, 'src="' + imgBase + '/imagesArticleUploads/');
   
   body.innerHTML = `
     <img class="modal-cover" src="${coverUrl}" alt="${escHtml(a.title)}" onerror="this.style.background='#e8e0d8'">
