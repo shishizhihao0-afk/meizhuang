@@ -238,7 +238,7 @@ function openArticle(idx) {
   
   // Fix content image URLs too
   let content = a.content || '';
-  content = content.replace(/src="\/imagesArticleUploads\//g, 'src="' + RAW_BASE + '/imagesArticleUploads/');
+  content = content.replace(/src="\/imagesArticleUploads\//g, 'src="' + IMG_BASE + '/imagesArticleUploads/');
   
   body.innerHTML = `
     <img class="modal-cover" src="${coverUrl}" alt="${escHtml(a.title)}" onerror="this.style.background='#e8e0d8'">
