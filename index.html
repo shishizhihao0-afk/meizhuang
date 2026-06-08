@@ -145,8 +145,8 @@ body{font-family:var(--font-body);background:var(--bg);color:var(--fg);line-heig
 </div>
 
 <script>
-const DATA_URL = 'beauty_articles_reviewed.json?v=4';
-const RAW_BASE = 'https://raw.githubusercontent.com/shishizhihao0-afk/meizhuang/main';
+const DATA_URL = 'beauty_articles_reviewed.json?v=5';
+const IMG_BASE = 'https://cdn.jsdelivr.net/gh/shishizhihao0-afk/meizhuang@main';
 let allArticles = [];
 let currentFilter = 'all';
 let currentSearch = '';
@@ -154,7 +154,10 @@ let currentSearch = '';
 function fixImgUrl(url) {
   if (!url) return '';
   if (url.startsWith('/imagesArticleUploads/')) {
-    return RAW_BASE + url;
+    return IMG_BASE + url;
+  }
+  if (url.includes('raw.githubusercontent.com/shishizhihao0-afk/meizhuang/main')) {
+    return url.replace('https://raw.githubusercontent.com/shishizhihao0-afk/meizhuang/main', IMG_BASE);
   }
   return url;
 }
