@@ -146,9 +146,18 @@ body{font-family:var(--font-body);background:var(--bg);color:var(--fg);line-heig
 
 <script>
 const DATA_URL = 'beauty_articles_reviewed.json';
+const RAW_BASE = 'https://raw.githubusercontent.com/shishizhihao0-afk/meizhuang/main';
 let allArticles = [];
 let currentFilter = 'all';
 let currentSearch = '';
+
+function fixImgUrl(url) {
+  if (!url) return '';
+  if (url.startsWith('/imagesArticleUploads/')) {
+    return RAW_BASE + url;
+  }
+  return url;
+}
 
 async function loadData() {
   try {
@@ -199,7 +208,7 @@ function renderArticles() {
 
   noResults.style.display = 'none';
   grid.innerHTML = filtered.map((a, i) => {
-    const coverUrl = a.cover && a.cover[0] ? a.cover[0].url : '';
+    const coverUrl = fixImgUrl(a.cover && a.cover[0] ? a.cover[0].url : '');
     const category = getFilterCategory(a);
     return `
       <div class="article-card" style="animation-delay:${Math.min(i * 0.04, 1)}s" onclick="openArticle(${allArticles.indexOf(a)})">
@@ -220,9 +229,13 @@ function openArticle(idx) {
   const a = allArticles[idx];
   if (!a) return;
   const body = document.getElementById('modalBody');
-  const coverUrl = a.cover && a.cover[0] ? a.cover[0].url : '';
+  const coverUrl = fixImgUrl(a.cover && a.cover[0] ? a.cover[0].url : '');
   const category = getFilterCategory(a);
   const keywords = (a.keywords || '').split(',').map(k => k.trim()).filter(Boolean);
+  
+  // Fix content image URLs too
+  let content = a.content || '';
+  content = content.replace(/src="\/imagesArticleUploads\//g, 'src="' + RAW_BASE + '/imagesArticleUploads/');
   
   body.innerHTML = `
     <img class="modal-cover" src="${coverUrl}" alt="${escHtml(a.title)}" onerror="this.style.background='#e8e0d8'">
@@ -234,7 +247,7 @@ function openArticle(idx) {
     </div>
     ${keywords.length ? `<div class="modal-keywords">${keywords.map(k => `<span>${escHtml(k)}</span>`).join('')}</div>` : ''}
     <div class="modal-desc">${escHtml(a.description || '')}</div>
-    <div class="article-content">${a.content || ''}</div>
+    <div class="article-content">${content}</div>
   `;
   
   document.getElementById('modal').classList.add('open');
