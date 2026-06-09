@@ -1,8 +1,0 @@
-# Ignore non-essential files
-*.py
-*.json.bak
-check_report.json
-full_check_report.json
-review_report.json
-final_check_report.json
-.DS_Store
